@@ -1,0 +1,4 @@
+# Cloudflare Pages headers.
+# Long-cache immutable hashed Next.js assets; HTML stays short-lived.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable

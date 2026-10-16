@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local working assets: production images are served from Cloudinary (see docs/00-PROJECT.md)
+/public/covers/
+/public/pins/
