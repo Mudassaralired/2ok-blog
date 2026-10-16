@@ -71,6 +71,10 @@ export const metadata: Metadata = {
   alternates: { canonical: SITE_URL },
 };
 
+// Google Analytics 4 — Measurement ID is a public identifier (visible in
+// page source by design), so it is hardcoded. Property: "2ok.lol".
+const GA_MEASUREMENT_ID = "G-LS57Y0MYH7";
+
 // AdSense loader: only included once an ad client ID is configured.
 // Until then the site ships zero ad code (see components/AdSlot.tsx).
 const AD_CLIENT = process.env.NEXT_PUBLIC_ADSENSE_CLIENT;
@@ -86,6 +90,17 @@ export default function RootLayout({
       className={`${display.variable} ${bodyFont.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col">
+        <Script
+          async
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '${GA_MEASUREMENT_ID}');`}
+        </Script>
         {AD_CLIENT && (
           <Script
             async
