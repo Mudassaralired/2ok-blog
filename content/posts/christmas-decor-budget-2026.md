@@ -56,6 +56,9 @@ Thin orange slices, baked low and slow, strung on twine. Against green they look
 
 **Mistake to avoid:** above 120°C the edges brown and look burnt instead of amber. Cool completely before stringing — warm slices tear.
 
+![Hands threading dried orange slices onto twine for a DIY Christmas garland](https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto,w_1200/2ok-blog/christmas-decor-budget-2026/orange-garland-process.jpg)
+
+
 ## 4. Candle clusters beat everything
 
 Candles grouped in odd numbers (3–5–7) on a tray or mirror: white pillars, red tapers, tea lights. Grouped, not scattered — grouping is where the magic is.
@@ -87,6 +90,9 @@ Garland + candles + stockings + one statement piece. Symmetry at the ends, somet
 **Cost:** garland foraged or $8–$12; stockings $3–$5 each (or free from old sweaters); thrifted statement piece $5–$10 (mirror, framed print, big branch in a vase). Total: $10–$25. **Time:** 30–45 minutes. Swag the garland with a gentle dip; secure with removable hooks ($4). Statement piece 50–60 cm tall, dead center.
 
 **Mistake to avoid:** cramming every centimeter reads as clutter — four categories, breathing room between them. With a working fireplace, keep greenery and stockings well clear of the firebox.
+
+![Budget Christmas mantel with fresh pine garland, knit stockings and brass candlesticks](https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto,w_1200/2ok-blog/christmas-decor-budget-2026/mantel-greenery.jpg)
+
 
 ## 8. Wrap with brown paper
 

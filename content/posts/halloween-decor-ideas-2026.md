@@ -40,6 +40,9 @@ Forget carving. Group pumpkins of different sizes and colors — white, deep gre
 
 **Mistake to avoid:** don't set pumpkins on wet soil — they'll rot from the bottom in days. Put a tray or board underneath. Skip carving: uncarved pumpkins last 4–6 weeks, carved ones about a week.
 
+![Moody pumpkin cluster on stone porch steps with dried corn stalks and glowing candle at dusk](https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto,w_1200/2ok-blog/halloween-decor-ideas-2026/pumpkin-cluster-detail.jpg)
+
+
 ## 2. Candlelight everywhere
 
 Cluster pillar candles of varying heights (10, 15, 20 cm) on a tray, add black tapers in brass holders, and let the shadows decorate. **Cost:** pillars $1–$3 each at discount stores; thrifted tray ~$5; brass holders $2–$4 each. A full cluster: $15–$25. **Time:** 15 minutes.
@@ -47,6 +50,9 @@ Cluster pillar candles of varying heights (10, 15, 20 cm) on a tray, add black t
 The safer option: battery candles with timers (~$12–$15 for 6) look real through frosted glass — the right call with kids, pets, or dried florals nearby.
 
 **Mistake to avoid:** never place real flames near dried florals or eucalyptus, always keep 30 cm clear, and never leave them unattended. Group in odd numbers; even groupings look stiff.
+
+![Elegant Halloween candlelight cluster with ivory pillar candles and black tapers in brass holders](https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto,w_1200/2ok-blog/halloween-decor-ideas-2026/candlelight-detail.jpg)
+
 
 ## 3. Dried florals in dark tones
 

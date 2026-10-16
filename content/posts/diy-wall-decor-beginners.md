@@ -39,6 +39,9 @@ Use washi tape or painter's tape to frame prints directly on the wall — no fra
 
 **Mistake to avoid:** hanging prints too high is the #1 gallery wall error — when in doubt, go lower. And don't mix ten different tape colors; one tape color unifies everything. In a [small living room](/blog/small-living-room-ideas), keep the arrangement tight and vertical so it draws the eye up instead of sprawling sideways.
 
+![DIY gallery wall with thrifted frames, botanical prints and textured plaster art](https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-wall-decor-beginners/gallery-wall.jpg)
+
+
 ## 2. Fabric wall hanging
 
 A beautiful piece of fabric, a wooden dowel, and some string — that's a wall hanging. It adds softness and texture that framed prints can't, and it takes minutes.
@@ -118,6 +121,9 @@ Sometimes the easiest DIY is a print job: have a favorite photo or abstract desi
 - **Mock it up first** with paper templates taped to the wall before any nails. Live with the templates for a day.
 - **Cohesion beats matching** — pieces don't need to match, they need a common thread: a color, a frame style, or a mood.
 - **Start with one wall, one project.** Done is better than perfect — you can always rearrange next weekend.
+
+![Hands applying textured plaster with a palette knife for DIY plaster wall art](https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-wall-decor-beginners/plaster-art-process.jpg)
+
 
 ## Frequently asked questions
 

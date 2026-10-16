@@ -65,6 +65,9 @@ Floor space is limited; wall space isn't. Tall bookshelves, vertical art arrange
 
 **Mistake to avoid:** curtains hung at the frame's top edge visually chop the wall in half — the single most common small-room error. And don't stop art at eye level only: one tall vertical arrangement (or a stack of two frames) pulls the gaze up. For renter-friendly art ideas that need zero nails, see our [beginner DIY wall decor guide](/blog/diy-wall-decor-beginners).
 
+![Small living room with floor-to-ceiling sheer curtains hung high to make the ceiling feel taller](https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-living-room-ideas/curtains-high.jpg)
+
+
 ## 4. Mirror with intention
 
 One large mirror opposite a window doubles your light and your view. Skip the gallery wall of tiny mirrors — a single generous mirror has ten times the impact.
@@ -76,6 +79,9 @@ One large mirror opposite a window doubles your light and your view. Skip the ga
 **Time:** 20 minutes to hang or position.
 
 **Mistake to avoid:** don't hang a mirror where it reflects clutter — it doubles the mess, not the space. Angle it to catch the window, a plant, or art. And never opposite another mirror unless you want an infinity tunnel (fun at carnivals, unsettling in living rooms).
+
+![Large round brass-framed mirror reflecting window light in a small living room](https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-living-room-ideas/mirror-detail.jpg)
+
 
 ## 5. Choose legs over bulk
 
