@@ -22,7 +22,7 @@ This is the companion to our [small living room ideas guide](/blog/small-living-
 - [The 3 numbers that rule every layout](#the-3-numbers-that-rule-every-layout)
 - [Recipe 1: The Straight Shot](#recipe-1-the-straight-shot)
 - [Recipe 2: The Corner TV](#recipe-2-the-corner-tv)
-- [Recipe 3: TV + Fireplace](#recipe-3-tv-fireplace)
+- [Recipe 3: TV + Fireplace](#recipe-3-tv--fireplace)
 - [Recipe 4: The Narrow Room](#recipe-4-the-narrow-room)
 - [Renters: the no-drill versions](#renters-the-no-drill-versions)
 - [The takeaway](#the-takeaway)
