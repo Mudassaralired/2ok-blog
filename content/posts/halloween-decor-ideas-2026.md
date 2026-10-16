@@ -46,7 +46,7 @@ Cluster pillar candles of varying heights (10, 15, 20 cm) on a tray, add black t
 
 The safer option: battery candles with timers (~$12–$15 for 6) look real through frosted glass — the right call with kids, pets, or dried florals nearby.
 
-**Mistake to avoid:** never place real flames near dried florals or eucalyptus, keep 30 cm clear, and never leave them unattended. Group in odd numbers; even groupings look stiff.
+**Mistake to avoid:** never place real flames near dried florals or eucalyptus, always keep 30 cm clear, and never leave them unattended. Group in odd numbers; even groupings look stiff.
 
 ## 3. Dried florals in dark tones
 
@@ -130,7 +130,7 @@ Simmer orange slices, cinnamon sticks, cloves, and vanilla in water on the stove
 
 ## The takeaway
 
-Elegant Halloween decor isn't about buying more — it's about choosing **natural over plastic, candlelight over neon, and texture over clutter**. The whole look lands between $30 and $60 and one relaxed weekend. That's the real secret of the homes you admire: restraint, not spending.
+Elegant Halloween decor isn't about buying more — it's about choosing **natural over plastic, candlelight over neon, and texture over clutter**. The whole look lands between $30 and $60 and takes just one relaxed weekend. That's the real secret of the homes you admire: restraint, not spending.
 
 ## Frequently asked questions
 
