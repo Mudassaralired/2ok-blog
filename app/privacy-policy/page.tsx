@@ -1,15 +1,23 @@
 import type { Metadata } from "next";
 
+const SITE_URL = "https://2ok.lol";
+
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description: "Privacy Policy for 2ok Home — what data we collect and how we use it.",
   robots: { index: true, follow: true },
+  openGraph: {
+    title: "Privacy Policy | 2ok Home",
+    description: "Privacy Policy for 2ok Home — what data we collect and how we use it.",
+    url: `${SITE_URL}/privacy-policy`,
+  },
+  alternates: { canonical: `${SITE_URL}/privacy-policy` },
 };
 
 export default function PrivacyPolicyPage() {
   return (
     <div className="mx-auto max-w-3xl px-5 py-14 md:py-20">
-      <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay">
+      <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay-dark">
         Legal
       </p>
       <h1 className="mt-3 font-display text-4xl font-bold tracking-tight md:text-5xl">

@@ -1,15 +1,25 @@
 import type { Metadata } from "next";
+import Link from "next/link";
+
+const SITE_URL = "https://2ok.lol";
 
 export const metadata: Metadata = {
   title: "About",
   description:
     "About 2ok Home — simple, warm home decor and DIY ideas for real homes and real budgets.",
+  openGraph: {
+    title: "About | 2ok Home",
+    description:
+      "About 2ok Home — simple, warm home decor and DIY ideas for real homes and real budgets.",
+    url: `${SITE_URL}/about`,
+  },
+  alternates: { canonical: `${SITE_URL}/about` },
 };
 
 export default function AboutPage() {
   return (
     <div className="mx-auto max-w-3xl px-5 py-14 md:py-20">
-      <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay">
+      <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay-dark">
         About
       </p>
       <h1 className="mt-3 font-display text-4xl font-bold tracking-tight md:text-5xl">
@@ -54,6 +64,15 @@ export default function AboutPage() {
           it&apos;s because we&apos;d use it in our own homes. If an article
           ever contains affiliate links, we&apos;ll tell you — see our{" "}
           <a href="/disclaimer">Disclaimer</a> for details.
+        </p>
+        <h2>About the author</h2>
+        <p>
+          2ok Home is written by{" "}
+          <a href="/author/mudassar-ali">Mudassar Ali</a>, a home decor and
+          DIY enthusiast who believes beautiful rooms don&apos;t need big
+          budgets — just light, texture, and small intentional choices.
+          Mudassar tests every idea for real homes and real beginners, and
+          shares the ones that actually work.
         </p>
         <p>
           Have an idea, a question, or a room you&apos;d like help with?{" "}

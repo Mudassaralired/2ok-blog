@@ -20,6 +20,8 @@ const bodyFont = Inter({
 const SITE_URL = "https://2ok.lol";
 const SITE_NAME = "2ok Home";
 const TAGLINE = "Home Decor & DIY Ideas";
+const DEFAULT_OG =
+  "https://res.cloudinary.com/knb4zxgu/image/upload/w_1200,h_630,c_fill/f_auto,q_auto/2ok-blog/small-living-room-ideas.jpg";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -37,7 +39,12 @@ export const metadata: Metadata = {
     "budget decorating",
     "small space decor",
   ],
-  authors: [{ name: SITE_NAME }],
+  authors: [
+    { name: "Mudassar Ali", url: `${SITE_URL}/author/mudassar-ali` },
+  ],
+  icons: {
+    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
+  },
   openGraph: {
     type: "website",
     siteName: SITE_NAME,
@@ -45,17 +52,23 @@ export const metadata: Metadata = {
     description:
       "Simple, warm home decor and DIY ideas you can actually do.",
     url: SITE_URL,
+    images: [
+      { url: DEFAULT_OG, width: 1200, height: 630, alt: "2ok Home — Home Decor & DIY Ideas" },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: `${SITE_NAME} — ${TAGLINE}`,
     description:
       "Simple, warm home decor and DIY ideas you can actually do.",
+    images: [DEFAULT_OG],
   },
   robots: {
     index: true,
     follow: true,
+    "max-image-preview": "large",
   },
+  alternates: { canonical: SITE_URL },
 };
 
 // AdSense loader: only included once an ad client ID is configured.

@@ -1,11 +1,25 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getAllPosts, getPost, formatDate, slugify } from "@/lib/posts";
+import {
+  getAllPosts,
+  getPost,
+  formatDate,
+  slugify,
+  coverAlt,
+  ogImageFor,
+  SITE_URL,
+} from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 import AdSlot from "@/components/AdSlot";
 
-const SITE_URL = "https://2ok.lol";
+const AUTHOR = {
+  name: "Mudassar Ali",
+  url: `${SITE_URL}/author/mudassar-ali`,
+  jobTitle: "Founder & Editor, 2ok Home",
+  knowsAbout: ["Home Decor", "DIY", "Interior Styling", "Budget Decorating"],
+  sameAs: ["https://www.instagram.com/2ok.home/"],
+};
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -21,6 +35,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await getPost(slug);
   if (!post) return {};
   const url = `${SITE_URL}/blog/${post.meta.slug}`;
+  const ogImage = ogImageFor(post.meta.slug);
   return {
     title: post.meta.title,
     description: post.meta.excerpt,
@@ -31,12 +46,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: post.meta.excerpt,
       url,
       publishedTime: post.meta.date,
-      images: [{ url: post.meta.cover, width: 800, height: 500 }],
+      authors: [AUTHOR.name],
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+          alt: coverAlt(post.meta.slug, post.meta.title),
+        },
+      ],
     },
     twitter: {
       card: "summary_large_image",
       title: post.meta.title,
       description: post.meta.excerpt,
+      images: [ogImage],
     },
     alternates: { canonical: url },
   };
@@ -47,25 +71,99 @@ export default async function ArticlePage({ params }: Props) {
   const post = await getPost(slug);
   if (!post) notFound();
 
-  const { meta, contentHtml } = post;
-  const related = getAllPosts()
-    .filter((p) => p.slug !== meta.slug && p.category === meta.category)
-    .slice(0, 3);
-  const fallbackRelated = getAllPosts()
-    .filter((p) => p.slug !== meta.slug)
-    .slice(0, 3);
-  const showRelated = related.length > 0 ? related : fallbackRelated;
+  const { meta, contentHtml, headings } = post;
+  const articleUrl = `${SITE_URL}/blog/${meta.slug}`;
+  const categoryUrl = `${SITE_URL}/category/${slugify(meta.category)}`;
+
+  // Up to 3 related cards: same category first, then fill with other posts.
+  const allOthers = getAllPosts().filter((p) => p.slug !== meta.slug);
+  const sameCategory = allOthers.filter((p) => p.category === meta.category);
+  const related = [
+    ...sameCategory,
+    ...allOthers.filter((p) => p.category !== meta.category),
+  ].slice(0, 3);
+
+  const coverImage = ogImageFor(meta.slug);
 
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    headline: meta.title,
-    description: meta.excerpt,
-    datePublished: meta.date,
-    author: { "@type": "Organization", name: "2ok Home" },
-    publisher: { "@type": "Organization", name: "2ok Home" },
-    mainEntityOfPage: `${SITE_URL}/blog/${meta.slug}`,
-    image: `${SITE_URL}${meta.cover}`,
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "@id": `${articleUrl}#article`,
+        headline: meta.title,
+        description: meta.excerpt,
+        datePublished: meta.date,
+        dateModified: meta.date,
+        author: {
+          "@type": "Person",
+          "@id": `${AUTHOR.url}#person`,
+          name: AUTHOR.name,
+          url: AUTHOR.url,
+          jobTitle: AUTHOR.jobTitle,
+          knowsAbout: AUTHOR.knowsAbout,
+          sameAs: AUTHOR.sameAs,
+        },
+        publisher: {
+          "@type": "Organization",
+          "@id": `${SITE_URL}#organization`,
+          name: "2ok Home",
+          url: SITE_URL,
+        },
+        mainEntityOfPage: articleUrl,
+        image: {
+          "@type": "ImageObject",
+          "@id": `${articleUrl}#primaryimage`,
+          url: coverImage,
+          width: 1200,
+          height: 630,
+          creator: { "@type": "Organization", name: "2ok Home" },
+          creditText: "2ok Home",
+          copyrightNotice: "© 2026 2ok Home",
+        },
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${articleUrl}#breadcrumb`,
+        itemListElement: [
+          {
+            "@type": "ListItem",
+            position: 1,
+            name: "Home",
+            item: SITE_URL,
+          },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: "Blog",
+            item: `${SITE_URL}/blog`,
+          },
+          {
+            "@type": "ListItem",
+            position: 3,
+            name: meta.category,
+            item: categoryUrl,
+          },
+          {
+            "@type": "ListItem",
+            position: 4,
+            name: meta.title,
+            item: articleUrl,
+          },
+        ],
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${articleUrl}#contents`,
+        name: `In this article: ${meta.title}`,
+        itemListElement: headings.map((h, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: h.text,
+          url: `${articleUrl}#${h.id}`,
+        })),
+      },
+    ],
   };
 
   return (
@@ -75,7 +173,7 @@ export default async function ArticlePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      <nav className="text-xs font-medium text-stone-warm">
+      <nav className="text-xs font-medium text-stone-warm" aria-label="Breadcrumb">
         <Link href="/" className="hover:text-clay-dark">Home</Link>
         {" / "}
         <Link href="/blog" className="hover:text-clay-dark">Blog</Link>
@@ -92,12 +190,26 @@ export default async function ArticlePage({ params }: Props) {
         {meta.title}
       </h1>
       <p className="mt-4 text-lg leading-relaxed text-ink-soft">{meta.excerpt}</p>
-      <p className="mt-5 text-xs font-medium uppercase tracking-[0.14em] text-stone-warm">
+      <p className="mt-5 text-sm font-medium text-ink">
+        By{" "}
+        <Link
+          href="/author/mudassar-ali"
+          className="font-semibold text-clay-dark underline underline-offset-2 hover:text-clay"
+        >
+          Mudassar Ali
+        </Link>
+      </p>
+      <p className="mt-2 text-xs font-medium uppercase tracking-[0.14em] text-stone-warm">
         {formatDate(meta.date)} · {meta.readingTime} min read · {meta.category}
       </p>
 
       <div className="mt-8 overflow-hidden rounded-2xl border border-ink/10">
-        <img src={meta.cover} alt={meta.title} className="w-full object-cover" />
+        <img
+          src={meta.cover}
+          alt={coverAlt(meta.slug, meta.title)}
+          className="w-full object-cover"
+          fetchPriority="high"
+        />
       </div>
 
       {/* In-article ad placement — invisible until ads are configured. */}
@@ -107,6 +219,34 @@ export default async function ArticlePage({ params }: Props) {
         className="article-body mt-8"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
+
+      {/* Author box */}
+      <div className="mt-12 flex items-start gap-5 rounded-2xl border border-ink/10 bg-parchment p-7">
+        <span
+          aria-hidden="true"
+          className="grid h-16 w-16 shrink-0 place-items-center rounded-full bg-clay font-display text-2xl font-bold text-cream"
+        >
+          MA
+        </span>
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-[0.18em] text-stone-warm">
+            Written by
+          </p>
+          <p className="mt-1 font-display text-xl font-bold">
+            <Link
+              href="/author/mudassar-ali"
+              className="hover:text-clay-dark"
+            >
+              Mudassar Ali
+            </Link>
+          </p>
+          <p className="mt-2 text-sm leading-relaxed text-ink-soft">
+            Founder of 2ok Home. Mudassar writes practical, budget-friendly
+            home decor and DIY guides — real ideas for real homes, tested for
+            beginners.
+          </p>
+        </div>
+      </div>
 
       {/* Bottom ad placement — invisible until ads are configured. */}
       <AdSlot slot="BOTTOM_SLOT_ID" label="Bottom" className="my-10" />
@@ -127,13 +267,13 @@ export default async function ArticlePage({ params }: Props) {
         </Link>
       </div>
 
-      {showRelated.length > 0 && (
+      {related.length > 0 && (
         <section className="mt-14">
           <h2 className="font-display text-2xl font-bold tracking-tight">
             Keep reading
           </h2>
           <div className="mt-6 grid gap-7 md:grid-cols-3">
-            {showRelated.map((p) => (
+            {related.map((p) => (
               <PostCard key={p.slug} post={p} />
             ))}
           </div>

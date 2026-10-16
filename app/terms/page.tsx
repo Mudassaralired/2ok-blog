@@ -1,15 +1,23 @@
 import type { Metadata } from "next";
 
+const SITE_URL = "https://2ok.lol";
+
 export const metadata: Metadata = {
   title: "Terms of Use",
   description: "Terms of Use for 2ok Home.",
   robots: { index: true, follow: true },
+  openGraph: {
+    title: "Terms of Use | 2ok Home",
+    description: "Terms of Use for 2ok Home.",
+    url: `${SITE_URL}/terms`,
+  },
+  alternates: { canonical: `${SITE_URL}/terms` },
 };
 
 export default function TermsPage() {
   return (
     <div className="mx-auto max-w-3xl px-5 py-14 md:py-20">
-      <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay">
+      <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay-dark">
         Legal
       </p>
       <h1 className="mt-3 font-display text-4xl font-bold tracking-tight md:text-5xl">

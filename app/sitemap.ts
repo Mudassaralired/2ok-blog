@@ -15,9 +15,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
+  // Listing pages: use the newest post date as a stable lastModified.
+  // (new Date() per build would make Google ignore the signal.)
+  const newestPost = posts.length > 0 ? posts[0].lastModified : new Date("2026-10-16");
+
   const categories = getAllCategories().map((c) => ({
     url: `${SITE_URL}/category/${c.slug}`,
-    lastModified: new Date(),
+    lastModified: newestPost,
     changeFrequency: "weekly" as const,
     priority: 0.5,
   }));
@@ -25,13 +29,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
       url: SITE_URL,
-      lastModified: new Date(),
+      lastModified: newestPost,
       changeFrequency: "daily",
       priority: 1,
     },
     {
       url: `${SITE_URL}/blog`,
-      lastModified: new Date(),
+      lastModified: newestPost,
       changeFrequency: "daily",
       priority: 0.9,
     },
@@ -39,15 +43,33 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...posts,
     {
       url: `${SITE_URL}/about`,
-      lastModified: new Date(),
+      lastModified: new Date("2026-10-16"),
       changeFrequency: "monthly",
       priority: 0.5,
     },
     {
       url: `${SITE_URL}/contact`,
-      lastModified: new Date(),
+      lastModified: new Date("2026-10-16"),
       changeFrequency: "monthly",
       priority: 0.5,
+    },
+    {
+      url: `${SITE_URL}/privacy-policy`,
+      lastModified: new Date("2026-10-16"),
+      changeFrequency: "monthly",
+      priority: 0.3,
+    },
+    {
+      url: `${SITE_URL}/terms`,
+      lastModified: new Date("2026-10-16"),
+      changeFrequency: "monthly",
+      priority: 0.3,
+    },
+    {
+      url: `${SITE_URL}/disclaimer`,
+      lastModified: new Date("2026-10-16"),
+      changeFrequency: "monthly",
+      priority: 0.3,
     },
   ];
 }

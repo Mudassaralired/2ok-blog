@@ -3,6 +3,8 @@ import { notFound } from "next/navigation";
 import { getAllCategories, postsInCategory } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 
+const SITE_URL = "https://2ok.lol";
+
 type Props = { params: Promise<{ category: string }> };
 
 export async function generateStaticParams() {
@@ -15,9 +17,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { category } = await params;
   const cat = getAllCategories().find((c) => c.slug === category);
   if (!cat) return {};
+  const description = `Home decor articles about ${cat.name.toLowerCase()} — ideas, tips, and DIY projects from 2ok Home.`;
+  const url = `${SITE_URL}/category/${cat.slug}`;
   return {
     title: `${cat.name} ideas`,
-    description: `Home decor articles about ${cat.name.toLowerCase()} — ideas, tips, and DIY projects from 2ok Home.`,
+    description,
+    openGraph: {
+      title: `${cat.name} ideas | 2ok Home`,
+      description,
+      url,
+    },
+    alternates: { canonical: url },
   };
 }
 
@@ -29,7 +39,7 @@ export default async function CategoryPage({ params }: Props) {
 
   return (
     <div className="mx-auto max-w-6xl px-5 py-14 md:py-20">
-      <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay">
+      <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay-dark">
         Topic
       </p>
       <h1 className="mt-3 font-display text-4xl font-bold tracking-tight md:text-5xl">

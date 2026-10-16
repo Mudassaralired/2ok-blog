@@ -12,7 +12,7 @@ export default function HomePage() {
     <div>
       {/* Hero */}
       <section className="mx-auto max-w-6xl px-5 pb-14 pt-16 md:pt-24">
-        <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay">
+        <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay-dark">
           Home decor &amp; DIY ideas
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-4xl font-bold leading-[1.1] tracking-tight md:text-6xl">
@@ -54,7 +54,7 @@ export default function HomePage() {
               />
             </div>
             <div className="flex flex-col justify-center p-8 md:p-12">
-              <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-clay">
+              <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-clay-dark">
                 Featured · {featured.category}
               </p>
               <h2 className="mt-3 font-display text-3xl font-bold leading-tight tracking-tight group-hover:text-clay-dark md:text-4xl">
