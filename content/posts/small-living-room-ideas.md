@@ -31,7 +31,7 @@ Here's what designers know: a compact room done well feels **cozier, warmer, and
 
 ## 1. Float your furniture
 
-Pushing everything against the walls actually makes a room feel smaller — it creates a dead "dance floor" in the middle and makes the walls feel like they're closing in. Pull the sofa even 10 cm off the wall and suddenly there's breathing room: the eye reads the gap as space.
+Pushing everything against the walls actually makes a room feel smaller — it leaves a hollow, unused middle while the walls seem to press inward. Pull the sofa even 10 cm off the wall and suddenly there's breathing room: the eye reads the gap as space.
 
 **How to do it:** pull the sofa 10–15 cm away from the wall. Angle one armchair slightly instead of lining everything up like soldiers. Leave at least 75 cm of walkway through the main traffic path.
 
