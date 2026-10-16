@@ -17,9 +17,13 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-ink/10 bg-cream/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
         <Link href="/" className="flex items-center gap-2.5">
-          <span className="grid h-10 w-10 place-items-center rounded-xl bg-clay font-display text-xl font-bold text-cream">
-            2
-          </span>
+          <img
+            src="/logo-mark.svg"
+            alt="2ok Home logo"
+            width={40}
+            height={40}
+            className="h-10 w-10"
+          />
           <span className="leading-tight">
             <span className="block font-display text-xl font-bold tracking-tight">
               2ok Home
