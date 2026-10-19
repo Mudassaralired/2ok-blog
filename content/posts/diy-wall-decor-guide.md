@@ -4,6 +4,7 @@ date: "2026-10-20"
 excerpt: "The ultimate DIY wall decor guide: 40+ ideas across 7 techniques — plaster art, gallery walls, macrame, thrifted frames — with costs, tools, and tutorials."
 category: "DIY Projects"
 cluster: "wall-decor"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-guide/cover"
 ---
 
 Bare walls make even a well-furnished room feel unfinished. The fix doesn't require a gallery budget — it requires a Saturday, basic tools, and knowing which technique fits your skill level. This guide covers everything: 40+ DIY wall decor ideas across 7 core techniques, real costs, the tools worth buying, color and hanging rules, and the mistakes that separate "handmade" from "homemade-looking." Every technique links to a full step-by-step tutorial.
@@ -39,6 +40,9 @@ Three reasons, in order of how much they matter:
 **3. Skill compounds.** Your third plaster piece will embarrass your first — and that's the point. Wall decor techniques share fundamentals (composition, texture, color), so every project makes the next one better. Six months of weekend projects builds a genuine skill, not just a decorated apartment.
 
 ## The 7 core DIY wall decor techniques
+
+![Hands spreading joint compound onto a canvas with a putty knife](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-guide/in-article-1)
+
 
 Everything below links to a full tutorial. Read the summaries, pick one lane, and go deep before trying the next.
 
@@ -140,6 +144,9 @@ Color decisions make or break DIY art more than technique does. Four rules:
 **4. Test at scale.** A color that looks perfect on a 10 cm swatch can overwhelm at 60×80 cm. Paint a large piece of cardboard, prop it on the wall, and live with it for 24 hours before committing.
 
 ## Hanging and placement rules
+
+![Hallway gallery wall of six mismatched thrifted frames in black and white](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-guide/in-article-2)
+
 
 Good art hung badly looks like bad art. The rules professionals actually use:
 

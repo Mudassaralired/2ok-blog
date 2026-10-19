@@ -4,7 +4,7 @@ date: "2026-10-17"
 excerpt: "7 Christmas tree alternatives for small apartments with exact footprints and costs — wall trees, pencil trees, tabletop minis. Big holiday feel, tiny footprint."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/christmas-tree-alternatives-small-apartments.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-tree-alternatives/cover"
 ---
 
 A full-size Christmas tree needs about a square meter of floor space. In a small apartment, that's not decoration — that's a roommate. But skipping the tree entirely feels like skipping Christmas, so here are 7 Christmas tree alternatives for small apartments, each with its exact footprint so you know before you buy whether it fits.

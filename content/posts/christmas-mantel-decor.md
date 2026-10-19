@@ -4,7 +4,7 @@ date: "2026-10-17"
 excerpt: "Christmas mantel decor on a budget: 3 complete styled looks under $20 each — warm neutral, traditional, and woodland — plus the no-fireplace console version."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/christmas-mantel-decor-budget.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-mantel-decor/cover"
 ---
 
 The mantel is the face of your Christmas home. It's what guests see first, what shows up in photos, and — if we're honest — what you're really decorating for. The good news: a stunning Christmas mantel doesn't need a big budget. It needs a formula and about twenty dollars.

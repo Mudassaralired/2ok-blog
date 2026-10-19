@@ -4,7 +4,7 @@ date: "2026-10-14"
 excerpt: "10 beautiful Christmas decor ideas for under $50 total — foraged greenery, candlelight, and smart styling. Warmth beats spending."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/christmas-decor-budget-2026.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/budget-christmas-decor/cover"
 ---
 
 Imagine your living room on a December evening: the tree glowing warm white, fresh pine on the mantel, candlelight flickering, the house smelling faintly of cinnamon and oranges. Now imagine the whole look cost less than a restaurant dinner.

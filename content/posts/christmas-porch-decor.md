@@ -4,7 +4,7 @@ date: "2026-10-17"
 excerpt: "Christmas porch decor on a budget: 9 ideas for under $30 total — layered doormats, foraged planters, warm window lights, and a wreath that looks expensive."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/christmas-porch-decor-budget.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-porch-decor/cover"
 ---
 
 Your porch is the handshake of your home at Christmas. It's the first thing guests see, the backdrop of every "we're here!" photo, and the one area where a little effort pays off enormously — because nobody expects much, so anything thoughtful looks like a lot.

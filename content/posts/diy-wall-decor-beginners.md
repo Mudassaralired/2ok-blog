@@ -4,7 +4,7 @@ date: "2026-10-08"
 excerpt: "7 beginner DIY wall decor projects you can finish in a weekend — no special skills needed. Gallery walls, hoop art, painted arches & more."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-beginners.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-beginners/cover"
 ---
 
 Blank walls make a home feel unfinished — but real art is expensive, and putting holes in the wall is scary when you're not sure what you're doing. Here's the good news: these 7 projects need no special skills, no power tools, and most cost under $20. Each one includes exact materials, time, and the mistakes to skip.
