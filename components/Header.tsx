@@ -10,6 +10,13 @@ const NAV = [
   { href: "/contact", label: "Contact" },
 ];
 
+
+const TOPICS = [
+  { href: "/topics/wall-decor", label: "DIY Wall Decor" },
+  { href: "/topics/small-living-room", label: "Small Living Room" },
+  { href: "/topics/christmas-decor", label: "Christmas Decor" },
+];
+
 export default function Header() {
   const [open, setOpen] = useState(false);
 
@@ -73,6 +80,24 @@ export default function Header() {
           <span className="text-xl leading-none">{open ? "✕" : "☰"}</span>
         </button>
       </div>
+
+      {/* Topics strip — one-click filter to topic hubs */}
+      <nav aria-label="Topics" className="border-t border-ink/10 bg-sand/60">
+        <div className="mx-auto flex max-w-6xl items-center gap-6 overflow-x-auto px-5 py-2.5">
+          <span className="shrink-0 text-[11px] font-semibold uppercase tracking-[0.16em] text-stone-warm">
+            Topics
+          </span>
+          {TOPICS.map((t) => (
+            <Link
+              key={t.href}
+              href={t.href}
+              className="shrink-0 text-sm font-medium text-ink-soft transition-colors hover:text-clay-dark"
+            >
+              {t.label}
+            </Link>
+          ))}
+        </div>
+      </nav>
 
       {open && (
         <nav className="border-t border-ink/10 bg-cream px-5 py-4 md:hidden">

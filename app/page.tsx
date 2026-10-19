@@ -72,6 +72,26 @@ export default function HomePage() {
         </section>
       )}
 
+      {/* Latest */}
+      <section className="mx-auto max-w-6xl px-5 py-16">
+        <div className="flex items-end justify-between">
+          <h2 className="font-display text-2xl font-bold tracking-tight md:text-3xl">
+            Latest ideas
+          </h2>
+          <Link
+            href="/blog"
+            className="text-sm font-semibold text-clay-dark underline underline-offset-4 hover:text-clay"
+          >
+            View all
+          </Link>
+        </div>
+        <div className="mt-8 grid gap-7 md:grid-cols-3">
+          {latest.map((p) => (
+            <PostCard key={p.slug} post={p} />
+          ))}
+        </div>
+      </section>
+
       {/* Topics — topical authority hubs */}
       <section id="topics" className="border-y border-ink/10 bg-sand/60">
         <div className="mx-auto max-w-6xl px-5 py-14">
@@ -109,26 +129,6 @@ export default function HomePage() {
                 </Link>
               ))}
           </div>
-        </div>
-      </section>
-
-      {/* Latest */}
-      <section className="mx-auto max-w-6xl px-5 py-16">
-        <div className="flex items-end justify-between">
-          <h2 className="font-display text-2xl font-bold tracking-tight md:text-3xl">
-            Latest ideas
-          </h2>
-          <Link
-            href="/blog"
-            className="text-sm font-semibold text-clay-dark underline underline-offset-4 hover:text-clay"
-          >
-            View all
-          </Link>
-        </div>
-        <div className="mt-8 grid gap-7 md:grid-cols-3">
-          {latest.map((p) => (
-            <PostCard key={p.slug} post={p} />
-          ))}
         </div>
       </section>
 
