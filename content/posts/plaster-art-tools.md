@@ -1,10 +1,9 @@
 ---
 title: "DIY Plaster Art Tools & Materials: The Complete Checklist (2026)"
-date: "2026-10-20"
+date: "2026-10-19"
 excerpt: "Complete DIY plaster art tools & materials checklist: joint compound types, shaping tools, surfaces, sealants — plus 3 budget kit tiers from $15 to $60."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/plaster-art-tools/cover"
 ---
 
 Buying the wrong materials is the most expensive beginner mistake in plaster art — not because the materials cost much, but because the wrong compound or a flimsy canvas ruins the piece and the afternoon. This checklist covers exactly what to buy, what each item does, what to skip, and three budget kit tiers from $15 to $60. Buy once, make a dozen pieces.
@@ -30,9 +29,6 @@ For the technique itself, see the full [DIY plaster wall art tutorial](/blog/diy
 - [The takeaway](#the-takeaway)
 
 ## The compound: what to buy and what to avoid
-
-![Open tub of joint compound with a putty knife](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/plaster-art-tools/in-article-1)
-
 
 This is the single most important buying decision. Get it right and everything else is easy.
 
@@ -105,9 +101,6 @@ Before buying specialty tools, raid the kitchen and toolbox:
 **Buy vs substitute rule:** buy the putty knives (you'll use them every time); substitute everything else until you've made 3+ pieces and know which specialty tools match your style.
 
 ## Prep and finishing supplies
-
-![Wooden picture frame being taped with blue painter's tape](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/plaster-art-tools/in-article-2)
-
 
 ### Primer
 

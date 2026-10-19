@@ -1,10 +1,9 @@
 ---
 title: "Christmas Living Room Decor: 10 Cozy Ideas (2026)"
-date: "2026-10-24"
+date: "2026-10-19"
 excerpt: "Christmas living room decor: 10 cozy ideas for 2026 — tree styling, mantel magic, layered warm lighting, and budget textures that make the whole room glow."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-living-room-decor/cover"
 ---
 
 The living room is where Christmas actually happens — the tree, the gifts, the long evenings. But most Christmas living rooms end up as a tree in a corner plus some scattered decorations that never quite gel. The difference between "we put up decorations" and "it feels like Christmas" is cohesion: one palette, layered light, and texture everywhere. These 10 ideas work in any size living room, most cost little or nothing, and none require design skills.
@@ -34,9 +33,6 @@ Doing Christmas on a tight budget overall? Start with our [budget Christmas deco
 
 ## Idea 1: Light the tree from the inside out
 
-![Hands winding warm-white fairy lights into Christmas tree branches](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-living-room-decor/in-article-1)
-
-
 Cost: **$0–$15** (if you need new lights). Time: 45–60 minutes.
 
 The single biggest tree upgrade costs nothing: push lights deep into the branches, not draped on the tips. Start at the trunk, wind outward, 100 mini lights per 30 cm of tree height. Warm white (2700K) only — multicolor reads chaotic in a living room.
@@ -46,9 +42,6 @@ Fluff every branch first (30 minutes nobody wants to spend, everybody notices wh
 **Mistake to avoid:** the "light necklace" — one strand spiraled around the outside. It lights the room, not the tree. Depth is everything.
 
 ## Idea 2: Style the mantel in layers
-
-![Christmas mantel styled in layers with garland and stockings](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-living-room-decor/in-article-2)
-
 
 Cost: **$0–$20**. Time: 30–45 minutes.
 

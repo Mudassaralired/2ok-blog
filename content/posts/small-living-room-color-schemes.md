@@ -1,10 +1,9 @@
 ---
 title: "Small Living Room Color Schemes: 6 Palettes That Open Up Space"
-date: "2026-10-24"
+date: "2026-10-19"
 excerpt: "6 small living room color schemes that open up space: warm white, sage, blue-gray, terracotta accents, monochrome beige, and one dark accent done right."
 category: "Small Spaces"
 cluster: "small-living-room"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-color-schemes/cover"
 ---
 
 Color is the highest-leverage decision in a small living room. The right palette dissolves boundaries and bounces light; the wrong one chops the room into visual pieces that each feel smaller than the whole. These six schemes are all proven in real small rooms — each with exact shade guidance and what to avoid.
@@ -31,9 +30,6 @@ If you want the deep-dive on individual paint shades first, see our [best paint 
 - [Frequently asked questions](#frequently-asked-questions)
 
 ## The rule behind all six palettes
-
-![Paint swatch cards in warm whites and greiges fanned on a table](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-color-schemes/in-article-1)
-
 
 Every palette below obeys one rule: **keep contrast low between the big surfaces.** When walls, sofa, and rug sit close in lightness, the eye can't find where one ends and the next begins — and a room with no visible boundaries feels bigger than its measurements.
 
@@ -109,9 +105,6 @@ This doesn't mean everything beige. It means the *steps* between colors are smal
 **Best for:** minimalists, and rooms where you want art or a view to be the star — the palette disappears so the focal point shines.
 
 ## 6. Charcoal accent wall, done right
-
-![Living room with charcoal accent wall behind a light sofa](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-color-schemes/in-article-2)
-
 
 **The palette:** one charcoal or deep-green accent wall (LRV 10–20), everything else warm white and light.
 

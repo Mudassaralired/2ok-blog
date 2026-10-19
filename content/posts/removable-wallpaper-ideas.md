@@ -1,10 +1,9 @@
 ---
 title: "Removable Wallpaper Accent Walls: Ideas & Application Tips (2026)"
-date: "2026-10-22"
+date: "2026-10-19"
 excerpt: "Removable wallpaper accent walls: 10 design ideas, pattern-repeat math, bubble-free application steps, and easy clean removal — renter-safe throughout."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/removable-wallpaper-ideas/cover"
 ---
 
 One accent wall of removable wallpaper changes a room more than $500 of scattered decor — the highest visual impact per dollar in home DIY, and the only wall treatment that comes off cleanly for renters. But peel-and-stick has a reputation problem: bubbles, crooked seams, horror stories of paper that wasn't removable. All three are technique problems, not product problems.
@@ -98,9 +97,6 @@ Inside a closet, pantry, or reading nook — pattern where only you see it. Smal
 
 ## Application, step by step
 
-![Hands smoothing peel-and-stick wallpaper with a plastic tool](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/removable-wallpaper-ideas/in-article-1)
-
-
 **Prep (30 minutes):** Clean the wall with a damp cloth, let dry fully. Fill any holes and sand smooth — every bump shows through. If the paint is fresh (under 30 days), wait. Remove outlet covers and switch plates. This prep is non-negotiable; wallpaper forgives nothing underneath it.
 
 **Step 1: Draw your plumb line.** Measure one roll-width in from your starting corner, and draw a true vertical line with a level (pencil, light). Walls are never straight — starting from the corner guarantees a crooked wall of paper. The plumb line is your truth.
@@ -118,9 +114,6 @@ Inside a closet, pantry, or reading nook — pattern where only you see it. Smal
 Small bubbles smooth toward the nearest edge. A stubborn one: prick with a pin and smooth flat. Large trapped air: peel back to the bubble and re-smooth. Never stretch the paper to chase a bubble — it shrinks back and opens seams later.
 
 ## The 6 mistakes that ruin peel-and-stick
-
-![Close-up of aligned botanical wallpaper seam](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/removable-wallpaper-ideas/in-article-2)
-
 
 1. **Skipping the plumb line.** The #1 cause of visibly crooked walls. Corners lie; levels don't.
 2. **Applying on textured walls.** Knockdown and orange-peel textures prevent full adhesive contact — edges lift within weeks. Skim-coat or choose a smooth wall.

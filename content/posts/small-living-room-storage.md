@@ -1,10 +1,10 @@
 ---
 title: "Small Living Room Storage Ideas: 10 That Actually Work (2026)"
-date: "2026-10-20"
+date: "2026-10-19"
 excerpt: "Small living room storage ideas with real dimensions: 10 solutions from $0 to $150 — hidden storage, vertical space, and the declutter rule that makes them all work."
 category: "Small Spaces"
 cluster: "small-living-room"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-storage/cover"
+cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/small-living-room-storage-ideas.jpg"
 ---
 
 Small living rooms don't have a storage problem — they have a *visible stuff* problem. The fix isn't more square meters; it's making every piece of furniture work twice and using the vertical space you're ignoring. These 10 ideas come with real dimensions and costs, and they build on our [small living room guide](/blog/small-living-room-ideas/) — read that first for the layout fundamentals. Every idea below was chosen for small rooms specifically: no McMansion solutions, no "just add a closet."

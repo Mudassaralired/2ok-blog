@@ -1,10 +1,9 @@
 ---
 title: "Mini Macramé Wall Decor: 7 Small Projects"
-date: "2026-10-21"
+date: "2026-10-19"
 excerpt: "7 mini macramé wall decor projects: tiny hangings, feathers, mini plant hangers, rainbow charms — each under an hour, perfect for cord scraps and gifts."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/mini-macrame-decor/cover"
 ---
 
 Big macramé wall hangings are a commitment — meters of cord, a free weekend, wall space you might not have. Mini macramé is the opposite: small projects finished in under an hour, mostly from cord scraps. They're perfect for gifts, gallery-wall fillers, nursery decor, and renters who want texture without a statement piece. Every project below uses the same three basic knots — if you can tie a square knot, you can make all seven.
@@ -53,9 +52,6 @@ A 15 cm twig with a few rows of knots — the mini version of a full wall hangin
 
 ## Project 2: Macramé feather
 
-![Hands brushing out a macrame feather with a comb](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/mini-macrame-decor/in-article-1)
-
-
 The Pinterest-famous feather — one cord as a spine, knotted cords as barbs, brushed out and trimmed into a feather shape. Looks far harder than it is.
 
 **You need:** 1 spine cord × 40 cm, 20 side cords × 20 cm, 3 mm single-twist cotton. Stiff fabric spray (optional but recommended).
@@ -71,9 +67,6 @@ The Pinterest-famous feather — one cord as a spine, knotted cords as barbs, br
 **The trim is everything:** a badly trimmed feather looks like a fuzzy blob; a well-trimmed one looks store-bought. Trim less than you think, check, trim more.
 
 ## Project 3: Mini plant hanger
-
-![Macrame plant hanger with succulent by a bright window](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/mini-macrame-decor/in-article-2)
-
 
 A tiny hanger for a succulent or air plant — 4 cords, a few knots, done. Sells the "I made that" moment for almost zero effort.
 

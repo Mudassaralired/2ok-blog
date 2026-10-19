@@ -1,10 +1,9 @@
 ---
 title: "Damage-Free Wall Decor Ideas: Zero Holes, Zero Stress (2026)"
-date: "2026-10-22"
+date: "2026-10-19"
 excerpt: "Damage-free wall decor ideas with zero holes: adhesive methods ranked by weight, the prep step that makes strips actually hold, and clean removal tricks."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/damage-free-wall-decor/cover"
 ---
 
 Every renter knows the math: one nail hole costs about 10 minutes to patch and paint — or $50–$150 off your deposit if you don't. Multiply that by a full gallery wall and "just hanging some art" turns into a weekend of spackle. Damage-free wall decor skips the whole problem. No drilling, no nails, no patching, no landlord conversations.
@@ -64,9 +63,6 @@ For unframed prints, photos, and kids' art: washi tape grids and removable poste
 
 ## Adhesive strips and hooks: the full technique
 
-![Hands pressing adhesive hanging strips onto a wall](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/damage-free-wall-decor/in-article-1)
-
-
 This is the section that determines whether your art stays up for three years or three days. Follow it exactly.
 
 **Step 1: Clean with rubbing alcohol.** Wipe the wall spot with isopropyl alcohol on a cloth and let it dry 5 minutes. Walls look clean but carry a film of dust, cooking grease, and hand oils — adhesive bonds to the film, the film peels off, down comes your frame. Skip household cleaners; many leave residue.
@@ -82,9 +78,6 @@ This is the section that determines whether your art stays up for three years or
 **Step 6: Respect the rating.** A 7 kg-rated set holding a 6.5 kg mirror in a steamy bathroom is a failure waiting to happen — heat and humidity degrade adhesive over time. In bathrooms, derate by half and check quarterly.
 
 ## No-adhesive options that need zero wall contact
-
-![Large framed print leaning against a wall on a wooden floor](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/damage-free-wall-decor/in-article-2)
-
 
 Sometimes the answer is furniture, not fasteners:
 

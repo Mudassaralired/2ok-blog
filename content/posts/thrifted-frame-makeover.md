@@ -1,10 +1,10 @@
 ---
 title: "Thrifted Frame Makeover: 3 Finishes Under $5 Each (2026)"
-date: "2026-10-20"
+date: "2026-10-19"
 excerpt: "Thrifted frame makeover tutorial: 3 finishes (chalk paint, gold-leaf edges, stripped natural wood) for under $5 each — what to buy, prep, and the sealing step."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/thrifted-frame-makeover/cover"
+cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/thrifted-frame-makeover.jpg"
 ---
 
 Thrift stores sell picture frames for $1–$3 that would cost $25 new — the catch is they look like $1 frames. An afternoon and under $5 of materials fixes that permanently. This tutorial covers three finishes that work on almost any thrifted frame: matte chalk paint, gold-leaf edges, and stripped natural wood. Pick the one matching your room, or do all three for a collected gallery wall.

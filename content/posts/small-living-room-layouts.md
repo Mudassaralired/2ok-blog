@@ -1,10 +1,9 @@
 ---
 title: "Small Living Room Furniture Arrangement: 5 Layouts That Work"
-date: "2026-10-23"
+date: "2026-10-19"
 excerpt: "5 small living room furniture arrangements that work: the float, the L, split zones, the diagonal, the wall-hugger — with exact clearances and walkway rules."
 category: "Small Spaces"
 cluster: "small-living-room"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-layouts/cover"
 ---
 
 Most small living rooms aren't too small — they're just arranged like big ones. The default move (everything shoved against the walls, sofa facing the TV) wastes the middle of the room and chokes the walkways. These five layouts are drawn from real floor plans that work in 10–18 square meters. Pick the one that matches your room's shape and door positions.
@@ -30,9 +29,6 @@ For the broader playbook — sofas, rugs, storage, all of it — see our [small 
 - [Frequently asked questions](#frequently-asked-questions)
 
 ## Measure first: the 5-minute floor map
-
-![Painter's tape outlines on a wooden floor marking furniture footprints](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-layouts/in-article-1)
-
 
 Don't skip this. Every failed arrangement starts with eyeballing.
 
@@ -70,9 +66,6 @@ Push the two largest pieces — sofa and TV console, or sofa and a bookshelf —
 **TV note:** corner TV placement needs the right viewing angle — keep the screen within 30 degrees of the sofa's center line. Our [small living room TV layout guide](/blog/small-living-room-tv-layout/) has four exact recipes for tricky TV positions.
 
 ## Layout 3: The split zone
-
-![Narrow living room split into two zones](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-layouts/in-article-2)
-
 
 **Best for:** long narrow rooms (the classic 3×6 m apartment living room), studio apartments.
 

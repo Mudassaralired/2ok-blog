@@ -1,10 +1,10 @@
 ---
 title: "Renter-Friendly Wall Decor: 9 DIY Ideas With Zero Holes (2026)"
-date: "2026-10-20"
+date: "2026-10-19"
 excerpt: "Renter-friendly wall decor: 9 DIY ideas with zero holes — damage-free methods ranked, the adhesive prep that makes strips actually hold, and clean move-out removal."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/renter-friendly-wall-decor/cover"
+cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/renter-friendly-wall-decor.jpg"
 ---
 
 Renting doesn't mean living with blank walls. Every DIY wall decor project on this site can be adapted for rentals — the trick is knowing which damage-free hanging method to use, and the prep step that makes adhesive strips actually hold (most failures are skipped prep, not bad products). Here are 9 renter-friendly DIY wall decor ideas, the methods ranked by reliability, and how to remove everything cleanly at move-out.

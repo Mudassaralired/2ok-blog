@@ -1,10 +1,9 @@
 ---
 title: "How to Mat and Style Thrifted Frames Like a Pro (2026)"
-date: "2026-10-22"
+date: "2026-10-19"
 excerpt: "How to mat thrifted frames like a pro: mat proportions that look expensive, DIY bevel cuts step by step, color rules, and styling mixed frames as one set."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/frame-matting-guide/cover"
 ---
 
 Here's the open secret of the frame world: the mat matters more than the frame. A $3 thrifted frame with a well-cut mat looks expensive; a $60 frame with no mat looks like a poster taped to cardboard. Matting is the white space that tells the eye "this is art" — and it's the cheapest upgrade in all of wall decor.
@@ -36,9 +35,6 @@ The thrifted-frame connection: thrift frames come in random sizes, and your art 
 
 ## Mat proportions that look pro
 
-![Close-up of matted print corner showing the bevel edge](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/frame-matting-guide/in-article-2)
-
-
 **Border width:** 7–10 cm per side for most pieces. Smaller than 5 cm looks stingy; wider than 12 cm starts to swallow small art. The classic gallery look is a generous border — when in doubt, go wider.
 
 **Bottom-weighted:** the bottom border should be about 0.5–1 cm wider than the top and sides. This is the subtle pro tell. Perfectly equal borders create a slight optical illusion that the art is sinking; the extra bottom weight corrects it. Nobody can name why it looks better — it just does.
@@ -53,9 +49,6 @@ The thrifted-frame connection: thrift frames come in random sizes, and your art 
 **Oversized mat trick:** for tiny art (a 13×18 cm photo) in a big frame, go extreme — 12–15 cm borders. The art becomes a jewel in white space. This is the single most effective way to make small thrift finds look like serious art.
 
 ## Cutting your own mats: step by step
-
-![Hands cutting a mat board window with a bevel cutter](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/frame-matting-guide/in-article-1)
-
 
 **Tools ($15–$25 total):** a handheld mat cutter (the $12–$18 kind with a replaceable blade — not a craft knife, the angled blade is the whole point), a metal ruler or T-square, a self-healing cutting mat or spare board underneath, and pencil. Plus practice board: cut your first 2–3 mats from scrap cardboard, not your good mat board.
 

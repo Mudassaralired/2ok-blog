@@ -1,10 +1,9 @@
 ---
 title: "Textured Plaster Art Designs You Can Make at Home (15+ Ideas)"
-date: "2026-10-20"
+date: "2026-10-19"
 excerpt: "15+ textured plaster art designs you can make at home: arches, waves, sunbursts and organic shapes — with sizing, style matching, and technique tips."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/textured-plaster-art/cover"
 ---
 
 You've learned the basic technique — now the question is *what* to make. The design you carve into wet compound decides whether the finished piece reads as gallery art or a craft experiment. This guide covers 15+ textured plaster art designs, organized from easiest to most ambitious, with honest notes on difficulty, drying risk, and which room styles each design suits.
@@ -41,9 +40,6 @@ Every design below works better with 5 minutes of paper planning. Draw the canva
 Keep the sketch next to you while you work. Wet compound invites improvisation, and improvisation without a plan is how pieces go wrong.
 
 ## Level 1: beginner designs
-
-![Notched trowel creating wave lines in wet joint compound](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/textured-plaster-art/in-article-1)
-
 
 These need only a putty knife and a comb, dry reliably in 24 hours, and forgive mistakes.
 
@@ -100,9 +96,6 @@ Short diagonal strokes in alternating directions, like a herringbone fabric patt
 **Watch out:** tedious on large canvases — reserve for pieces under 50×60 cm, or use it as an accent panel within a larger calmer design.
 
 ## Level 3: ambitious designs
-
-![Finished plaster art with sunburst pattern on a beige wall](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/textured-plaster-art/in-article-2)
-
 
 High relief (1–2 cm+), 48+ hour drying, real crack risk. Attempt after 2–3 successful pieces.
 
