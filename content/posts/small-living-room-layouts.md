@@ -4,6 +4,7 @@ date: "2026-10-23"
 excerpt: "5 small living room furniture arrangements that work: the float, the L, split zones, the diagonal, the wall-hugger — with exact clearances and walkway rules."
 category: "Small Spaces"
 cluster: "small-living-room"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-layouts/cover"
 ---
 
 Most small living rooms aren't too small — they're just arranged like big ones. The default move (everything shoved against the walls, sofa facing the TV) wastes the middle of the room and chokes the walkways. These five layouts are drawn from real floor plans that work in 10–18 square meters. Pick the one that matches your room's shape and door positions.

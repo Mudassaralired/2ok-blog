@@ -4,6 +4,7 @@ date: "2026-10-22"
 excerpt: "Thrift store frame flips: how to spot frames worth buying, 8 before-and-after makeover ideas, and the paint process that makes $3 frames look custom-made."
 category: "DIY Projects"
 cluster: "wall-decor"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/thrifted-frame-flips/cover"
 ---
 
 Thrift stores price picture frames like they're doing you a favor — because they are. A solid wood frame that retails for $40–$80 sits in the bin for $2–$5, usually because the art inside is a faded motel landscape and the finish is 1994 honey oak. The frame is the asset; everything else is packaging. Frame flipping is buying the bones and fixing the skin.
@@ -44,6 +45,9 @@ Walk past the art. You're shopping for rectangles.
 
 ## 8 before-and-after flip ideas
 
+![Vintage frame with antique gold rub finish](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/thrifted-frame-flips/in-article-2)
+
+
 ### 1. Honey oak → matte black modern
 
 The most common thrift frame in existence: 1990s honey-oak wood. Scuff-sand, prime, two coats of matte black (chalk paint or acrylic). The transformation is absurd — dated wood becomes a modern gallery frame. Before: grandma's hallway. After: MoMA gift shop.
@@ -77,6 +81,9 @@ Wrap the frame face in linen, burlap, or velvet — cut, wrap like a gift, glue 
 Paint the frame one color, then "dip" the bottom third (or one side) in a second color with a crisp tape line. Two-tone frames look designed and modern, and the technique hides scratches on the dipped portion entirely. Terracotta + cream, black + natural wood, sage + white — pick your palette.
 
 ## The universal flip process
+
+![Hands brush-painting a wooden frame matte black](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/thrifted-frame-flips/in-article-1)
+
 
 Every flip above runs on the same backbone. Learn it once, apply forever.
 

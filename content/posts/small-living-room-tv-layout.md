@@ -4,7 +4,7 @@ date: "2026-10-18"
 excerpt: "Small living room layout with TV: 4 exact recipes with real measurements — viewing distances, screen height, walkways — including corner TV and fireplace cases."
 category: "Small Spaces"
 cluster: "small-living-room"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/small-living-room-tv-layout.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-tv-layout/cover"
 ---
 
 Here's the uncomfortable truth about small living room layouts with TVs: most advice is either "buy a smaller TV" (unhelpful) or a Pinterest photo with no measurements (useless). What you actually need is a recipe — TV size, seating distance, screen height, walkway clearance — numbers you can measure with a tape measure today.

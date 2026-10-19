@@ -4,7 +4,7 @@ date: "2026-10-18"
 excerpt: "Best paint colors for small living rooms: 7 real shades with codes and LRV numbers — plus north vs south facing guidance and the finish that matters most."
 category: "Small Spaces"
 cluster: "small-living-room"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/best-paint-colors-small-living-room.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-paint-colors/cover"
 ---
 
 "Just paint it white" is the most repeated and least helpful advice in small-space decorating. Pure white in a small living room often looks flat, cold, and — perversely — smaller, because it exaggerates every shadow into a hard edge. The real answer is more interesting: specific shades with specific light-reflectance values, matched to your room's direction.

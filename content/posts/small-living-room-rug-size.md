@@ -4,7 +4,7 @@ date: "2026-10-18"
 excerpt: "What size rug for a small living room? The 3 measurements that decide it — plus exact size recipes (5x7, 6x9), placement rules, and 5 costly mistakes."
 category: "Small Spaces"
 cluster: "small-living-room"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/rug-size-small-living-room.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-rug-size/cover"
 ---
 
 The most common rug mistake in small living rooms isn't buying the wrong color or pattern. It's buying too small. A rug that floats in the middle of the seating area like an island — touching nothing — visually shrinks the room and makes the furniture look like it's drifting. Designers call it the "bathmat effect," and it's the first thing to fix.

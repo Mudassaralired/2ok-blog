@@ -4,7 +4,7 @@ date: "2026-10-18"
 excerpt: "Best sofa for a small living room: 5 types ranked with exact dimensions — apartment sofa, loveseat, chaise, sleeper, modular. Plus the delivery measurement everyone forgets."
 category: "Small Spaces"
 cluster: "small-living-room"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/best-sofa-small-living-room.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-sofa/cover"
 ---
 
 The sofa is the biggest object in a small living room and the hardest to return. Get it wrong and the room is broken for years; get it right and everything else falls into place. Yet most sofa advice is vibes ("choose something cozy!") instead of dimensions.
