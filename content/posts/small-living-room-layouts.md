@@ -31,6 +31,9 @@ For the broader playbook — sofas, rugs, storage, all of it — see our [small 
 
 ## Measure first: the 5-minute floor map
 
+![Painter's tape outlines on a wooden floor marking furniture footprints](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-layouts/in-article-1)
+
+
 Don't skip this. Every failed arrangement starts with eyeballing.
 
 1. **Measure the room** — length × width in cm, plus the position and width of every door, window, and radiator. Note which way doors swing; a door's swing arc is dead space you can't furnish.
@@ -67,6 +70,9 @@ Push the two largest pieces — sofa and TV console, or sofa and a bookshelf —
 **TV note:** corner TV placement needs the right viewing angle — keep the screen within 30 degrees of the sofa's center line. Our [small living room TV layout guide](/blog/small-living-room-tv-layout/) has four exact recipes for tricky TV positions.
 
 ## Layout 3: The split zone
+
+![Narrow living room split into two zones](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-layouts/in-article-2)
+
 
 **Best for:** long narrow rooms (the classic 3×6 m apartment living room), studio apartments.
 

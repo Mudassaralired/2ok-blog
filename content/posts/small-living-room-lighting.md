@@ -4,6 +4,7 @@ date: "2026-10-23"
 excerpt: "7 small living room lighting ideas that make it feel bigger: layered light heights, warm bulb temperature, mirror tricks, and the one mistake to avoid."
 category: "Small Spaces"
 cluster: "small-living-room"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-lighting/cover"
 ---
 
 Bad lighting makes a small living room feel like a cave; good lighting makes the same room feel twice its size. It's the cheapest square-footage illusion that exists — cheaper than new furniture, faster than repainting. These seven ideas fix the classic mistake: a single ceiling light doing all the work.
@@ -43,6 +44,9 @@ Interior designers talk about three layers, and in a small room the layers matte
 
 ## 2. Choose warm color temperature
 
+![Hands screwing a warm-white LED bulb into a table lamp](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-lighting/in-article-1)
+
+
 Bulb color temperature is measured in Kelvin (K), and it changes how big a room feels more than most people expect.
 
 - **2700K–3000K (warm white):** the cozy range. Walls recede softly, wood tones glow, the room feels enveloping rather than exposed. This is what you want everywhere in a small living room.
@@ -53,6 +57,9 @@ Bulb color temperature is measured in Kelvin (K), and it changes how big a room 
 **Brightness:** aim for roughly 20 lumens per square foot (~215 lumens per sqm). A 150 sq ft room wants ~3,000 total lumens — e.g., two 800-lumen lamps + one 1,000-lumen floor lamp + a 400-lumen strip. Spread beats concentrated: four dim sources always feel bigger than one bright one.
 
 ## 3. Bounce light with mirrors
+
+![Round mirror on a living room wall reflecting a bright window](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-lighting/in-article-2)
+
 
 A mirror doesn't create light, but it doubles the *perceived* light sources and visually extends the wall it's on. In a small living room, one well-placed mirror does the work of an extra window.
 

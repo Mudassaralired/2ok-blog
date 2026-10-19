@@ -4,6 +4,7 @@ date: "2026-10-24"
 excerpt: "Small living room decor on a budget: 12 ideas under $100 — paint tricks, thrifted finds, smart textiles, and layout fixes that make tiny rooms feel bigger."
 category: "Small Spaces"
 cluster: "small-living-room"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/budget-small-living-room-decor/cover"
 ---
 
 A small living room doesn't need a big budget to feel bigger, calmer, and more put-together. It needs decisions: what stays, what moves, and where the eye goes first. Most cramped-feeling living rooms aren't actually too small — they're just decorated in ways that fight the space. These 12 ideas cost under $100 combined, and half of them cost nothing at all.
@@ -55,6 +56,9 @@ Renters or paint-shy? Fake it with a large textile or removable wallpaper on one
 **Mistake to avoid:** painting the accent wall behind the TV. The contrast makes the black screen pop harder and the wall feel closer. Accent the wall you see when you enter, not the one the TV hangs on.
 
 ## Idea 3: Add a mirror where it doubles a window
+
+![Thrifted rectangular mirror on a wall opposite a bright window](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/budget-small-living-room-decor/in-article-1)
+
 
 Cost: **$10–$20 thrifted**. Time: 30 minutes.
 
@@ -127,6 +131,9 @@ Mount the curtain rod 10–15 cm below the ceiling and 15–20 cm wider than the
 One pair of light-filtering linen-look panels ($20–$30) is enough. Keep them close to your wall color so they read as architecture.
 
 ## Idea 11: Style the coffee table with a tray
+
+![Styled coffee table tray with succulent, candle and books](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/budget-small-living-room-decor/in-article-2)
+
 
 Cost: **$5–$10**. Time: 15 minutes.
 
