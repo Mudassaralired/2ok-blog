@@ -21,7 +21,7 @@ const SITE_URL = "https://2ok.lol";
 const SITE_NAME = "2ok Home";
 const TAGLINE = "Home Decor & DIY Ideas";
 const DEFAULT_OG =
-  "https://res.cloudinary.com/knb4zxgu/image/upload/w_1200,h_630,c_fill/f_auto,q_auto/2ok-blog/small-living-room-ideas.jpg";
+  "https://res.cloudinary.com/zhzxqahv/image/upload/w_1200,h_630,c_fill/f_auto,q_auto/2ok-blog/small-living-room-ideas/cover";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
