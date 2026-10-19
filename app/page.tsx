@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getAllPosts, getAllCategories, formatDate } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
+import CoverImage from "@/components/CoverImage";
 
 export default function HomePage() {
   const posts = getAllPosts();
@@ -47,10 +48,11 @@ export default function HomePage() {
             className="group grid overflow-hidden rounded-3xl border border-ink/10 bg-parchment md:grid-cols-2"
           >
             <div className="aspect-[16/10] overflow-hidden bg-sand md:aspect-auto md:min-h-[320px]">
-              <img
+              <CoverImage
                 src={featured.cover}
-                alt={featured.title}
-                className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                slug={featured.slug}
+                title={featured.title}
+                imgClassName="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
               />
             </div>
             <div className="flex flex-col justify-center p-8 md:p-12">

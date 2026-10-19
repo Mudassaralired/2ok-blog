@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { formatDate, coverAlt, type PostMeta } from "@/lib/posts";
+import { formatDate, type PostMeta } from "@/lib/posts";
+import CoverImage from "@/components/CoverImage";
 
 export default function PostCard({ post }: { post: PostMeta }) {
   return (
@@ -9,11 +10,11 @@ export default function PostCard({ post }: { post: PostMeta }) {
     >
       <div className="aspect-[16/10] overflow-hidden bg-sand">
         {/* plain <img>: next/image optimization is disabled for static export */}
-        <img
+        <CoverImage
           src={post.cover}
-          alt={coverAlt(post.slug, post.title)}
-          loading="lazy"
-          className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+          slug={post.slug}
+          title={post.title}
+          imgClassName="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
         />
       </div>
       <div className="p-6">

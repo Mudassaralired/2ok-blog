@@ -3,6 +3,7 @@ title: "Thrifted Frame Makeover: 3 Finishes Under $5 Each (2026)"
 date: "2026-10-20"
 excerpt: "Thrifted frame makeover tutorial: 3 finishes (chalk paint, gold-leaf edges, stripped natural wood) for under $5 each — what to buy, prep, and the sealing step."
 category: "DIY Projects"
+cluster: "wall-decor"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/thrifted-frame-makeover.jpg"
 ---
 
@@ -10,7 +11,7 @@ Thrift stores sell picture frames for $1–$3 that would cost $25 new — the ca
 
 The economics are absurd in the best way: three made-over frames cost less than one new frame of the same size, and the handmade finishes — especially gold leaf — read as far more expensive than they are. Guests will assume you bought them at a boutique.
 
-Pair your finished frames with our [gallery wall layout guide](/blog/gallery-wall-layout-guide/) to hang them like a pro.
+Pair your finished frames with our [gallery wall layout guide](/blog/gallery-wall-layouts/) to hang them like a pro.
 
 > **Key Takeaways**
 > - **Cost:** $1–$3 per thrifted frame + under $5 materials per finish
@@ -119,7 +120,7 @@ A $2 frame deserves better than a faded stock photo:
 
 ## The takeaway
 
-Thrifted frames are the cheapest wall decor that exists — $1–$3 for the frame, under $5 for the finish, and the result hangs next to store-bought frames without apology. Buy wood with good bones, clean it properly, pick your finish, seal it. Then fill it with something you love and hang it using the [gallery wall formulas](/blog/gallery-wall-layout-guide/).
+Thrifted frames are the cheapest wall decor that exists — $1–$3 for the frame, under $5 for the finish, and the result hangs next to store-bought frames without apology. Buy wood with good bones, clean it properly, pick your finish, seal it. Then fill it with something you love and hang it using the [gallery wall formulas](/blog/gallery-wall-layouts/).
 
 ## Frequently asked questions
 

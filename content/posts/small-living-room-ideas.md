@@ -3,6 +3,7 @@ title: "9 Small Living Room Ideas That Make It Feel Twice as Big"
 date: "2026-10-10"
 excerpt: "9 designer tricks that make a small living room feel twice as big — no renovation needed. Rugs, mirrors, lighting, and smart furniture."
 category: "Small Spaces"
+cluster: "small-living-room"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/small-living-room-ideas.jpg"
 ---
 
@@ -145,7 +146,7 @@ The fastest way to make a small room feel bigger costs nothing: remove one thing
 
 ## The mindset shift
 
-Stop asking "how do I fit everything in?" and start asking "what does this room actually need?" Small living rooms reward restraint. Fewer, better things — that's the whole secret. And when the holidays come, the same principles apply: one well-dressed corner beats whole-house decorating, as our [Christmas decor on a budget guide](/blog/christmas-decor-budget-2026) proves.
+Stop asking "how do I fit everything in?" and start asking "what does this room actually need?" Small living rooms reward restraint. Fewer, better things — that's the whole secret. And when the holidays come, the same principles apply: one well-dressed corner beats whole-house decorating, as our [Christmas decor on a budget guide](/blog/budget-christmas-decor) proves.
 
 ## Frequently asked questions
 

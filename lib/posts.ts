@@ -18,6 +18,8 @@ export type PostMeta = {
   date: string; // ISO date, e.g. "2026-10-16"
   excerpt: string;
   category: string;
+  /** Topical-authority cluster, e.g. "wall-decor", "small-living-room". Drives interlinking. */
+  cluster: string;
   cover: string; // absolute Cloudinary URL (f_auto,q_auto)
   readingTime: number; // minutes
 };
@@ -47,7 +49,8 @@ function metaFor(slug: string): PostMeta {
     date: String(data.date ?? "2026-01-01"),
     excerpt: String(data.excerpt ?? ""),
     category: String(data.category ?? "Decor"),
-    cover: String(data.cover ?? `${CLOUDINARY}/f_auto,q_auto/2ok-blog/default.jpg`),
+    cluster: String(data.cluster ?? ""),
+    cover: String(data.cover ?? ""),
     readingTime: Math.max(2, Math.round(words / 200)),
   };
 }
@@ -59,16 +62,32 @@ export function getAllPosts(): PostMeta[] {
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
-/** 1200x630 OG/social image for a post slug. */
+/** 1200x630 OG/social image for a post slug.
+ *  Slugs shortened on 2026-10-19 keep pointing at their original upload path. */
+const OG_SLUG_ALIASES: Record<string, string> = {
+  "small-living-room-paint-colors": "best-paint-colors-small-living-room",
+  "small-living-room-sofa": "best-sofa-small-living-room",
+  "budget-christmas-decor": "christmas-decor-budget-2026",
+  "christmas-mantel-decor": "christmas-mantel-decor-budget",
+  "christmas-porch-decor": "christmas-porch-decor-budget",
+  "christmas-tree-alternatives": "christmas-tree-alternatives-small-apartments",
+  "dollar-tree-christmas-diy": "dollar-tree-christmas-decor-diy",
+  "halloween-decor-ideas": "halloween-decor-ideas-2026",
+  "gallery-wall-layouts": "gallery-wall-layout-guide",
+  "macrame-wall-hanging": "macrame-wall-hanging-beginners",
+  "small-living-room-rug-size": "rug-size-small-living-room",
+  "small-living-room-storage": "small-living-room-storage-ideas",
+};
 export function ogImageFor(slug: string): string {
-  return `${CLOUDINARY}/w_1200,h_630,c_fill/f_auto,q_auto/2ok-blog/${slug}.jpg`;
+  const imgSlug = OG_SLUG_ALIASES[slug] ?? slug;
+  return `${CLOUDINARY}/w_1200,h_630,c_fill/f_auto,q_auto/2ok-blog/${imgSlug}.jpg`;
 }
 
 /** Descriptive cover alt text per post (10-15 words). */
 const COVER_ALTS: Record<string, string> = {
-  "halloween-decor-ideas-2026":
+  "halloween-decor-ideas":
     "Moody Halloween porch with orange, white and green pumpkins, eucalyptus and lit black candles on stone steps at dusk",
-  "christmas-decor-budget-2026":
+  "budget-christmas-decor":
     "Cozy Christmas living room with dried-orange-slice tree, stocking-hung fireplace mantel and warm fairy lights",
   "small-living-room-ideas":
     "Bright small living room with cream boucle sofa, round wall mirror and sheer curtains making the space feel larger",

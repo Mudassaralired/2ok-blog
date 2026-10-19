@@ -3,6 +3,7 @@ title: "Renter-Friendly Wall Decor: 9 DIY Ideas With Zero Holes (2026)"
 date: "2026-10-20"
 excerpt: "Renter-friendly wall decor: 9 DIY ideas with zero holes — damage-free methods ranked, the adhesive prep that makes strips actually hold, and clean move-out removal."
 category: "DIY Projects"
+cluster: "wall-decor"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/renter-friendly-wall-decor.jpg"
 ---
 
@@ -65,7 +66,7 @@ Knowing the inspection criteria removes the anxiety. Here's what most landlords 
 
 ## 9 renter-friendly DIY ideas
 
-1. **[Macramé wall hanging](/blog/macrame-wall-hanging-beginners/)** — weighs almost nothing; one adhesive hook holds it. The texture does the decorating work.
+1. **[Macramé wall hanging](/blog/macrame-wall-hanging/)** — weighs almost nothing; one adhesive hook holds it. The texture does the decorating work.
 2. **[Plaster art canvas](/blog/diy-plaster-wall-art/)** — a finished 50×60 cm piece is 1.5–2.5 kg, well within strip range. Looks like a $200 gallery purchase.
 3. **Taped gallery wall** — washi tape frames around prints, zero adhesive on the wall beyond the tape itself. Full method in our [beginner's guide](/blog/diy-wall-decor-beginners/).
 4. **Fabric wall hanging** — textile + dowel on one adhesive hook. Softens rooms in a way frames can't.

@@ -3,6 +3,7 @@ title: "7 Easy DIY Wall Decor Projects for Beginners"
 date: "2026-10-08"
 excerpt: "7 beginner DIY wall decor projects you can finish in a weekend — no special skills needed. Gallery walls, hoop art, painted arches & more."
 category: "DIY Projects"
+cluster: "wall-decor"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-beginners.jpg"
 ---
 
@@ -76,7 +77,7 @@ An embroidery hoop, some dried flowers or grasses, and fishing line. Arrange the
 
 **Time:** 20 minutes per hoop; make three for a grouping.
 
-**Mistake to avoid:** loose binding is the killer — if the stems can shift, the arrangement collapses within days. Bind tight, then bind again. And keep dried hoops out of bathrooms; humidity makes them droop. Love this natural look? Our [elegant Halloween guide](/blog/halloween-decor-ideas-2026) uses the same dried materials for seasonal styling you can swap in every fall.
+**Mistake to avoid:** loose binding is the killer — if the stems can shift, the arrangement collapses within days. Bind tight, then bind again. And keep dried hoops out of bathrooms; humidity makes them droop. Love this natural look? Our [elegant Halloween guide](/blog/halloween-decor-ideas) uses the same dried materials for seasonal styling you can swap in every fall.
 
 ## 5. Painted arch accent
 

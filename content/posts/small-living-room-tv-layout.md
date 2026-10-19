@@ -3,6 +3,7 @@ title: "Small Living Room Layout with TV: 4 Exact Recipes That Work (2026)"
 date: "2026-10-18"
 excerpt: "Small living room layout with TV: 4 exact recipes with real measurements — viewing distances, screen height, walkways — including corner TV and fireplace cases."
 category: "Small Spaces"
+cluster: "small-living-room"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/small-living-room-tv-layout.jpg"
 ---
 

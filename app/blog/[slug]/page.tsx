@@ -11,6 +11,7 @@ import {
   SITE_URL,
 } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
+import CoverImage from "@/components/CoverImage";
 import AdSlot from "@/components/AdSlot";
 
 const AUTHOR = {
@@ -35,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await getPost(slug);
   if (!post) return {};
   const url = `${SITE_URL}/blog/${post.meta.slug}`;
-  const ogImage = ogImageFor(post.meta.slug);
+  const ogImage = post.meta.cover ? ogImageFor(post.meta.slug) : "";
   return {
     title: post.meta.title,
     description: post.meta.excerpt,
@@ -47,20 +48,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url,
       publishedTime: post.meta.date,
       authors: [AUTHOR.name],
-      images: [
-        {
-          url: ogImage,
-          width: 1200,
-          height: 630,
-          alt: coverAlt(post.meta.slug, post.meta.title),
-        },
-      ],
+      ...(ogImage
+        ? {
+            images: [
+              {
+                url: ogImage,
+                width: 1200,
+                height: 630,
+                alt: coverAlt(post.meta.slug, post.meta.title),
+              },
+            ],
+          }
+        : {}),
     },
     twitter: {
       card: "summary_large_image",
       title: post.meta.title,
       description: post.meta.excerpt,
-      images: [ogImage],
+      ...(ogImage ? { images: [ogImage] } : {}),
     },
     alternates: { canonical: url },
   };
@@ -75,15 +80,23 @@ export default async function ArticlePage({ params }: Props) {
   const articleUrl = `${SITE_URL}/blog/${meta.slug}`;
   const categoryUrl = `${SITE_URL}/category/${slugify(meta.category)}`;
 
-  // Up to 3 related cards: same category first, then fill with other posts.
+  // Up to 4 related cards: same topical cluster first (interlinking),
+  // then same category, then newest others.
   const allOthers = getAllPosts().filter((p) => p.slug !== meta.slug);
-  const sameCategory = allOthers.filter((p) => p.category === meta.category);
-  const related = [
-    ...sameCategory,
-    ...allOthers.filter((p) => p.category !== meta.category),
-  ].slice(0, 3);
+  const sameCluster = allOthers.filter(
+    (p) => meta.cluster && p.cluster === meta.cluster
+  );
+  const sameCategory = allOthers.filter(
+    (p) => p.cluster !== meta.cluster && p.category === meta.category
+  );
+  const rest = allOthers.filter(
+    (p) => p.cluster !== meta.cluster && p.category !== meta.category
+  );
+  const related = [...sameCluster, ...sameCategory, ...rest].slice(0, 4);
 
   const coverImage = ogImageFor(meta.slug);
+  // OG image file only exists once the owner supplies the polished cover.
+  const hasCoverImage = Boolean(meta.cover);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -111,16 +124,20 @@ export default async function ArticlePage({ params }: Props) {
           url: SITE_URL,
         },
         mainEntityOfPage: articleUrl,
-        image: {
-          "@type": "ImageObject",
-          "@id": `${articleUrl}#primaryimage`,
-          url: coverImage,
-          width: 1200,
-          height: 630,
-          creator: { "@type": "Organization", name: "2ok Home" },
-          creditText: "2ok Home",
-          copyrightNotice: "© 2026 2ok Home",
-        },
+        ...(coverImage && hasCoverImage
+          ? {
+              image: {
+                "@type": "ImageObject",
+                "@id": `${articleUrl}#primaryimage`,
+                url: coverImage,
+                width: 1200,
+                height: 630,
+                creator: { "@type": "Organization", name: "2ok Home" },
+                creditText: "2ok Home",
+                copyrightNotice: "© 2026 2ok Home",
+              },
+            }
+          : {}),
       },
       {
         "@type": "BreadcrumbList",
@@ -203,14 +220,17 @@ export default async function ArticlePage({ params }: Props) {
         {formatDate(meta.date)} · {meta.readingTime} min read · {meta.category}
       </p>
 
-      <div className="mt-8 overflow-hidden rounded-2xl border border-ink/10">
-        <img
-          src={meta.cover}
-          alt={coverAlt(meta.slug, meta.title)}
-          className="w-full object-cover"
-          fetchPriority="high"
-        />
-      </div>
+      {meta.cover ? (
+        <div className="mt-8 overflow-hidden rounded-2xl border border-ink/10">
+          <CoverImage
+            src={meta.cover}
+            slug={meta.slug}
+            title={meta.title}
+            eager
+            imgClassName="w-full object-cover"
+          />
+        </div>
+      ) : null}
 
       {/* In-article ad placement — invisible until ads are configured. */}
       <AdSlot slot="IN_ARTICLE_SLOT_ID" label="In-article" className="my-8" />
@@ -272,7 +292,7 @@ export default async function ArticlePage({ params }: Props) {
           <h2 className="font-display text-2xl font-bold tracking-tight">
             Keep reading
           </h2>
-          <div className="mt-6 grid gap-7 md:grid-cols-3">
+          <div className="mt-6 grid gap-7 sm:grid-cols-2 lg:grid-cols-4">
             {related.map((p) => (
               <PostCard key={p.slug} post={p} />
             ))}

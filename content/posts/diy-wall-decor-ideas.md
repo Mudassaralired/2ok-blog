@@ -3,6 +3,7 @@ title: "DIY Wall Decor Ideas: 15+ Projects by Budget, Skill & Style (2026)"
 date: "2026-10-19"
 excerpt: "DIY wall decor ideas organized by budget, skill level, and style — with 4 complete step-by-step tutorials (plaster art, gallery walls, macramé) and 11 more projects."
 category: "DIY Projects"
+cluster: "wall-decor"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-ideas.jpg"
 ---
 
@@ -36,8 +37,8 @@ New to DIY entirely? Start with our [7 beginner projects](/blog/diy-wall-decor-b
 These four have full step-by-step tutorials on this site — materials lists, exact measurements, mistakes to avoid:
 
 1. **[DIY Plaster Wall Art](/blog/diy-plaster-wall-art/)** — textured sculptural canvases with joint compound. $10–$20, 2–3 hours + drying. The highest-ROI project on this list: it genuinely passes as gallery-bought.
-2. **[Gallery Wall Layout Guide](/blog/gallery-wall-layout-guide/)** — 4 templates (grid, anchor, linear, staircase) with exact spacing formulas. The paper-template method means zero misplaced holes.
-3. **[Macramé Wall Hanging for Beginners](/blog/macrame-wall-hanging-beginners/)** — 4 knots, one complete project, 60 cm dowel, ~3 hours. The entire craft is four knots repeated.
+2. **[Gallery Wall Layout Guide](/blog/gallery-wall-layouts/)** — 4 templates (grid, anchor, linear, staircase) with exact spacing formulas. The paper-template method means zero misplaced holes.
+3. **[Macramé Wall Hanging for Beginners](/blog/macrame-wall-hanging/)** — 4 knots, one complete project, 60 cm dowel, ~3 hours. The entire craft is four knots repeated.
 4. **[7 Easy DIY Wall Decor Projects for Beginners](/blog/diy-wall-decor-beginners/)** — taped gallery walls, fabric hangings, photo ledges, hoop art, painted arches, plate walls, oversized prints. The true starting point.
 
 ![Collage-style arrangement of DIY wall decor: plaster art, macrame hanging, and framed gallery wall](https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-wall-decor-ideas/overview.jpg)
@@ -46,7 +47,7 @@ These four have full step-by-step tutorials on this site — materials lists, ex
 
 Fifteen ideas is paralyzing without a filter. Ask these three questions in order:
 
-1. **What's your wall?** Large blank wall → go big (oversized print, gallery wall, large plaster canvas). Small wall or awkward nook → one focused piece (hoop art, small macramé, single arch). Above furniture → check the [⅔ width rule](/blog/gallery-wall-layout-guide/) first.
+1. **What's your wall?** Large blank wall → go big (oversized print, gallery wall, large plaster canvas). Small wall or awkward nook → one focused piece (hoop art, small macramé, single arch). Above furniture → check the [⅔ width rule](/blog/gallery-wall-layouts/) first.
 2. **What's your timeline?** One evening → washi tape borders, polaroid display, pressed frames. One weekend → plaster art, macramé, painted arch, gallery wall. The drying/curing projects (plaster) need the weekend; the assembly projects (macramé) fit an evening if you're focused.
 3. **What's your risk tolerance?** Zero holes (renters) → the renter-friendly list below. "I'll fill holes at move-out" → everything's open. "I own this wall" → go bold with painted arches and large installations.
 
@@ -70,7 +71,7 @@ That's it. Specialty materials (joint compound, macramé cord, frames) are per-p
 
 **Pressed botanical frames.** Press flowers or leaves in a book for a week, float them between glass in thrifted frames. $3–$8 if you thrift the frames. The biophilic trend's cheapest entry point.
 
-**Geometric tape art.** Painter's tape + leftover paint = bold geometric murals. $5–$10. Trending in earth tones (terracotta, olive, warm beige) — see our [paint color guide](/blog/best-paint-colors-small-living-room/) for palette ideas.
+**Geometric tape art.** Painter's tape + leftover paint = bold geometric murals. $5–$10. Trending in earth tones (terracotta, olive, warm beige) — see our [paint color guide](/blog/small-living-room-paint-colors/) for palette ideas.
 
 **Polaroid-style photo display.** String lights + mini clips + your own photos. $8–$15. Instant personality, zero skill required.
 
@@ -78,7 +79,7 @@ That's it. Specialty materials (joint compound, macramé cord, frames) are per-p
 
 **Plaster wall art.** $10–$20. Already covered — [full tutorial](/blog/diy-plaster-wall-art/). This is where the money-to-impact ratio peaks.
 
-**Macramé wall hanging.** $15–$25 for cord + dowel (enough for two hangings). [Full tutorial](/blog/macrame-wall-hanging-beginners/). Three hours, four knots, done.
+**Macramé wall hanging.** $15–$25 for cord + dowel (enough for two hangings). [Full tutorial](/blog/macrame-wall-hanging/). Three hours, four knots, done.
 
 **Fabric wall hanging.** A beautiful textile + dowel + string. $5–$20. Adds softness framed prints can't. (Method in the [beginner's guide](/blog/diy-wall-decor-beginners/).)
 
@@ -92,7 +93,7 @@ That's it. Specialty materials (joint compound, macramé cord, frames) are per-p
 
 **Oversized single print.** One huge print (engineer prints at office stores cost ~$10–$15 for 90×120 cm) in a simple frame or hung with clips. Scale is the statement — one big piece beats five small ones on a large wall.
 
-**Framed gallery wall.** 5–7 thrifted frames + prints. $25–$40 total. Follow the [layout guide](/blog/gallery-wall-layout-guide/) — the 145 cm rule and paper templates make it foolproof.
+**Framed gallery wall.** 5–7 thrifted frames + prints. $25–$40 total. Follow the [layout guide](/blog/gallery-wall-layouts/) — the 145 cm rule and paper templates make it foolproof.
 
 **Floating photo ledges.** One or two narrow ledges for layered art you can swap seasonally. $20–$35. The curated look without committing to nail positions.
 
@@ -100,11 +101,11 @@ That's it. Specialty materials (joint compound, macramé cord, frames) are per-p
 
 ## By style: boho, modern, eclectic
 
-**Boho:** macramé hangings, fabric wall hangings, dried flower hoops, woven baskets. Texture over color; natural materials; layered and collected. Start with the [macramé tutorial](/blog/macrame-wall-hanging-beginners/).
+**Boho:** macramé hangings, fabric wall hangings, dried flower hoops, woven baskets. Texture over color; natural materials; layered and collected. Start with the [macramé tutorial](/blog/macrame-wall-hanging/).
 
 **Modern/minimal:** plaster art in monochrome, classic grid gallery walls, painted arches, oversized single prints. Restraint is the style — fewer pieces, more breathing room. Start with [plaster art](/blog/diy-plaster-wall-art/).
 
-**Eclectic:** center-anchor gallery walls, plate walls, mixed-frame collections, polaroid displays. The collected-over-time look — but follow the [spacing formulas](/blog/gallery-wall-layout-guide/) so "collected" doesn't become "cluttered."
+**Eclectic:** center-anchor gallery walls, plate walls, mixed-frame collections, polaroid displays. The collected-over-time look — but follow the [spacing formulas](/blog/gallery-wall-layouts/) so "collected" doesn't become "cluttered."
 
 ## Renter-friendly: zero holes
 

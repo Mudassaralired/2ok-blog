@@ -3,6 +3,7 @@ title: "Pressed Flower Wall Art DIY: The 12-Minute Microwave Method (2026)"
 date: "2026-10-20"
 excerpt: "Pressed flower wall art DIY: the microwave-press method (12 minutes vs 3 weeks), best flowers for pressing, floating-frame arranging, and color preservation."
 category: "DIY Projects"
+cluster: "wall-decor"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/pressed-flower-wall-art.jpg"
 ---
 
@@ -97,7 +98,7 @@ One floating frame is pretty. Three to five in a row is a statement. Pressed flo
 
 - **Press in batches:** one 12-minute session yields 15–25 usable flowers — enough for 3–4 frames.
 - **Vary the compositions:** same flower family, different arrangements — all-daisy triptych, or one hero bloom per frame with different supporting ferns.
-- **Unify with frames:** identical floating frames in a row (see our [gallery wall layout guide](/blog/gallery-wall-layout-guide/) for spacing — the linear template suits series perfectly).
+- **Unify with frames:** identical floating frames in a row (see our [gallery wall layout guide](/blog/gallery-wall-layouts/) for spacing — the linear template suits series perfectly).
 - **Label like a botanist:** small handwritten labels (Latin name, date pressed) under each arrangement elevate the whole series from "craft" to "collection."
 
 A five-frame series costs under $20 total and looks like something from a botanical garden gift shop.
