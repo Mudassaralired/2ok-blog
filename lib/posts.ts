@@ -10,7 +10,7 @@ import { slug as githubSlug } from "github-slugger";
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
 
 export const SITE_URL = "https://2ok.lol";
-const CLOUDINARY = "https://res.cloudinary.com/knb4zxgu/image/upload";
+const CLOUDINARY = "https://res.cloudinary.com/zhzxqahv/image/upload";
 
 export type PostMeta = {
   slug: string;
@@ -64,23 +64,8 @@ export function getAllPosts(): PostMeta[] {
 
 /** 1200x630 OG/social image for a post slug.
  *  Slugs shortened on 2026-10-19 keep pointing at their original upload path. */
-const OG_SLUG_ALIASES: Record<string, string> = {
-  "small-living-room-paint-colors": "best-paint-colors-small-living-room",
-  "small-living-room-sofa": "best-sofa-small-living-room",
-  "budget-christmas-decor": "christmas-decor-budget-2026",
-  "christmas-mantel-decor": "christmas-mantel-decor-budget",
-  "christmas-porch-decor": "christmas-porch-decor-budget",
-  "christmas-tree-alternatives": "christmas-tree-alternatives-small-apartments",
-  "dollar-tree-christmas-diy": "dollar-tree-christmas-decor-diy",
-  "halloween-decor-ideas": "halloween-decor-ideas-2026",
-  "gallery-wall-layouts": "gallery-wall-layout-guide",
-  "macrame-wall-hanging": "macrame-wall-hanging-beginners",
-  "small-living-room-rug-size": "rug-size-small-living-room",
-  "small-living-room-storage": "small-living-room-storage-ideas",
-};
 export function ogImageFor(slug: string): string {
-  const imgSlug = OG_SLUG_ALIASES[slug] ?? slug;
-  return `${CLOUDINARY}/w_1200,h_630,c_fill/f_auto,q_auto/2ok-blog/${imgSlug}.jpg`;
+  return `${CLOUDINARY}/w_1200,h_630,c_fill/f_auto,q_auto/2ok-blog/${slug}/cover`;
 }
 
 /** Descriptive cover alt text per post (10-15 words). */
