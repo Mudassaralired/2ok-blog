@@ -1,11 +1,10 @@
 import Link from "next/link";
-import { getAllPosts, getAllCategories, formatDate } from "@/lib/posts";
+import { getAllPosts, getAllClusters, formatDate } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 import CoverImage from "@/components/CoverImage";
 
 export default function HomePage() {
   const posts = getAllPosts();
-  const categories = getAllCategories();
   const [featured, ...rest] = posts;
   const latest = rest.slice(0, 3);
 
@@ -32,7 +31,7 @@ export default function HomePage() {
             Browse all ideas
           </Link>
           <Link
-            href="#categories"
+            href="#topics"
             className="rounded-full border border-ink/20 px-7 py-3.5 text-sm font-semibold text-ink transition-colors hover:border-clay hover:text-clay-dark"
           >
             Explore topics
@@ -73,27 +72,42 @@ export default function HomePage() {
         </section>
       )}
 
-      {/* Categories */}
-      <section id="categories" className="border-y border-ink/10 bg-sand/60">
+      {/* Topics — topical authority hubs */}
+      <section id="topics" className="border-y border-ink/10 bg-sand/60">
         <div className="mx-auto max-w-6xl px-5 py-14">
-          <h2 className="font-display text-2xl font-bold tracking-tight md:text-3xl">
+          <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay-dark">
+            Our topics
+          </p>
+          <h2 className="mt-2 font-display text-2xl font-bold tracking-tight md:text-3xl">
             Browse by topic
           </h2>
+          <p className="mt-3 max-w-2xl text-ink-soft">
+            Deep guides on the topics we cover best — start with our biggest,
+            DIY wall decor.
+          </p>
           <div className="mt-7 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {categories.map((c) => (
-              <Link
-                key={c.slug}
-                href={`/category/${c.slug}`}
-                className="group rounded-2xl border border-ink/10 bg-parchment p-6 transition-all hover:-translate-y-0.5 hover:shadow-lg hover:shadow-ink/10"
-              >
-                <p className="font-display text-xl font-semibold group-hover:text-clay-dark">
-                  {c.name}
-                </p>
-                <p className="mt-1.5 text-sm text-stone-warm">
-                  {c.count} {c.count === 1 ? "article" : "articles"}
-                </p>
-              </Link>
-            ))}
+            {getAllClusters()
+              .slice(0, 3)
+              .map((c) => (
+                <Link
+                  key={c.slug}
+                  href={`/topics/${c.slug}`}
+                  className="group rounded-2xl border border-ink/10 bg-parchment p-6 transition-all hover:-translate-y-0.5 hover:shadow-lg hover:shadow-ink/10"
+                >
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-clay-dark">
+                    {c.tagline}
+                  </p>
+                  <p className="mt-2 font-display text-xl font-semibold group-hover:text-clay-dark">
+                    {c.name}
+                  </p>
+                  <p className="mt-1.5 text-sm leading-relaxed text-ink-soft">
+                    {c.description}
+                  </p>
+                  <p className="mt-3 text-sm font-semibold text-stone-warm">
+                    {c.count} {c.count === 1 ? "article" : "articles"} →
+                  </p>
+                </Link>
+              ))}
           </div>
         </div>
       </section>

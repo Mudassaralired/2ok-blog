@@ -1,4 +1,4 @@
-import { getAllPosts, getAllCategories } from "@/lib/posts";
+import { getAllPosts, getAllCategories, getAllClusters } from "@/lib/posts";
 
 const SITE_URL = "https://2ok.lol";
 
@@ -33,6 +33,14 @@ export function buildSitemapEntries(): SitemapEntry[] {
     priority: 0.5,
   }));
 
+  // Topic hubs (topical authority): higher priority than categories.
+  const topics: SitemapEntry[] = getAllClusters().map((c) => ({
+    url: `${SITE_URL}/topics/${c.slug}`,
+    lastModified: newestPost,
+    changeFrequency: "weekly",
+    priority: 0.8,
+  }));
+
   return [
     {
       url: SITE_URL,
@@ -46,6 +54,7 @@ export function buildSitemapEntries(): SitemapEntry[] {
       changeFrequency: "daily",
       priority: 0.9,
     },
+    ...topics,
     ...categories,
     ...posts,
     {

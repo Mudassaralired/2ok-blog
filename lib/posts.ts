@@ -138,6 +138,63 @@ export function postsInCategory(categorySlug: string): PostMeta[] {
   return getAllPosts().filter((p) => slugify(p.category) === categorySlug);
 }
 
+/** Topical-authority clusters: curated topic hubs, finer than categories. */
+export type ClusterInfo = {
+  slug: string;
+  name: string;
+  tagline: string;
+  description: string;
+};
+
+const CLUSTERS: ClusterInfo[] = [
+  {
+    slug: "wall-decor",
+    name: "DIY Wall Decor",
+    tagline: "Our biggest topic",
+    description:
+      "Step-by-step tutorials and budget ideas for plaster art, gallery walls, macramé, thrifted frames, and renter-friendly projects — the heart of 2ok Home.",
+  },
+  {
+    slug: "small-living-room",
+    name: "Small Living Room",
+    tagline: "Small spaces, big ideas",
+    description:
+      "Layouts, furniture picks, paint colors, lighting, and storage ideas that make compact living rooms feel twice as big.",
+  },
+  {
+    slug: "christmas-decor",
+    name: "Christmas Decor",
+    tagline: "Seasonal on a budget",
+    description:
+      "Budget-friendly Christmas ideas — mantels, porches, tree alternatives, and dollar-store DIYs that look anything but cheap.",
+  },
+  {
+    slug: "halloween",
+    name: "Halloween Decor",
+    tagline: "Cozy, not tacky",
+    description: "Elegant Halloween decor ideas for a cozy autumn home.",
+  },
+];
+
+/** All clusters that have at least one article, most articles first. */
+export function getAllClusters(): (ClusterInfo & { count: number })[] {
+  const posts = getAllPosts();
+  return CLUSTERS.map((c) => ({
+    ...c,
+    count: posts.filter((p) => p.cluster === c.slug).length,
+  }))
+    .filter((c) => c.count > 0)
+    .sort((a, b) => b.count - a.count);
+}
+
+export function getCluster(clusterSlug: string) {
+  return getAllClusters().find((c) => c.slug === clusterSlug);
+}
+
+export function postsInCluster(clusterSlug: string): PostMeta[] {
+  return getAllPosts().filter((p) => p.cluster === clusterSlug);
+}
+
 export function formatDate(iso: string): string {
   const d = new Date(iso + "T00:00:00");
   return d.toLocaleDateString("en-US", {
