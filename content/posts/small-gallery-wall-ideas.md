@@ -4,6 +4,7 @@ date: "2026-10-21"
 excerpt: "Small-space gallery wall ideas that stay airy: 7 layouts for tight walls, frame-size rules, color tricks, and the mistakes that make small rooms feel cluttered."
 category: "DIY Projects"
 cluster: "wall-decor"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-gallery-wall-ideas/cover"
 ---
 
 Small walls scare people off gallery walls entirely — which is a shame, because small spaces are where gallery walls work *best*. A tight wall forces decisions: fewer pieces, tighter editing, one clear idea. The result is usually sharper than a sprawling salon wall in a big room. The trick is restraint: the right scale, breathing room around the arrangement, and a limited palette. Below are seven small-space gallery wall ideas with the measurements that keep them airy instead of overwhelming.
@@ -56,6 +57,9 @@ Three frames, one above the other, same width. The narrow-wall classic — it fi
 
 ## Idea 2: The ledge shelf mini gallery
 
+![Picture ledge shelf with overlapping framed prints](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-gallery-wall-ideas/in-article-1)
+
+
 A picture ledge shelf (60–90 cm) with 4–6 small frames leaned on it, overlapped slightly. The renter's best friend and the commitment-phobe's gallery — rearrange in seconds, zero holes beyond the shelf itself.
 
 **Measurements:** shelf at 150 cm from the floor. Frames 13×18 cm to 20×25 cm, leaned with front pieces overlapping back pieces by 3–4 cm. Keep the tallest frame at the back.
@@ -71,6 +75,9 @@ Sometimes the best small-space gallery wall is a single piece. One 50×70 cm pri
 **Best for:** tiny bedrooms, reading nooks, walls opposite the bed where you want calm, not stimulation.
 
 ## Idea 4: The 2x2 mini grid
+
+![Two-by-two grid of small prints above a wooden desk](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-gallery-wall-ideas/in-article-2)
+
 
 Four identical small frames in a tight grid. Jewel-box precision — it reads as one composed artwork from across the room.
 

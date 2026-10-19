@@ -4,6 +4,7 @@ date: "2026-10-20"
 excerpt: "Plaster wall art color ideas: warm neutrals, earthy terracotta and clay tones, bold moody shades, plus matte, limewash and gold-leaf finishes explained."
 category: "DIY Projects"
 cluster: "wall-decor"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/plaster-art-colors/cover"
 ---
 
 The texture is only half the piece — color decides whether it looks like a gallery find or a craft project. Plaster art takes color beautifully because every ridge and groove catches light differently, which means even a single flat color looks richer than it would on a flat canvas. This guide covers the palettes that work, the finishes that elevate, and exactly how to paint without burying your texture.
@@ -64,6 +65,9 @@ Dark plaster art is dramatic and genuinely high-end looking — when done right:
 
 ## Finishes that elevate: matte, limewash, metallic
 
+![Hand dry-brushing metallic gold onto textured plaster ridges](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/plaster-art-colors/in-article-1)
+
+
 ### Matte (the default)
 
 Flat matte acrylic or matte wall paint. Hides imperfections, looks like stone or plaster (because it is), photographs beautifully. **Beginners: always matte.** Everything below is an upgrade to attempt later.
@@ -106,6 +110,9 @@ The technique matters as much as the color:
 **Spray paint shortcut:** for even coverage on complex texture, matte spray paint works — light passes from 25–30 cm, two thin coats. Ventilate well and mask the workspace; overspray is real.
 
 ## Matching art color to your room
+
+![Warm neutral paint swatches held against a living room wall](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/plaster-art-colors/in-article-2)
+
 
 The 60-30-10 rule applied to wall art:
 

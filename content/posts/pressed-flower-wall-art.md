@@ -4,7 +4,7 @@ date: "2026-10-20"
 excerpt: "Pressed flower wall art DIY: the microwave-press method (12 minutes vs 3 weeks), best flowers for pressing, floating-frame arranging, and color preservation."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/pressed-flower-wall-art.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/pressed-flower-wall-art/cover"
 ---
 
 Pressed flower art is everywhere — but every tutorial tells you to wait 3–4 weeks for the book-press method. There's a faster way: the microwave press, which dries flowers in about 12 minutes with BETTER color retention than the slow method. This tutorial covers both methods, which flowers actually press well, and how to arrange and frame the results into art that looks like a botanical print.

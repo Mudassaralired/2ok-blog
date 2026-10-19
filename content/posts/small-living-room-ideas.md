@@ -4,7 +4,7 @@ date: "2026-10-10"
 excerpt: "9 designer tricks that make a small living room feel twice as big — no renovation needed. Rugs, mirrors, lighting, and smart furniture."
 category: "Small Spaces"
 cluster: "small-living-room"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/small-living-room-ideas.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-ideas/cover"
 ---
 
 Walk into a well-done small living room and you feel it instantly: cozy, calm, everything in its place — and somehow bigger than its square footage. No walls moved, no renovation, just smarter choices.
