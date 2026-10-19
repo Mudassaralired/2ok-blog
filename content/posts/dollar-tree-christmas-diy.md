@@ -4,7 +4,7 @@ date: "2026-10-17"
 excerpt: "10 Dollar Tree Christmas DIYs with exact costs and the elevation trick that makes each one look expensive. Ornament wreaths, frosted jars, tin tiles — every project under $10."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/dollar-tree-christmas-decor-diy.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/dollar-tree-christmas-diy/cover"
 ---
 
 Walk into a Dollar Tree in November and you'll see two kinds of shoppers. The first grabs armfuls of glittery plastic and ends up with a house that looks like a craft store exploded. The second — the dangerous one — walks out with $30 of supplies and a home that looks like a boutique hotel lobby.

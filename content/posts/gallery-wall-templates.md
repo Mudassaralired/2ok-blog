@@ -4,6 +4,7 @@ date: "2026-10-21"
 excerpt: "6 gallery wall templates with exact measurements: spacing rules, frame-size charts, the 145 cm rule, and a kraft-paper planning trick for a perfect first hang."
 category: "DIY Projects"
 cluster: "wall-decor"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/gallery-wall-templates/cover"
 ---
 
 Most gallery walls don't fail because of bad taste. They fail because of bad planning — frames hung one at a time, eyeballed, until the wall looks like a rummage sale. The fix isn't better art. It's a template: a planned layout with exact measurements, mocked up on the floor before a single nail goes in. Below are six proven gallery wall templates with the spacing, sizing, and hanging heights that make each one work. Pick the one that fits your wall, cut kraft paper to match, and hang the whole thing in under an hour.
@@ -48,6 +49,9 @@ Tighter than 5 cm and frames crowd each other; wider than 8 cm and the pieces st
 Every template needs one biggest piece. Hang (or plan) the anchor first, centered on your 145 cm line, and arrange everything else relative to it. Without an anchor, salon-style clusters drift and look accidental.
 
 ## Template 1: The grid
+
+![Three-by-three grid of black-framed botanical prints in a hallway](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/gallery-wall-templates/in-article-2)
+
 
 **Best for:** matching frames, modern and minimalist rooms, hallways.
 
@@ -144,6 +148,9 @@ Match your wall to a starting point, then adjust with the templates above:
 | Small/awkward wall | Corner wrap or 3-piece vertical stack | See [small-space gallery wall ideas](/blog/small-gallery-wall-ideas/) |
 
 ## Transferring the template to your wall
+
+![Hands taping kraft paper frame templates onto a wall](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/gallery-wall-templates/in-article-1)
+
 
 This is the 30-minute step that prevents 3 hours of patching. Do not skip it.
 

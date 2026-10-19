@@ -4,7 +4,7 @@ date: "2026-10-19"
 excerpt: "Macramé wall hanging for beginners: the 4 knots you need, exact cord measurements, and a complete first project — 60 cm dowel, 3 hours, zero experience."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/macrame-wall-hanging-beginners.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/macrame-wall-hanging/cover"
 ---
 
 Macramé looks like sorcery and is actually four knots repeated. That's the whole secret — every wall hanging you've ever admired is some combination of the same four knots, tied in different orders. Learn them once and the entire craft opens up.

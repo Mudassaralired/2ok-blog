@@ -4,6 +4,7 @@ date: "2026-10-21"
 excerpt: "4 easy macramé wall hanging patterns with step-by-step knot diagrams: the 3 knots you need, cord-length formula, and beginner mistakes that waste cord."
 category: "DIY Projects"
 cluster: "wall-decor"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/macrame-patterns/cover"
 ---
 
 Macramé looks intricate, but every wall hanging — from a simple fringe piece to an elaborate lattice — is built from just three knots. Learn those three, and the "patterns" below are simply recipes: this knot, this many times, in this order. No experience needed, no special talent, just cord and patience. This guide gives you the three knots as step-by-step diagrams, four complete beginner patterns, and the cord-length formula that stops you from cutting too short (the classic beginner heartbreak).
@@ -31,6 +32,9 @@ If you're brand new to knotting, our [beginner's macramé wall hanging tutorial]
 
 ## What you need
 
+![Flat-lay of macrame supplies on a wooden table](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/macrame-patterns/in-article-2)
+
+
 - **Cord:** 3 mm or 5 mm single-twist cotton cord. Single-twist (not braided) unravels into soft fringe — that's the look you want. A 100-meter spool ($15–20) covers every pattern here. Avoid acrylic/polyester for your first pieces; it's slippery and the knots don't grip.
 - **Dowel or stick:** a 40–60 cm wooden dowel (1.5–2 cm diameter), a branch, or a piece of driftwood. Thrift stores sell curtain rods for $2 that work perfectly.
 - **Sharp scissors** — dull scissors fray cord ends and make every cut miserable.
@@ -41,6 +45,9 @@ If you're brand new to knotting, our [beginner's macramé wall hanging tutorial]
 **Total startup cost:** $15–25, and the cord spool covers 3–4 hangings.
 
 ## The only 3 knots you need
+
+![Hands tying a square knot in macrame cord](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/macrame-patterns/in-article-1)
+
 
 Each "diagram" below is a numbered sequence. Read it once, do it once with scrap cord, and your hands will know it.
 

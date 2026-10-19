@@ -4,7 +4,7 @@ date: "2026-10-19"
 excerpt: "DIY wall decor ideas organized by budget, skill level, and style — with 4 complete step-by-step tutorials (plaster art, gallery walls, macramé) and 11 more projects."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-ideas.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-ideas/cover"
 ---
 
 Blank walls are the biggest missed opportunity in home decor — and the most fixable. Store-bought art is expensive, but handmade wall decor costs a fraction and looks better because it's yours. A $15 plaster canvas hangs next to $200 gallery pieces without apology; a macramé hanging you knotted yourself beats a mass-produced print every time. The secret isn't talent — it's following a good tutorial once, then repeating what worked.

@@ -4,7 +4,7 @@ date: "2026-10-16"
 excerpt: "12 elegant Halloween decor ideas with natural materials and candlelight — most under $10. Warm autumn style, zero plastic skeletons."
 category: "Seasonal Decor"
 cluster: "halloween"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/halloween-decor-ideas-2026.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/halloween-decor-ideas/cover"
 ---
 
 Picture this: your porch glowing with candlelight, clusters of moody pumpkins on the steps, dried wheat in a vase by the door — and not a single plastic skeleton in sight. That's the Halloween look we're going for: warm, elegant, quietly spooky.

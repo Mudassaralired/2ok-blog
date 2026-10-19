@@ -4,7 +4,7 @@ date: "2026-10-19"
 excerpt: "Gallery wall layout guide: 4 templates (grid, anchor, linear, staircase) with exact spacing formulas, hanging math, and the paper-template method. Zero guesswork."
 category: "DIY Projects"
 cluster: "wall-decor"
-cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/gallery-wall-layout-guide.jpg"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/gallery-wall-layouts/cover"
 ---
 
 A gallery wall looks effortless and random. It's neither — it's the most precisely planned wall in the house. The good news: professionals use just four formulas, and once you know them, the "random" look becomes a recipe you can follow.
