@@ -1,7 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useRouter } from "next/navigation";
+import { useState, type FormEvent } from "react";
 
 const NAV = [
   { href: "/", label: "Home" },
@@ -19,6 +20,23 @@ const TOPICS = [
 
 export default function Header() {
   const [open, setOpen] = useState(false);
+  const [search, setSearch] = useState("");
+  const router = useRouter();
+
+  const submitSearch = (e: FormEvent) => {
+    e.preventDefault();
+    const q = search.trim();
+    const url = q ? `/blog?q=${encodeURIComponent(q)}` : "/blog";
+    setOpen(false);
+    // Already on /blog: the page does not remount on a query-only
+    // navigation, so hand the query to BlogSearch directly; otherwise
+    // navigate and BlogSearch picks ?q= up on mount.
+    if (window.location.pathname === "/blog") {
+      window.dispatchEvent(new CustomEvent<string>("site-search", { detail: q }));
+    } else {
+      router.push(url);
+    }
+  };
 
   return (
     <header className="sticky top-0 z-50 border-b border-ink/10 bg-cream/90 backdrop-blur">
@@ -64,6 +82,30 @@ export default function Header() {
               <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
             </svg>
           </a>
+          <form
+            role="search"
+            onSubmit={submitSearch}
+            className="hidden items-center gap-1.5 lg:flex"
+          >
+            <input
+              type="search"
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              placeholder="Search articles…"
+              aria-label="Search articles"
+              className="w-36 rounded-full border border-ink/15 bg-white px-3.5 py-2 text-sm text-ink outline-none placeholder:text-stone-warm focus:border-clay-dark"
+            />
+            <button
+              type="submit"
+              aria-label="Search"
+              className="grid h-9 w-9 place-items-center rounded-full text-ink-soft transition-colors hover:text-clay-dark"
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8" />
+                <line x1="21" y1="21" x2="16.65" y2="16.65" />
+              </svg>
+            </button>
+          </form>
           <Link
             href="/blog"
             className="rounded-full bg-ink px-5 py-2.5 text-sm font-semibold text-cream transition-colors hover:bg-clay-dark"
@@ -101,6 +143,22 @@ export default function Header() {
 
       {open && (
         <nav className="border-t border-ink/10 bg-cream px-5 py-4 md:hidden">
+          <form role="search" onSubmit={submitSearch} className="mb-2 flex gap-2">
+            <input
+              type="search"
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              placeholder="Search articles…"
+              aria-label="Search articles"
+              className="w-full rounded-full border border-ink/15 bg-white px-4 py-2.5 text-base text-ink outline-none placeholder:text-stone-warm focus:border-clay-dark"
+            />
+            <button
+              type="submit"
+              className="shrink-0 rounded-full bg-ink px-5 py-2.5 text-sm font-semibold text-cream"
+            >
+              Search
+            </button>
+          </form>
           {NAV.map((item) => (
             <Link
               key={item.href}

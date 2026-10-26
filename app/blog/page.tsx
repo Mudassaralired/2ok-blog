@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { getAllPosts } from "@/lib/posts";
-import PostCard from "@/components/PostCard";
+import BlogSearch from "@/components/BlogSearch";
 
 const SITE_URL = "https://2ok.lol";
 
@@ -32,11 +32,7 @@ export default function BlogIndexPage() {
         Every decor idea we&apos;ve published — newest first.
       </p>
 
-      <div className="mt-10 grid gap-7 md:grid-cols-2 lg:grid-cols-3">
-        {posts.map((p) => (
-          <PostCard key={p.slug} post={p} />
-        ))}
-      </div>
+      <BlogSearch posts={posts} />
     </div>
   );
 }
