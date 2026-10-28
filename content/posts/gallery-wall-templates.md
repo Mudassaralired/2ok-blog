@@ -1,7 +1,7 @@
 ---
 title: "Gallery Wall Templates: 6 Layouts with Exact Measurements"
 date: "2026-10-19"
-excerpt: "6 gallery wall templates with exact measurements: spacing rules, frame-size charts, the 145 cm rule, and a kraft-paper planning trick for a perfect first hang."
+excerpt: "6 gallery templates with exact measurements: spacing rules, frame-size charts, the 145 cm rule, and a kraft-paper trick for a perfect first hang."
 category: "DIY Projects"
 cluster: "wall-decor"
 ---

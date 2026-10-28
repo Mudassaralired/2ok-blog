@@ -1,7 +1,7 @@
 ---
-title: "Limewash Walls: How to Get the Cloudy Finish Right — Costs, Coats and the Dry-Color Trap (2026)"
+title: "Limewash Walls: Costs, Coats & the Dry-Color Trap"
 date: "2026-10-21"
-excerpt: "Limewash walls explained: why it dries 30-40% lighter than the can, the block-brush crosshatch technique, when drywall needs a mineral primer, real costs, and the rooms where limewash should never go."
+excerpt: "Why limewash dries 30-40% lighter than the can, the crosshatch technique, when drywall needs mineral primer, real costs, and rooms to avoid."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/limewash-walls/cover"

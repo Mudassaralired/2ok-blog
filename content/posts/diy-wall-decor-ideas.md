@@ -1,7 +1,7 @@
 ---
-title: "DIY Wall Decor Ideas: 15+ Projects by Budget, Skill & Style (2026)"
+title: "DIY Wall Decor Ideas: 15+ Projects by Budget & Skill"
 date: "2026-10-19"
-excerpt: "DIY wall decor ideas organized by budget, skill level, and style — with 4 complete step-by-step tutorials (plaster art, gallery walls, macramé) and 11 more projects."
+excerpt: "15+ DIY wall decor projects by budget, skill, and style, with 4 complete step-by-step tutorials and 11 more ideas to try this weekend."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-ideas/cover"

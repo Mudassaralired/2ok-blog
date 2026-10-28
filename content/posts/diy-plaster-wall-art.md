@@ -1,5 +1,5 @@
 ---
-title: "DIY Plaster Wall Art: The Complete Beginner's Tutorial (2026)"
+title: "DIY Plaster Wall Art: The Complete Beginner's Tutorial"
 date: "2026-10-19"
 excerpt: "DIY plaster wall art tutorial: joint compound vs plaster, 3 techniques with drying times, cracking fixes, and the sealing step everyone skips."
 category: "DIY Projects"

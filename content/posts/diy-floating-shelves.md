@@ -1,7 +1,7 @@
 ---
-title: "DIY Floating Shelves That Don't Sag: Brackets, Weight Limits and Install Rules (2026)"
+title: "DIY Floating Shelves That Don't Sag: Brackets & Weight Limits"
 date: "2026-10-21"
-excerpt: "Floating shelves sag for predictable reasons: short rods, drywall anchors, deep shelves. The bracket math that actually holds books — 45-50 lbs per stud, rods at 80% of shelf depth — plus install steps, real costs, and styling rules."
+excerpt: "Shelves sag for predictable reasons: short rods, drywall anchors, deep shelves. The bracket math that holds books, plus install steps and real costs."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-floating-shelves/cover"

@@ -1,7 +1,7 @@
 ---
-title: "DIY Christmas Wreath Ideas: Size, Greenery, and a First Wreath That Looks Store-Bought"
+title: "DIY Christmas Wreath Ideas: Sizing, Bundles & 10 Styles"
 date: "2026-10-25"
-excerpt: "A homemade wreath looks thin for predictable reasons: branches cut too long, bundles too sparse, the wrong size for the door. The sizing rules (24–30 inches for a standard door), the bundle method that makes a 14-inch frame finish full at 22–24 inches, and 10 wreath ideas from classic pine to dried orange."
+excerpt: "Thin wreaths happen for predictable reasons: branches too long, bundles too sparse, wrong size. Sizing rules, the full-bundle method, and 10 ideas."
 category: "DIY Projects"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-christmas-wreath-ideas/cover"

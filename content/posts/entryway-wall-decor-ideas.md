@@ -1,7 +1,7 @@
 ---
-title: "Entryway Wall Decor Ideas: Console, Mirror, and Gallery Formulas That Actually Work"
+title: "Entryway Wall Decor: Console, Mirror & Gallery Formulas"
 date: "2026-10-25"
-excerpt: "An entryway wall looks wrong for measurable reasons: a mirror wider than the console, art hung too high, a console too deep for the walkway. The proportion rules (mirror at two-thirds of console width, 6–8 inches above it), plus 10 decor formulas for narrow halls, rentals, and grand foyers."
+excerpt: "A mirror wider than the console, art hung too high, a console too deep: the proportion rules that fix entryways, plus 10 formulas for narrow halls."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/entryway-wall-decor-ideas/cover"

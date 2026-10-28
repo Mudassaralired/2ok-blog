@@ -1,7 +1,7 @@
 ---
 title: "DIY Wall Decor: The Ultimate Guide (40+ Ideas, Tutorials & Tips)"
 date: "2026-10-19"
-excerpt: "The ultimate DIY wall decor guide: 40+ ideas across 7 techniques — plaster art, gallery walls, macrame, thrifted frames — with costs, tools, and tutorials."
+excerpt: "40+ DIY wall decor ideas across 7 techniques, with costs, tools, and tutorials. Start here if you want one guide that covers the whole wall."
 category: "DIY Projects"
 cluster: "wall-decor"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "10 Dollar Tree Christmas DIYs That Don't Look Cheap (2026)"
 date: "2026-10-17"
-excerpt: "10 Dollar Tree Christmas DIYs with exact costs and the elevation trick that makes each one look expensive. Ornament wreaths, frosted jars, tin tiles — every project under $10."
+excerpt: "10 Dollar Tree Christmas DIYs with exact costs and the elevation trick that makes each one look expensive. Every project under $10."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/dollar-tree-christmas-diy/cover"

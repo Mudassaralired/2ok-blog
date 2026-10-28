@@ -1,7 +1,7 @@
 ---
-title: "DIY Picture Frame Moulding: The $82 Wall Upgrade That Looks Built-In (2026)"
+title: "DIY Picture Frame Moulding: An $82 Built-In Look"
 date: "2026-10-20"
-excerpt: "DIY picture frame moulding tutorial: exact spacing rules, the tape-first layout trick, real material costs, and the caulk step that separates built-in from glued-on."
+excerpt: "Exact spacing rules, the tape-first layout trick, real material costs, and the caulk step that separates built-in from glued-on."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-picture-frame-moulding/cover"

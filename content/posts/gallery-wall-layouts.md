@@ -1,7 +1,7 @@
 ---
 title: "Gallery Wall Layout: 4 Templates with Exact Spacing Formulas (2026)"
 date: "2026-10-19"
-excerpt: "Gallery wall layout guide: 4 templates (grid, anchor, linear, staircase) with exact spacing formulas, hanging math, and the paper-template method. Zero guesswork."
+excerpt: "4 gallery templates (grid, anchor, linear, staircase) with exact spacing formulas, hanging math, and the paper-template method. Zero guesswork."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/gallery-wall-layouts/cover"

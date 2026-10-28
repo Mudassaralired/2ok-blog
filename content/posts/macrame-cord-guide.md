@@ -1,7 +1,7 @@
 ---
-title: "Macramé Cord Guide: Types, Sizes (3mm vs 5mm) and Exactly How Much to Buy (2026)"
+title: "Macrame Cord Guide: 3mm vs 5mm & How Much to Buy"
 date: "2026-10-23"
-excerpt: "Single-strand, 3-ply or braided? 3mm or 5mm? And the cord math that stops you running out mid-hanging: the ×4 rule, knot multipliers, worked totals for small, medium and large wall hangings, and the filler-cord shortcut nobody mentions."
+excerpt: "Single-strand, 3-ply, or braided? 3mm or 5mm? The x4 cord rule, knot multipliers, worked totals for every size, and the filler-cord shortcut."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/macrame-cord-guide/cover"

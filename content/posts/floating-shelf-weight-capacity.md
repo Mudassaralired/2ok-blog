@@ -1,7 +1,7 @@
 ---
 title: "How Much Weight Can Floating Shelves Hold? Real Numbers by Mounting Method"
 date: "2026-10-26"
-excerpt: "A floating shelf holds what its wall connection holds. Here is the per-stud rule, the capacity table by mounting method, and the depth and spacing rules that stop sagging and falls."
+excerpt: "A shelf holds what its wall connection holds. The per-stud rule, capacity by mounting method, and the depth rules that stop sagging and falls."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/floating-shelf-weight-capacity/cover"
