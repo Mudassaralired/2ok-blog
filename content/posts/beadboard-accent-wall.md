@@ -16,7 +16,7 @@ Beadboard is the wall treatment for people who want shiplap's texture without sh
 > - **Bathrooms need PVC or moisture-rated panels** — standard MDF swells and never recovers
 > - **Order 10% extra** and plan seams so they never land as a skinny strip at a corner
 
-**In this guide:**
+## Table of Contents
 - [What beadboard actually is](#what-beadboard-actually-is)
 - [Panels vs individual planks](#panels-vs-individual-planks)
 - [Three heights, three looks](#three-heights-three-looks)

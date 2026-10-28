@@ -18,7 +18,7 @@ Here are the 5 best sofa types for a small living room, ranked, with exact dimen
 > - **Biggest mistake:** buying a standard 220 cm three-seater "because it was on sale"
 > - **Small-room sofa rule:** legs you can see under beat skirts every time
 
-**In this guide:**
+## Table of Contents
 - [The dimensions that matter (read before shopping)](#the-dimensions-that-matter-read-before-shopping)
 - [1. The apartment sofa (best overall)](#1-the-apartment-sofa-best-overall)
 - [2. The loveseat (best for tiny rooms)](#2-the-loveseat-best-for-tiny-rooms)

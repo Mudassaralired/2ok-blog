@@ -17,7 +17,7 @@ Here's what designers know: a compact room done well feels **cozier, warmer, and
 > - **Skill level:** beginner — rearranging furniture and hanging curtains
 > - **Biggest impact per dollar:** the right rug size + floating furniture (free)
 
-**In this guide:**
+## Table of Contents
 - [1. Float your furniture](#1-float-your-furniture)
 - [2. One large rug, not several small ones](#2-one-large-rug-not-several-small-ones)
 - [3. Go up, not out](#3-go-up-not-out)

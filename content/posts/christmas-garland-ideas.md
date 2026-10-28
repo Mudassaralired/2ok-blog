@@ -16,7 +16,7 @@ A garland is the most forgiving Christmas decoration you can buy. A wreath has t
 > - Measure before you buy: a standard garland runs about **9 feet**, and a staircase needs far more than a mantel.
 > - Secure with ribbon, floral wire, or removable hooks — never nails through a mantel or banister you care about.
 
-## In this guide
+## Table of Contents
 
 - [Fresh, faux, or both: the honest math](#fresh-faux-or-both-the-honest-math)
 - [How much garland to buy](#how-much-garland-to-buy)

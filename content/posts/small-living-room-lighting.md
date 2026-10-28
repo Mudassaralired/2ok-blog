@@ -18,7 +18,7 @@ If you haven't mapped out the room itself yet, start with our [small living room
 > - **Brightness target:** ~20 lumens per square foot of floor area, spread across 4–6 sources
 > - **#1 mistake:** a single bright overhead light — it flattens the room and kills all depth
 
-**In this guide:**
+## Table of Contents
 - [1. Layer light at three heights](#1-layer-light-at-three-heights)
 - [2. Choose warm color temperature](#2-choose-warm-color-temperature)
 - [3. Bounce light with mirrors](#3-bounce-light-with-mirrors)

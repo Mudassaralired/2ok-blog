@@ -18,7 +18,7 @@ New to wall decor planning? Start with our [DIY wall decor guide](/blog/diy-wall
 > - **Spacing:** 5 cm gaps (tighter than big-wall galleries — small arrangements need cohesion)
 > - **Renters:** all 7 ideas work with [damage-free hanging](/blog/renter-friendly-wall-decor/)
 
-**In this guide:**
+## Table of Contents
 - [Why small walls are easier than big ones](#why-small-walls-are-easier-than-big-ones)
 - [The scale rules for tight walls](#the-scale-rules-for-tight-walls)
 - [Idea 1: The three-piece vertical stack](#idea-1-the-three-piece-vertical-stack)

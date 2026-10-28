@@ -17,7 +17,7 @@ Pick one wall, one project, one weekend. Done is better than perfect — and you
 > - **Skill level:** true beginner — if you can use tape and scissors, you can do all seven
 > - **Most renter-friendly:** taped gallery wall and fabric hanging (zero holes)
 
-**In this guide:**
+## Table of Contents
 - [1. The taped gallery wall](#1-the-taped-gallery-wall)
 - [2. Fabric wall hanging](#2-fabric-wall-hanging)
 - [3. Floating photo ledges](#3-floating-photo-ledges)

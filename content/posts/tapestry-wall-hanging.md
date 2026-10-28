@@ -15,7 +15,7 @@ A tapestry does three jobs no frame can: it covers a serious amount of wall for 
 > - **A rod sleeve spreads the load across the whole top edge** — point-hanging is what tears and sags fabric
 > - **Block before hanging:** mist, lay flat, square it up, let it dry — this is the anti-sag step
 
-**In this guide:**
+## Table of Contents
 - [Choosing: size, fabric and style](#choosing-size-fabric-and-style)
 - [Hanging methods by weight](#hanging-methods-by-weight)
 - [The rod sleeve, including the no-sew version](#the-rod-sleeve-including-the-no-sew-version)

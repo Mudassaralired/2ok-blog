@@ -20,7 +20,7 @@ New to budget Christmas decorating? Our [budget Christmas decor guide](/blog/bud
 > - **No fireplace?** A console table or shelf styled the same way works identically
 > - **Biggest mistake:** cramming every centimeter — breathing room reads as expensive
 
-**In this guide:**
+## Table of Contents
 - [The 4-part mantel formula](#the-4-part-mantel-formula)
 - [Look 1: Warm neutral ($18)](#look-1-warm-neutral-18)
 - [Look 2: Traditional red and green ($20)](#look-2-traditional-red-and-green-20)

@@ -18,7 +18,7 @@ If wall decor is new territory for you, our [DIY wall decor beginner's guide](/b
 > - **The universal process:** clean → scuff-sand → prime → 2 thin paint coats → seal
 > - **Best ROI flip:** matte black or antique gold — both make cheap frames look 10x the price
 
-**In this guide:**
+## Table of Contents
 - [How to spot frames worth flipping](#how-to-spot-frames-worth-flipping)
 - [8 before-and-after flip ideas](#8-before-and-after-flip-ideas)
 - [The universal flip process](#the-universal-flip-process)

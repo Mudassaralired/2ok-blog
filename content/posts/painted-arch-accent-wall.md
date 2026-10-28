@@ -17,7 +17,7 @@ Here's the sizing math, the drawing method, and the painting sequence that keeps
 > - The gap above the arch must be **larger than the radius**, or the curve runs into the ceiling
 > - **Seal the tape edge with the base wall color first** — that's the bleed-proofing step
 
-**In this guide:**
+## Table of Contents
 - [Where a painted arch works](#where-a-painted-arch-works)
 - [Sizing: width, height and the spring line](#sizing-width-height-and-the-spring-line)
 - [Drawing the curve: the string compass](#drawing-the-curve-the-string-compass)

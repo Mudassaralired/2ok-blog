@@ -19,7 +19,7 @@ New to dressing up walls entirely? Our [DIY wall decor beginner's guide](/blog/d
 > - **#1 application rule:** plumb line first, panels hang top-down — never try to align as you unpeel
 > - **Removal:** low heat + slow 180° pull; comes off clean on cured paint, eggshell or satin finish
 
-**In this guide:**
+## Table of Contents
 - [What "removable" actually means](#what-removable-actually-means)
 - [10 accent wall ideas](#10-accent-wall-ideas)
 - [How much to order: the real math](#how-much-to-order-the-real-math)

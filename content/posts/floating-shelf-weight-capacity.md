@@ -16,7 +16,7 @@ Everyone asks this question the same way: standing in the store, holding a shelf
 > - Brackets should never sit more than **48 inches apart**, and on a standard wall that means lining them up with studs 16 inches apart.
 > - The manufacturer's rating for your exact bracket always wins over any rule of thumb in this guide.
 
-## In this guide
+## Table of Contents
 
 - [The short answer: the per-stud rule](#the-short-answer-the-per-stud-rule)
 - [Capacity by mounting method](#capacity-by-mounting-method)

@@ -18,7 +18,7 @@ Here's how to do Christmas porch decor on a budget: 9 ideas, under $30 total, or
 > - **Biggest impact per dollar:** warm-white lights + a layered doormat (under $10 combined)
 > - **Skill level:** beginner — no tools beyond scissors
 
-**In this guide:**
+## Table of Contents
 - [Zone 1: The front door](#zone-1-the-front-door)
 - [Zone 2: The steps](#zone-2-the-steps)
 - [Zone 3: Planters and railings](#zone-3-planters-and-railings)

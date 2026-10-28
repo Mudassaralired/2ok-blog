@@ -16,7 +16,7 @@ Small living rooms don't have a storage problem — they have a *visible stuff* 
 > - **The measurement that matters:** 25 cm under-sofa clearance fits standard storage bins; less doesn't
 > - **Vertical > horizontal:** walls are free square footage you're not using
 
-**In this guide:**
+## Table of Contents
 - [The declutter rule (read this first)](#the-declutter-rule-read-this-first)
 - [The 20-minute storage audit](#the-20-minute-storage-audit)
 - [10 storage ideas with real dimensions](#10-storage-ideas-with-real-dimensions)

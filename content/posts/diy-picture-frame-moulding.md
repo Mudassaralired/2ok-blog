@@ -17,7 +17,7 @@ This is the project currently filling Pinterest boards for a reason — it photo
 > - **Skill level:** beginner-intermediate — the only real skill is a 45° miter cut
 > - **The make-or-break step:** caulk and filler. Skip it and the boxes look glued on; do it and they look original to the house
 
-**In this guide:**
+## Table of Contents
 - [What picture frame moulding actually is](#what-picture-frame-moulding-actually-is)
 - [The spacing rules that make it look professional](#the-spacing-rules-that-make-it-look-professional)
 - [Materials and what they actually cost](#materials-and-what-they-actually-cost)

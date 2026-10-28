@@ -9,7 +9,7 @@ cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/
 
 Walk into a Dollar Tree in November and you'll see two kinds of shoppers. The first grabs armfuls of glittery plastic and ends up with a house that looks like a craft store exploded. The second — the dangerous one — walks out with $30 of supplies and a home that looks like a boutique hotel lobby.
 
-The difference isn't taste. It's knowing which dollar-store projects have good bones and which ones scream "I cost $1.25." I've spent years figuring that out so you don't have to. Here are 10 Dollar Tree Christmas DIYs that genuinely don't look cheap — each with the exact cost and the one elevation trick that takes it from crafty to classy.
+The difference isn't taste. It's knowing which dollar-store projects have good bones and which ones scream "I cost $1.25." Here are 10 Dollar Tree Christmas DIYs that genuinely don't look cheap — each with the exact cost and the one elevation trick that takes it from crafty to classy. Prices and stock vary by store and location, so check your local Dollar Tree before you plan around a specific item.
 
 If you want the full under-$50 whole-home playbook these pair with, start with our [budget Christmas decor guide](/blog/budget-christmas-decor/).
 
@@ -19,7 +19,7 @@ If you want the full under-$50 whole-home playbook these pair with, start with o
 > - **The golden rule:** one elevation trick per project (matte paint, real greenery, warm light) is what kills the "dollar store" look
 > - **Skill level:** beginner — if you can use a glue gun, you can do all of these
 
-**In this guide:**
+## Table of Contents
 - [1. The ornament wreath](#1-the-ornament-wreath)
 - [2. Frosted fairy-light jars](#2-frosted-fairy-light-jars)
 - [3. Twine cone trees](#3-twine-cone-trees)

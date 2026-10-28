@@ -19,7 +19,7 @@ If you have never made anything for your walls before, read our [beginner's guid
 > - **The 57-inch rule:** hang art so its center sits ~145 cm (57 in) from the floor — the single biggest hanging upgrade
 > - **Interlink:** every technique below links to its full tutorial — this page is your hub
 
-**In this guide:**
+## Table of Contents
 - [Why make your own wall decor](#why-make-your-own-wall-decor)
 - [The 7 core DIY wall decor techniques](#the-7-core-diy-wall-decor-techniques)
 - [Which technique should you start with](#which-technique-should-you-start-with)

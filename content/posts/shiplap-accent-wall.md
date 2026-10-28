@@ -15,7 +15,7 @@ Shiplap survived its farmhouse moment and came out the other side as a permanent
 > - **Paint the wall a dark shade first** — whatever shows through the gaps then reads as shadow
 > - **The first board must be perfectly level:** every later row inherits its error
 
-**In this guide:**
+## Table of Contents
 - [Three routes to the look](#three-routes-to-the-look)
 - [Materials and real costs](#materials-and-real-costs)
 - [Board math for a real wall](#board-math-for-a-real-wall)

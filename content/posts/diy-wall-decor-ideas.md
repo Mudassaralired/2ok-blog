@@ -20,7 +20,7 @@ New to DIY entirely? Start with our [7 beginner projects](/blog/diy-wall-decor-b
 > - **Best ROI:** plaster art ($15 materials, looks like $200 gallery art)
 > - **Start here:** pick ONE wall, ONE project, finish it this weekend
 
-**In this guide:**
+## Table of Contents
 - [The 4 complete tutorials (start here)](#the-4-complete-tutorials-start-here)
 - [How to pick your project: the 3-question filter](#how-to-pick-your-project-the-3-question-filter)
 - [The $30 starter kit](#the-30-starter-kit)

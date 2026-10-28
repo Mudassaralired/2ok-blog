@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import {
   getAllPosts,
   getPost,
+  getFaqItems,
   formatDate,
   slugify,
   coverAlt,
@@ -77,6 +78,7 @@ export default async function ArticlePage({ params }: Props) {
   if (!post) notFound();
 
   const { meta, contentHtml, headings } = post;
+  const faqItems = getFaqItems(meta.slug);
   const articleUrl = `${SITE_URL}/blog/${meta.slug}`;
   const categoryUrl = `${SITE_URL}/category/${slugify(meta.category)}`;
 
@@ -169,6 +171,19 @@ export default async function ArticlePage({ params }: Props) {
           },
         ],
       },
+      ...(faqItems.length > 0
+        ? [
+            {
+              "@type": "FAQPage",
+              "@id": `${articleUrl}#faq`,
+              mainEntity: faqItems.map((f) => ({
+                "@type": "Question",
+                name: f.question,
+                acceptedAnswer: { "@type": "Answer", text: f.answer },
+              })),
+            },
+          ]
+        : []),
       {
         "@type": "ItemList",
         "@id": `${articleUrl}#contents`,

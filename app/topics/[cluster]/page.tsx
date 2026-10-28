@@ -1,7 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getAllClusters, getCluster, postsInCluster, SITE_URL } from "@/lib/posts";
+import {
+  getAllClusters,
+  getCluster,
+  postsInCluster,
+  POSTS_PER_PAGE,
+  SITE_URL,
+} from "@/lib/posts";
+import Pagination from "@/components/Pagination";
 import PostCard from "@/components/PostCard";
 
 type Props = { params: Promise<{ cluster: string }> };
@@ -35,6 +42,11 @@ export default async function TopicPage({ params }: Props) {
   const info = getCluster(cluster);
   if (!info) notFound();
   const posts = postsInCluster(cluster);
+  const totalPages = Math.max(
+    1,
+    Math.ceil(posts.length / POSTS_PER_PAGE)
+  );
+  const pagePosts = posts.slice(0, POSTS_PER_PAGE);
 
   return (
     <div className="mx-auto max-w-6xl px-5 py-14 md:py-20">
@@ -63,10 +75,16 @@ export default async function TopicPage({ params }: Props) {
       </p>
 
       <div className="mt-10 grid gap-7 md:grid-cols-2 lg:grid-cols-3">
-        {posts.map((p) => (
+        {pagePosts.map((p) => (
           <PostCard key={p.slug} post={p} />
         ))}
       </div>
+
+      <Pagination
+        currentPage={1}
+        totalPages={totalPages}
+        basePath={`/topics/${cluster}`}
+      />
 
       <div className="mt-14 rounded-2xl border border-ink/10 bg-sand/60 p-7">
         <p className="font-display text-xl font-semibold">Explore more topics</p>

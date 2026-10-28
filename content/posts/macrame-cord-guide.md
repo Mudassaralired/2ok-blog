@@ -17,7 +17,7 @@ Here's the full decision: the three constructions, the size ladder, and the meas
 > - **A medium 24×36" hanging** takes roughly **530 feet** of 3mm cord
 > - **Cost:** one 100m roll ($10–$16) covers most beginner pieces
 
-**In this guide:**
+## Table of Contents
 - [The three cord constructions](#the-three-cord-constructions)
 - [Size guide: 2mm to 6mm](#size-guide-2mm-to-6mm)
 - [The cord math: how much to cut](#the-cord-math-how-much-to-cut)

@@ -18,7 +18,7 @@ This guide gives you the 3 measurements that decide what size rug for a small li
 > - **Test free:** painter's tape outline on the floor before you buy
 > - **When in doubt:** size up, not down — a slightly big rug beats a slightly small one every time
 
-**In this guide:**
+## Table of Contents
 - [The 3 measurements that matter](#the-3-measurements-that-matter)
 - [Size recipe 1: the compact 5x7 (150x210 cm)](#size-recipe-1-the-compact-5x7-150x210-cm)
 - [Size recipe 2: the versatile 6x9 (180x270 cm)](#size-recipe-2-the-versatile-6x9-180x270-cm)

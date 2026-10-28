@@ -18,7 +18,7 @@ If you want the deep-dive on individual paint shades first, see our [best paint 
 > - **The dark exception:** one charcoal or deep-green accent wall works — but only with 2700K lighting and light everything-else
 > - **Cost:** paint is $30–$60 per wall; a full scheme refresh via textiles alone runs $80–$150
 
-**In this guide:**
+## Table of Contents
 - [The rule behind all six palettes](#the-rule-behind-all-six-palettes)
 - [1. Warm white and greige](#1-warm-white-and-greige)
 - [2. Soft sage and cream](#2-soft-sage-and-cream)

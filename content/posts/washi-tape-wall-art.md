@@ -18,7 +18,7 @@ The difference between washi tape that looks like a design choice and washi tape
 > - Prep matters more than talent: a clean wall, a pencil-and-ruler map, and firm burnishing along every edge.
 > - Test removal on a hidden spot first, and warm old tape gently with a hairdryer before peeling.
 
-## In this guide
+## Table of Contents
 
 - [Before you buy: what to get](#before-you-buy-what-to-get)
 - [The technique: crisp lines, clean removal](#the-technique-crisp-lines-clean-removal)

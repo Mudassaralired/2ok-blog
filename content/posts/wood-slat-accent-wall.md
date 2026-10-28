@@ -17,7 +17,7 @@ Route one: build it from raw lumber, slat by slat. Route two: buy ready-made aco
 > - **Spacing sweet spot:** slats 1½–2¼ in wide with a ½–¾ in gap
 > - **The rule that decides everything:** the first slat must be perfectly plumb — every following slat inherits its error
 
-**In this guide:**
+## Table of Contents
 - [The two routes, honestly compared](#the-two-routes-honestly-compared)
 - [What each route really costs](#what-each-route-really-costs)
 - [Spacing math: how many slats you actually need](#spacing-math-how-many-slats-you-actually-need)

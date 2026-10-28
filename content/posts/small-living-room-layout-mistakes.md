@@ -19,7 +19,7 @@ The fixes below are not taste preferences. They are measurements designers use b
 > - **A rug only works if the front legs of every seat rest on it**; a floating rug shrinks the room visually
 > - **Fewer, larger pieces beat many small ones** — a room full of tiny furniture reads as clutter, not as spaciousness
 
-**In this guide:**
+## Table of Contents
 - [Mistake 1: Pushing everything against the walls](#mistake-1-pushing-everything-against-the-walls)
 - [Mistake 2: Walkways that were never measured](#mistake-2-walkways-that-were-never-measured)
 - [Mistake 3: The coffee table at the wrong distance](#mistake-3-the-coffee-table-at-the-wrong-distance)

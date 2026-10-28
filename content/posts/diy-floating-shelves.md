@@ -17,7 +17,7 @@ Here's the weight math nobody prints on the kit box, the install sequence that k
 > - **Skill level:** intermediate-beginner — one careful afternoon for a pair
 > - **Cost:** **$35–$85 per shelf DIY** vs $150+ installed
 
-**In this guide:**
+## Table of Contents
 - [Why floating shelves sag](#why-floating-shelves-sag)
 - [Bracket types and honest weight limits](#bracket-types-and-honest-weight-limits)
 - [Choosing the shelf: thickness, depth, material](#choosing-the-shelf-thickness-depth-material)

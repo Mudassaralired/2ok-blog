@@ -19,7 +19,7 @@ Start with the furniture, not the decor. The console table sets every other meas
 > - **Wall coverage: 30–40% maximum** — the arrangement should anchor the wall, not fill it edge to edge
 > - **One anchor piece beats five small ones** on a narrow wall; build outward from a single mirror or large frame
 
-**In this guide:**
+## Table of Contents
 - [The console sets every measurement](#the-console-sets-every-measurement)
 - [Mirror size and height, settled](#mirror-size-and-height-settled)
 - [10 entryway wall decor formulas](#10-entryway-wall-decor-formulas)

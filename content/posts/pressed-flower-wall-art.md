@@ -18,7 +18,7 @@ Hang your finished pieces in your [thrifted made-over frames](/blog/thrifted-fra
 > - **Framing:** floating frames (glass both sides) show pressed flowers best
 > - **Color rule:** keep finished art out of direct sun — UV fades pressed flowers in months
 
-**In this tutorial:**
+## Table of Contents
 - [Best flowers for pressing (and ones to skip)](#best-flowers-for-pressing-and-ones-to-skip)
 - [Method 1: the microwave press (12 minutes)](#method-1-the-microwave-press-12-minutes)
 - [Method 2: the book press (3–4 weeks)](#method-2-the-book-press-34-weeks)

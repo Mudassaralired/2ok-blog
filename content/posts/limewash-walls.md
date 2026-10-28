@@ -17,7 +17,7 @@ This guide covers the whole arc — picking the color (there's a trap), the prim
 > - **Skill level:** beginner-friendly, but it's a brush-only job with its own rules
 > - **The trap:** limewash **dries 30–40% lighter** than it looks wet — judge color the next day, never from the can
 
-**In this guide:**
+## Table of Contents
 - [What limewash actually is](#what-limewash-actually-is)
 - [The dry-color trap (read before choosing a color)](#the-dry-color-trap-read-before-choosing-a-color)
 - [Does your wall need primer?](#does-your-wall-need-primer)

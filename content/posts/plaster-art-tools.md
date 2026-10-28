@@ -19,7 +19,7 @@ For the technique itself, see the full [DIY plaster wall art tutorial](/blog/diy
 > - **Thrift first:** canvases, frames, combs, and shaping tools are all thriftable — buy sealant and compound new
 > - **Safety:** dust mask for sanding is mandatory, not optional — compound dust is extremely fine
 
-**In this guide:**
+## Table of Contents
 - [The compound: what to buy and what to avoid](#the-compound-what-to-buy-and-what-to-avoid)
 - [Surfaces: canvas, board, and alternatives](#surfaces-canvas-board-and-alternatives)
 - [Shaping tools: knives, trowels, and household substitutes](#shaping-tools-knives-trowels-and-household-substitutes)

@@ -19,7 +19,7 @@ If you haven't made the piece yet, start with the [DIY plaster wall art tutorial
 > - **Paint thin:** one thin coat of matte acrylic preserves texture; thick paint fills grooves and kills the 3D effect
 > - **The gold trick:** dry-brushed metallic on high points only — the fastest way to make any piece look expensive
 
-**In this guide:**
+## Table of Contents
 - [The neutral foundation: whites, greige, beige](#the-neutral-foundation-whites-greige-beige)
 - [Earth tones: terracotta, clay, ochre, olive](#earth-tones-terracotta-clay-ochre-olive)
 - [Bold and moody: when to go dark](#bold-and-moody-when-to-go-dark)

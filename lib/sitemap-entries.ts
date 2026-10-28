@@ -2,6 +2,8 @@ import {
   getAllPosts,
   getAllCategories,
   getAllClusters,
+  postsInCluster,
+  postsInCategory,
   POSTS_PER_PAGE,
 } from "@/lib/posts";
 
@@ -75,6 +77,40 @@ export function buildSitemapEntries(): SitemapEntry[] {
       priority: 0.9,
     },
     ...blogPages,
+    // Paginated topic hubs (page 1 is the hub URL itself).
+    ...getAllClusters().flatMap((c) => {
+      const total = Math.max(
+        1,
+        Math.ceil(postsInCluster(c.slug).length / POSTS_PER_PAGE)
+      );
+      const pages: SitemapEntry[] = [];
+      for (let n = 2; n <= total; n++) {
+        pages.push({
+          url: `${SITE_URL}/topics/${c.slug}/page/${n}`,
+          lastModified: newestPost,
+          changeFrequency: "weekly",
+          priority: 0.5,
+        });
+      }
+      return pages;
+    }),
+    // Paginated category pages (page 1 is the category URL itself).
+    ...getAllCategories().flatMap((c) => {
+      const total = Math.max(
+        1,
+        Math.ceil(postsInCategory(c.slug).length / POSTS_PER_PAGE)
+      );
+      const pages: SitemapEntry[] = [];
+      for (let n = 2; n <= total; n++) {
+        pages.push({
+          url: `${SITE_URL}/category/${c.slug}/page/${n}`,
+          lastModified: newestPost,
+          changeFrequency: "weekly",
+          priority: 0.4,
+        });
+      }
+      return pages;
+    }),
     ...topics,
     ...categories,
     ...posts,

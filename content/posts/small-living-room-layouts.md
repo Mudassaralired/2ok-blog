@@ -18,7 +18,7 @@ For the broader playbook — sofas, rugs, storage, all of it — see our [small 
 > - **Cost:** $0 — arrangement is free; you're just moving what you own
 > - **Test first:** mark footprints with painter's tape on the floor before lifting anything heavy
 
-**In this guide:**
+## Table of Contents
 - [Measure first: the 5-minute floor map](#measure-first-the-5-minute-floor-map)
 - [Layout 1: The float](#layout-1-the-float)
 - [Layout 2: The L-anchor](#layout-2-the-l-anchor)

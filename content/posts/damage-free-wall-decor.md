@@ -19,7 +19,7 @@ If you're building out your walls from scratch, start with our [DIY wall decor b
 > - **#1 rule:** never hang on paint less than 30 days old, and never exceed the strip's rated weight
 > - **Removal:** pull the tab straight down slowly — never yank outward
 
-**In this guide:**
+## Table of Contents
 - [Why damage-free is worth doing right](#why-damage-free-is-worth-doing-right)
 - [The methods, ranked by what they can hold](#the-methods-ranked-by-what-they-can-hold)
 - [Adhesive strips and hooks: the full technique](#adhesive-strips-and-hooks-the-full-technique)

@@ -17,7 +17,7 @@ Here are nine wall-specific ideas, the sizing that makes each one look intention
 > - **Skill level:** beginner — everything hangs on removable hooks
 > - **The rule that saves the season:** hooks every **24–30 inches**, loaded only **after a full hour's cure**
 
-**In this guide:**
+## Table of Contents
 - [1. Garland swag over the sofa or doorway](#1-garland-swag-over-the-sofa-or-doorway)
 - [2. A wreath trio instead of one wreath](#2-a-wreath-trio-instead-of-one-wreath)
 - [3. Paper stars, staggered](#3-paper-stars-staggered)

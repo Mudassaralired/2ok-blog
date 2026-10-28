@@ -18,7 +18,7 @@ New to the technique itself? Start with the full [DIY plaster wall art tutorial]
 > - **Drying risk rises with relief height:** flat texture dries in 24h; sculptural elements need 48h+ and crack more
 > - **Match design to room style:** arches suit modern/boho, waves suit Japandi/minimalist, organic blobs suit eclectic
 
-**In this guide:**
+## Table of Contents
 - [Before you start: the 5-minute sketch](#before-you-start-the-5-minute-sketch)
 - [Level 1: beginner designs](#level-1-beginner-designs)
 - [Level 2: intermediate designs](#level-2-intermediate-designs)

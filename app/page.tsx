@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getAllPosts, getAllClusters, formatDate } from "@/lib/posts";
+import { getAllPosts, getAllClusters, formatDate, SITE_URL } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 import CoverImage from "@/components/CoverImage";
 
@@ -8,8 +8,32 @@ export default function HomePage() {
   const [featured, ...rest] = posts;
   const latest = rest.slice(0, 3);
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": `${SITE_URL}#website`,
+        url: SITE_URL,
+        name: "2ok Home",
+        publisher: { "@type": "Organization", "@id": `${SITE_URL}#organization` },
+      },
+      {
+        "@type": "Organization",
+        "@id": `${SITE_URL}#organization`,
+        name: "2ok Home",
+        url: SITE_URL,
+        sameAs: ["https://www.instagram.com/2ok.home/"],
+      },
+    ],
+  };
+
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Hero */}
       <section className="mx-auto max-w-6xl px-5 pb-14 pt-16 md:pt-24">
         <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay-dark">

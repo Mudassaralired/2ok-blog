@@ -20,7 +20,7 @@ Pair your finished frames with our [gallery wall layout guide](/blog/gallery-wal
 > - **The non-negotiable step:** clean with degreaser before painting — 90% of peeling is skipped prep
 > - **Best frames to buy:** solid wood with interesting profiles; skip plastic and damaged corners
 
-**In this tutorial:**
+## Table of Contents
 - [What to buy at the thrift store](#what-to-buy-at-the-thrift-store)
 - [Prep: the step that decides everything](#prep-the-step-that-decides-everything)
 - [Finish 1: matte chalk paint](#finish-1-matte-chalk-paint)

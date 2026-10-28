@@ -19,7 +19,7 @@ If you're brand new to knotting, our [beginner's macramé wall hanging tutorial]
 > - **Cost:** $15–25 for cord + a wooden dowel; every pattern below fits in a weekend
 > - **Start here:** Pattern 1 (Classic V) uses only 2 of the 3 knots
 
-**In this guide:**
+## Table of Contents
 - [What you need](#what-you-need)
 - [The only 3 knots you need](#the-only-3-knots-you-need)
 - [Pattern 1: Classic V wall hanging](#pattern-1-classic-v-wall-hanging)

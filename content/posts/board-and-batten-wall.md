@@ -17,7 +17,7 @@ This guide fixes that with the actual math (it's one division problem), plus the
 > - **Skill level:** confident beginner; a brad nailer makes it twice as fast
 > - **The golden rule:** never space battens at a fixed measurement — divide *your* wall into equal spaces so every panel matches
 
-**In this guide:**
+## Table of Contents
 - [The spacing math (with a worked example)](#the-spacing-math-with-a-worked-example)
 - [MDF vs pine vs poplar: pick by room, not price](#mdf-vs-pine-vs-poplar-pick-by-room-not-price)
 - [Full height or wainscot height?](#full-height-or-wainscot-height)

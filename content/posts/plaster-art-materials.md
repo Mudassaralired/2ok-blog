@@ -18,7 +18,7 @@ This guide compares the four materials people actually make plaster art with, wh
 > - **Thick coats crack in every material** — build texture in thin layers and let each one dry
 > - **First-project shopping list lands under $50** if you already own a palette knife and an old canvas
 
-**In this guide:**
+## Table of Contents
 - [The four materials at a glance](#the-four-materials-at-a-glance)
 - [Joint compound: the beginner pick](#joint-compound-the-beginner-pick)
 - [Plaster of Paris: fast, hard, brittle](#plaster-of-paris-fast-hard-brittle)

@@ -17,7 +17,7 @@ Here are the spacing numbers designers work to, the four layouts that cover near
 > - **TV distance:** about **1.5–2× the screen's diagonal** (closer is fine for 4K)
 > - **Float the sofa** 4–8 inches off the wall — the single highest-impact move
 
-**In this guide:**
+## Table of Contents
 - [The spacing numbers that matter](#the-spacing-numbers-that-matter)
 - [Start with one focal point](#start-with-one-focal-point)
 - [Layout 1: wall-aligned (rooms under 150 sq ft)](#layout-1-wall-aligned-rooms-under-150-sq-ft)

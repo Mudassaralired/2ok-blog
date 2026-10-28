@@ -18,7 +18,7 @@ This is the framed gallery wall tutorial — real frames, real nails (plus rente
 > - **Time:** 2–3 hours including planning; the planning IS the project
 > - **Renters:** every template works with damage-free strips if you respect weight limits
 
-**In this guide:**
+## Table of Contents
 - [The 4 formulas (memorize these)](#the-4-formulas-memorize-these)
 - [Template 1: The classic grid](#template-1-the-classic-grid)
 - [Template 2: The center anchor](#template-2-the-center-anchor)
@@ -136,7 +136,7 @@ The arrangement's center at ~145 cm (57 inches) from the floor. Above furniture,
 Trace each frame on kraft paper, mark the hanging points, tape templates to the wall, adjust until perfect, then nail through the marks. This eliminates misplaced holes entirely.
 
 **Can renters do a gallery wall?**
-Yes — damage-free hanging strips hold up to 7 kg per set when the wall is prepped properly (alcohol wipe, 30-second press, 1-hour wait). For heavier pieces, use two sets or a proper anchor and fill the hole at move-out.
+Yes — per the manufacturer's rating, large damage-free hanging strip sets hold up to 7 kg per set when the wall is prepped properly (alcohol wipe, 30-second press, 1-hour wait); expect less on textured walls. For heavier pieces, use two sets or a proper anchor and fill the hole at move-out.
 
 **How many frames should a gallery wall have?**
 Odd numbers (3, 5, 7, 9) feel organic; even numbers suit deliberate grids. For most walls, 5–7 mixed frames hit the sweet spot — fewer looks sparse, more needs a very large wall to avoid clutter.

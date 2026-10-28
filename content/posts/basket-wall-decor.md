@@ -17,7 +17,7 @@ Here's the formula, the sourcing strategy that keeps the whole wall under $40, a
 > - **Skill level:** beginner — most baskets hang on a single nail
 > - **The formula:** **5–9 baskets, 3 size tiers, 2–4 inches apart**, one big anchor in the middle
 
-**In this guide:**
+## Table of Contents
 - [The composition formula](#the-composition-formula)
 - [Which baskets work (and which never sit flat)](#which-baskets-work-and-which-never-sit-flat)
 - [Sourcing a wall for under $40](#sourcing-a-wall-for-under-40)

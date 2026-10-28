@@ -19,7 +19,7 @@ Haven't knotted before? Learn the three knots first in our [macramé patterns gu
 > - **Cost:** $0–5 per project if you have leftover cord; a $15 spool covers all seven
 > - **Skill level:** true beginner — 3 of the 7 use only one knot
 
-**In this guide:**
+## Table of Contents
 - [Why minis are the smartest macramé to start with](#why-minis-are-the-smartest-macramé-to-start-with)
 - [Project 1: Twig mini wall hanging](#project-1-twig-mini-wall-hanging)
 - [Project 2: Macramé feather](#project-2-macramé-feather)

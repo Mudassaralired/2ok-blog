@@ -19,7 +19,7 @@ If you're flipping thrift finds, see our [thrifted frame makeover](/blog/thrifte
 > - **Unifying trick:** same mat color across different frames makes any mismatched set look intentional
 > - **Cost:** $2–$5 per DIY mat vs $12–$25 for custom-cut
 
-**In this guide:**
+## Table of Contents
 - [Why matting changes everything](#why-matting-changes-everything)
 - [Mat proportions that look pro](#mat-proportions-that-look-pro)
 - [Cutting your own mats: step by step](#cutting-your-own-mats-step-by-step)

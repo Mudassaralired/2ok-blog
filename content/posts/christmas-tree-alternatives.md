@@ -18,7 +18,7 @@ For the rest of your small-space holiday look, our [budget Christmas decor guide
 > - **Measure first:** every alternative below lists its exact footprint — check yours before buying
 > - **Renter note:** all 7 are damage-free and move-out friendly
 
-**In this guide:**
+## Table of Contents
 - [How to measure your spot (2 minutes)](#how-to-measure-your-spot-2-minutes)
 - [1. The wall-mounted branch tree](#1-the-wall-mounted-branch-tree)
 - [2. The pencil tree](#2-the-pencil-tree)

@@ -18,7 +18,7 @@ This tutorial teaches those four knots, then walks you through one complete begi
 > - **Cost:** $15–$25 for cord + dowel (enough for 2 hangings)
 > - **#1 beginner rule:** keep tension even — uneven tension, not wrong knots, is what makes pieces look messy
 
-**In this tutorial:**
+## Table of Contents
 - [Materials: what to buy (and what to skip)](#materials-what-to-buy-and-what-to-skip)
 - [Knot 1: Lark's Head (mounting)](#knot-1-larks-head-mounting)
 - [Knot 2: Square Knot (the workhorse)](#knot-2-square-knot-the-workhorse)

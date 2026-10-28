@@ -19,7 +19,7 @@ Doing Christmas on a tight budget overall? Start with our [budget Christmas deco
 > - **Small rooms:** go vertical and use our [Christmas tree alternatives](/blog/christmas-tree-alternatives/) — a full-size tree isn't mandatory
 > - **Timeline:** one afternoon for the tree + mantel, one evening for textiles and lighting
 
-**In this guide:**
+## Table of Contents
 - [Idea 1: Light the tree from the inside out](#idea-1-light-the-tree-from-the-inside-out)
 - [Idea 2: Style the mantel in layers](#idea-2-style-the-mantel-in-layers)
 - [Idea 3: Build three layers of light](#idea-3-build-three-layers-of-light)

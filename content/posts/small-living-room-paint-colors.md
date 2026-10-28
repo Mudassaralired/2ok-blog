@@ -17,7 +17,7 @@ Here are 7 best paint colors for small living rooms — real named shades with r
 > - **North vs south matters more than the shade:** north-facing rooms need warm undertones; south-facing can handle cooler ones
 > - **Finish:** eggshell on walls — the single most underrated choice in this whole guide
 
-**In this guide:**
+## Table of Contents
 - [How to read this guide (LRV + undertones)](#how-to-read-this-guide-lrv--undertones)
 - [1. Warm White — Benjamin Moore White Dove OC-17](#1-warm-white--benjamin-moore-white-dove-oc-17)
 - [2. Greige — Sherwin-Williams Agreeable Gray SW 7029](#2-greige--sherwin-williams-agreeable-gray-sw-7029)

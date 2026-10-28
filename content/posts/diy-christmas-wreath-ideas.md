@@ -19,7 +19,7 @@ This guide covers the sizing and the build first, because those are the parts pe
 > - **Hang with an over-door hook or a bracket**, never a nail through the door — heavy wreaths need a reinforced hook or a mount into framing
 > - **The wreath should cover about two-thirds of the door's width**, with breathing room around the edges — it is not a door cozy
 
-**In this guide:**
+## Table of Contents
 - [Size first: the door decides](#size-first-the-door-decides)
 - [Fresh, faux, or dried: the honest trade-offs](#fresh-faux-or-dried-the-honest-trade-offs)
 - [The build: a first wreath step by step](#the-build-a-first-wreath-step-by-step)

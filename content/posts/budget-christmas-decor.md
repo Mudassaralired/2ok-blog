@@ -17,7 +17,7 @@ There's a myth that a beautiful Christmas home needs a beautiful Christmas budge
 > - **Skill level:** beginner — the hardest task is slicing oranges
 > - **Biggest impact per dollar:** fresh greenery + window lights (under $15 combined)
 
-**In this guide:**
+## Table of Contents
 - [1. Forage your greenery](#1-forage-your-greenery)
 - [2. The $5 wreath upgrade](#2-the-5-wreath-upgrade)
 - [3. Dried orange garlands](#3-dried-orange-garlands)

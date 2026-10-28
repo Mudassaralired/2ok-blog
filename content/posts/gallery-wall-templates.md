@@ -19,7 +19,7 @@ If you're starting your wall decor journey from zero, our [DIY wall decor guide]
 > - **Plan on the floor first:** kraft-paper cutouts taped to the wall save hours of patching
 > - **Renters:** every template works damage-free — jump to [hanging without damage](#hanging-without-damage-renters-edition)
 
-**In this guide:**
+## Table of Contents
 - [The 3 rules before you pick a template](#the-3-rules-before-you-pick-a-template)
 - [Template 1: The grid](#template-1-the-grid)
 - [Template 2: Salon style](#template-2-salon-style)

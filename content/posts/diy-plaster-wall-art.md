@@ -18,7 +18,7 @@ If you're new to DIY wall decor generally, start with our [beginner's guide](/bl
 > - **The 3 techniques:** buttered trowel texture, comb lines, sculptural arches
 > - **#1 rule:** thin layers dry; thick layers crack — build up, don't glop on
 
-**In this tutorial:**
+## Table of Contents
 - [Joint compound vs real plaster: what to buy](#joint-compound-vs-real-plaster-what-to-buy)
 - [Tools and materials](#tools-and-materials)
 - [Step 1: Prep the canvas](#step-1-prep-the-canvas)

@@ -19,7 +19,7 @@ This is the companion to our [small living room ideas guide](/blog/small-living-
 > - **Renters:** every recipe has a no-drill version
 > - **Biggest mistake:** mounting the TV too high — neck pain is a layout failure, not a TV problem
 
-**In this guide:**
+## Table of Contents
 - [The 3 numbers that rule every layout](#the-3-numbers-that-rule-every-layout)
 - [Recipe 1: The Straight Shot](#recipe-1-the-straight-shot)
 - [Recipe 2: The Corner TV](#recipe-2-the-corner-tv)

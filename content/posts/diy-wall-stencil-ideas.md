@@ -15,7 +15,7 @@ Wallpaper math is brutal: the rolls you love run $1–$3 a square foot, the patt
 > - **Work in columns, ceiling to floor**, aligning each repeat to the built-in **registration marks**
 > - **A full accent wall takes 3–5 hours** and one stencil you'll reuse for years
 
-**In this guide:**
+## Table of Contents
 - [Stencil types and pattern ideas](#stencil-types-and-pattern-ideas)
 - [Tools and wall prep](#tools-and-wall-prep)
 - [The technique: dry brush, offloading, registration](#the-technique-dry-brush-offloading-registration)

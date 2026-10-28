@@ -18,7 +18,7 @@ Here's the comparison I wish someone had handed me before my first shelf pulled 
 > - **A loaded MDF shelf sags past about 30 inches of span** — shorten the span or step up to 1-inch-plus solid wood
 > - **Renters:** leaning ladder shelves and adhesive ledges for light decor only; real books need studs or a floor-standing unit
 
-**In this guide:**
+## Table of Contents
 - [The weight question first](#the-weight-question-first)
 - [Five shelving solutions compared](#five-shelving-solutions-compared)
 - [Placement rules that make the room feel bigger](#placement-rules-that-make-the-room-feel-bigger)

@@ -17,7 +17,7 @@ So this guide is two things: twelve genuinely useful ways to deploy a chalk wall
 > - **Skill level:** beginner; the skill is patience, not technique
 > - **The step everyone skips:** seasoning (rubbing chalk over the whole cured surface, then erasing) — skip it and your first writing ghosts permanently
 
-**In this guide:**
+## Table of Contents
 - [Paint, film, or panel: the three ways to get a chalk wall](#paint-film-or-panel-the-three-ways-to-get-a-chalk-wall)
 - [The process: smooth, prime, coat, cure, season](#the-process-smooth-prime-coat-cure-season)
 - [12 chalkboard wall ideas, room by room](#12-chalkboard-wall-ideas-room-by-room)

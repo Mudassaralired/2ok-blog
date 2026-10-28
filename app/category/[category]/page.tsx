@@ -1,6 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getAllCategories, postsInCategory } from "@/lib/posts";
+import {
+  getAllCategories,
+  postsInCategory,
+  POSTS_PER_PAGE,
+} from "@/lib/posts";
+import Pagination from "@/components/Pagination";
 import PostCard from "@/components/PostCard";
 
 const SITE_URL = "https://2ok.lol";
@@ -36,6 +41,11 @@ export default async function CategoryPage({ params }: Props) {
   const cat = getAllCategories().find((c) => c.slug === category);
   if (!cat) notFound();
   const posts = postsInCategory(category);
+  const totalPages = Math.max(
+    1,
+    Math.ceil(posts.length / POSTS_PER_PAGE)
+  );
+  const pagePosts = posts.slice(0, POSTS_PER_PAGE);
 
   return (
     <div className="mx-auto max-w-6xl px-5 py-14 md:py-20">
@@ -50,10 +60,16 @@ export default async function CategoryPage({ params }: Props) {
         {cat.name.toLowerCase()}.
       </p>
       <div className="mt-10 grid gap-7 md:grid-cols-2 lg:grid-cols-3">
-        {posts.map((p) => (
+        {pagePosts.map((p) => (
           <PostCard key={p.slug} post={p} />
         ))}
       </div>
+
+      <Pagination
+        currentPage={1}
+        totalPages={totalPages}
+        basePath={`/category/${category}`}
+      />
     </div>
   );
 }

@@ -17,7 +17,7 @@ The problem? Most store-bought Halloween decor screams "tacky" — neon green, f
 > - **Skill level:** beginner — no power tools, no carving required
 > - **Biggest impact per dollar:** candlelight clusters and pumpkin groupings
 
-**In this guide:**
+## Table of Contents
 - [1. The pumpkin cluster (but make it moody)](#1-the-pumpkin-cluster-but-make-it-moody)
 - [2. Candlelight everywhere](#2-candlelight-everywhere)
 - [3. Dried florals in dark tones](#3-dried-florals-in-dark-tones)

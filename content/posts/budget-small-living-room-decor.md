@@ -19,7 +19,7 @@ If you haven't sorted the fundamentals yet, read our [small living room ideas](/
 > - **The rule:** every item must earn its footprint; in a small room, each object is either helping or hurting
 > - **Timeline:** one weekend, roughly 6–8 hours including a thrift-store run
 
-**In this guide:**
+## Table of Contents
 - [Idea 1: Rearrange before you buy anything](#idea-1-rearrange-before-you-buy-anything)
 - [Idea 2: Paint one wall (or fake it for $0)](#idea-2-paint-one-wall-or-fake-it-for-0)
 - [Idea 3: Add a mirror where it doubles a window](#idea-3-add-a-mirror-where-it-doubles-a-window)

@@ -17,7 +17,7 @@ This is the install guide for one accent wall, done in an afternoon, done so it 
 > - **Skill level:** beginner with patience; the second pair of hands matters more than skill
 > - **The rule that decides everything:** the paper only sticks to **smooth walls with sound, fully-cured satin or eggshell paint** — everything else is a countdown to peeling
 
-**In this guide:**
+## Table of Contents
 - [How many rolls you actually need](#how-many-rolls-you-actually-need)
 - [Wall prep: the rules that decide success](#wall-prep-the-rules-that-decide-success)
 - [Step 1: Plumb line, not the corner](#step-1-plumb-line-not-the-corner)

@@ -18,7 +18,7 @@ For the full project tutorials, see our [DIY wall decor hub](/blog/diy-wall-deco
 > - **Weight limits are real:** respect them — 7 kg per large strip set, less on textured walls
 > - **Move-out:** heat + slow pull at 180° removes strips without paint damage
 
-**In this guide:**
+## Table of Contents
 - [Damage-free hanging methods, ranked](#damage-free-hanging-methods-ranked)
 - [The adhesive prep that makes strips hold](#the-adhesive-prep-that-makes-strips-hold)
 - [What landlords actually check at move-out](#what-landlords-actually-check-at-move-out)
