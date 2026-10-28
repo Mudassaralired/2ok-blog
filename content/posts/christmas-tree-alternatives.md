@@ -1,7 +1,7 @@
 ---
 title: "7 Christmas Tree Alternatives for Small Apartments (2026)"
 date: "2026-10-17"
-excerpt: "7 Christmas tree alternatives for small apartments with exact footprints and costs — wall trees, pencil trees, tabletop minis. Big holiday feel, tiny footprint."
+excerpt: "7 Christmas tree alternatives for small apartments with exact footprints and costs. Big holiday feel, tiny footprint."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-tree-alternatives/cover"

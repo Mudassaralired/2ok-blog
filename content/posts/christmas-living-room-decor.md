@@ -1,7 +1,7 @@
 ---
 title: "Christmas Living Room Decor: 10 Cozy Ideas (2026)"
 date: "2026-10-19"
-excerpt: "Christmas living room decor: 10 cozy ideas for 2026 — tree styling, mantel magic, layered warm lighting, and budget textures that make the whole room glow."
+excerpt: "10 cozy Christmas living room ideas: tree styling, mantel magic, layered warm lighting, and budget textures that make the whole room glow."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
 ---

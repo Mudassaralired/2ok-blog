@@ -1,7 +1,7 @@
 ---
-title: "Board and Batten Wall: The Spacing Math, Material Rules and Real DIY Cost (2026)"
+title: "Board and Batten Wall: Spacing Math, Materials & Real Cost"
 date: "2026-10-21"
-excerpt: "Board and batten wall done right: the equal-spacing formula with a worked example, MDF vs pine vs poplar (and where MDF fails), real costs for a 12-foot wall, and the caulk step that makes it look custom."
+excerpt: "The equal-spacing formula with a worked example, MDF vs pine vs poplar, real costs for a 12-foot wall, and the caulk step that makes it custom."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/board-and-batten-wall/cover"

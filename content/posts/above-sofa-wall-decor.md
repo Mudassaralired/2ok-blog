@@ -1,7 +1,7 @@
 ---
-title: "Wall Art Above a Sofa: The Sizing and Hanging Rules That Make It Look Right"
+title: "Wall Art Above a Sofa: Sizing & Hanging Rules That Work"
 date: "2026-10-27"
-excerpt: "Three measurements solve almost every above-sofa wall: art about two-thirds the sofa's width, a 6 to 10 inch gap above the sofa back, and a center at eye level. Here is the full sizing chart, gallery math, and renter-friendly options."
+excerpt: "Art two-thirds the sofa's width, a 6-10 inch gap, center at eye level. The full sizing chart, gallery math, and renter-friendly options inside."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/above-sofa-wall-decor/cover"

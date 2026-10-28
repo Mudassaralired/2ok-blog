@@ -1,7 +1,7 @@
 ---
-title: "Christmas Garland Ideas: Mantel, Staircase, and Doorway Formulas That Look Designer"
+title: "Christmas Garland Ideas: Mantel, Staircase & Doorway Formulas"
 date: "2026-10-26"
-excerpt: "Garland only needs a horizontal edge and something to tie to. Mantel swags, staircase wraps, doorway frames, and table runners — plus the fresh-vs-faux math and the layered trick designers actually use."
+excerpt: "Mantel swags, staircase wraps, doorway frames, and table runners, plus the fresh-vs-faux math and the layered trick designers actually use."
 category: "DIY Projects"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-garland-ideas/cover"

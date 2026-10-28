@@ -1,7 +1,7 @@
 ---
-title: "Christmas Mantel Decor on a Budget: 3 Stunning Looks Under $20 (2026)"
+title: "Christmas Mantel Decor: 3 Looks Under $20 Each"
 date: "2026-10-17"
-excerpt: "Christmas mantel decor on a budget: 3 complete styled looks under $20 each — warm neutral, traditional, and woodland — plus the no-fireplace console version."
+excerpt: "Christmas mantel decor on a budget: 3 complete looks under $20 each, warm neutral, traditional, woodland, plus the no-fireplace console version."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-mantel-decor/cover"

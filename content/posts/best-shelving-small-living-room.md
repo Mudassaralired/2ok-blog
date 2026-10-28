@@ -1,7 +1,7 @@
 ---
-title: "Best Shelving for a Small Living Room: What Actually Holds Weight, Costs Less, and Doesn't Eat the Room (2026)"
+title: "Best Small Living Room Shelving: Weight Limits & Costs"
 date: "2026-10-24"
-excerpt: "Floating shelves, picture ledges, wall cabinets and leaning shelves compared honestly: real weight limits (20–50 lb per floating shelf vs 50–100 lb for bracketed units), the stud rule that decides whether your books stay up, placement heights that make a room feel bigger, and the sag span nobody warns you about."
+excerpt: "Floating shelves, ledges, cabinets, and leaning shelves compared honestly: real weight limits, the stud rule, and the sag span nobody warns about."
 category: "DIY Projects"
 cluster: "small-living-room"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/best-shelving-small-living-room/cover"

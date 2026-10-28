@@ -1,5 +1,5 @@
 ---
-title: "Damage-Free Wall Decor Ideas: Zero Holes, Zero Stress (2026)"
+title: "Damage-Free Wall Decor Ideas: Zero Holes, Zero Stress"
 date: "2026-10-19"
 excerpt: "Damage-free wall decor ideas with zero holes: adhesive methods ranked by weight, the prep step that makes strips actually hold, and clean removal tricks."
 category: "DIY Projects"

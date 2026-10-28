@@ -1,5 +1,5 @@
 ---
-title: "Christmas Porch Decor on a Budget: 9 Ideas Under $30 Total (2026)"
+title: "Christmas Porch Decor: 9 Ideas Under $30 Total"
 date: "2026-10-17"
 excerpt: "Christmas porch decor on a budget: 9 ideas for under $30 total — layered doormats, foraged planters, warm window lights, and a wreath that looks expensive."
 category: "Seasonal Decor"

@@ -1,7 +1,7 @@
 ---
-title: "Basket Wall Decor: How to Build a Woven Gallery Wall for Under $40 (2026)"
+title: "Basket Wall Decor: A Woven Gallery Wall for Under $40"
 date: "2026-10-21"
-excerpt: "Basket wall decor that looks collected, not cluttered: the 5-9 basket formula, sizes and spacing that work, thrift-store sourcing for under $40, paper-template layout, and every hanging method from one nail to renter-safe hooks."
+excerpt: "A basket wall that looks collected, not cluttered: the 5-9 basket formula, spacing that works, thrift finds under $40, and every hanging method."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/basket-wall-decor/cover"

@@ -1,7 +1,7 @@
 ---
-title: "How to Decorate a Christmas Tree Like a Designer: Order, Quantities, and Themes"
+title: "How to Decorate a Christmas Tree Like a Designer"
 date: "2026-10-27"
-excerpt: "Two things separate a designer tree from a messy one: the right order and the right amounts. Here is the step-by-step order, the per-foot quantities for lights, ornaments, and ribbon, and five themes you can copy."
+excerpt: "The right order and the right amounts: step-by-step tree decorating, per-foot quantities for lights, ornaments, ribbon, and 5 themes to copy."
 category: "DIY Projects"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-tree-decorating-ideas/cover"

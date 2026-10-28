@@ -1,7 +1,7 @@
 ---
-title: "Beadboard Accent Wall: Panels vs Planks, Real Costs, and a Weekend Install That Looks Built-In (2026)"
+title: "Beadboard Accent Wall: Real Costs and a Weekend Install"
 date: "2026-10-24"
-excerpt: "Beadboard is the cheapest wall treatment that still reads as carpentry: 4×8 sheets at $25–$35, a DIY 10×10 room at $150–$200, pro installs at $4–$6/sq ft. Panel math, the three heights that work, the caulk-and-paint sequence, and where beadboard fails (bathrooms, long seams, wavy walls)."
+excerpt: "The cheapest wall treatment that still reads as carpentry: sheet costs, a $150-$200 DIY room, pro rates, and where beadboard fails."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/beadboard-accent-wall/cover"

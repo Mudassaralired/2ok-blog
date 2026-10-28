@@ -1,7 +1,7 @@
 ---
-title: "Chalkboard Wall Ideas: 12 Ways to Use One — Plus the Seasoning Step Everyone Skips (2026)"
+title: "Chalkboard Wall Ideas: 12 Ways to Use One (Plus Seasoning)"
 date: "2026-10-20"
-excerpt: "12 chalkboard wall ideas for kitchens, offices, and kids' rooms — plus the cure-and-season process that prevents permanent ghosting, magnetic primer, and the renter-friendly film route."
+excerpt: "12 chalkboard wall ideas for kitchens, offices, and kids' rooms, plus the cure-and-season process that prevents permanent ghosting."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/chalkboard-wall-ideas/cover"
