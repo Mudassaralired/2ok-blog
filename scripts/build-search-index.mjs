@@ -5,7 +5,9 @@
 // posts — never commit a stale copy by hand.
 //
 // The JSON is intentionally light: slug, title, excerpt, category,
-// cluster, date, readingTime. No cover URLs, no body text.
+// cluster, date, readingTime, cover. No body text. Cover is included
+// because search-result cards render it; without it every result would
+// fall back to the gradient placeholder tile.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -33,6 +35,7 @@ const posts = fs
       excerpt: field(frontmatter, "excerpt"),
       category: field(frontmatter, "category") || "Decor",
       cluster: field(frontmatter, "cluster"),
+      cover: field(frontmatter, "cover"),
       date: field(frontmatter, "date") || "2026-01-01",
       readingTime: Math.max(2, Math.round(words / 200)),
     };
