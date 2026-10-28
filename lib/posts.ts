@@ -95,6 +95,12 @@ const COVER_ALTS: Record<string, string> = {
     "Bright small living room with cream boucle sofa, round wall mirror and sheer curtains making the space feel larger",
   "diy-wall-decor-beginners":
     "DIY gallery wall with framed pressed botanicals, textured spackle canvas art and macrame hanging above a workbench",
+  "christmas-table-decor":
+    "A festive Christmas dining table with a long tray centerpiece of candles, greenery and gold ornaments",
+  "small-living-room-curtains":
+    "A small living room with floor-to-ceiling sheer linen curtains on a rod mounted near the ceiling",
+  "bedroom-wall-decor-ideas":
+    "A bedroom with a gallery wall of framed botanical prints and an abstract piece above the bed",
   "above-sofa-wall-decor":
     "A living room with a large abstract painting above a beige sofa, a floor lamp, and a wooden coffee table",
   "basket-wall-decor":
