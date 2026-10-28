@@ -1,6 +1,8 @@
 ---
 title: "Christmas Living Room Decor: 10 Cozy Ideas (2026)"
 date: "2026-10-19"
+updated: "2026-10-27"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-living-room-decor/cover"
 excerpt: "10 cozy Christmas living room ideas: tree styling, mantel magic, layered warm lighting, and budget textures that make the whole room glow."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
@@ -37,6 +39,8 @@ Cost: **$0–$15** (if you need new lights). Time: 45–60 minutes.
 
 The single biggest tree upgrade costs nothing: push lights deep into the branches, not draped on the tips. Start at the trunk, wind outward, 100 mini lights per 30 cm of tree height. Warm white (2700K) only — multicolor reads chaotic in a living room.
 
+![Hands tucking warm-white string lights deep inside the branches of a Christmas tree](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/christmas-living-room-decor/in-article-1)
+
 Fluff every branch first (30 minutes nobody wants to spend, everybody notices when skipped). Then ornaments: hang the largest deepest, medium in the middle, small and special at the tips where they're seen. Step back 3 meters after every dozen ornaments — the tree is viewed from the sofa, not from 30 cm away.
 
 **Mistake to avoid:** the "light necklace" — one strand spiraled around the outside. It lights the room, not the tree. Depth is everything.
@@ -72,6 +76,8 @@ Pick ONE seasonal color to add to your existing palette — your year-round neut
 Cost: **$0–$15**. Time: 15 minutes.
 
 Clear the coffee table completely, then build one Christmas vignette on a tray: small evergreen sprigs in a jar, a candle, a stack of two books with a pinecone on top. That's it — restraint is what makes it look styled rather than decorated.
+
+![A Christmas coffee-table vignette on a wooden tray: evergreen sprigs in a jar, a lit candle, and two books with a pinecone on top](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/christmas-living-room-decor/in-article-2)
 
 Rotate the vignette weekly through December (swap the pinecone for an ornament, add dried orange slices) and it stays fresh all season for zero extra cost. Keep one side of the table clear for actual use — a vignette that blocks the remote controls gets dismantled by day three.
 

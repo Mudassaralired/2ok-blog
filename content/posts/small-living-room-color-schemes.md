@@ -4,6 +4,7 @@ date: "2026-10-19"
 excerpt: "6 color schemes that open up small rooms: warm white, sage, blue-gray, terracotta accents, monochrome beige, and one dark accent done right."
 category: "Small Spaces"
 cluster: "small-living-room"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-color-schemes/cover"
 ---
 
 Color is the highest-leverage decision in a small living room. The right palette dissolves boundaries and bounces light; the wrong one chops the room into visual pieces that each feel smaller than the whole. These six schemes are all proven in real small rooms — each with exact shade guidance and what to avoid.
@@ -64,6 +65,9 @@ This doesn't mean everything beige. It means the *steps* between colors are smal
 
 **Best for:** rooms with decent daylight — sage needs light to show its softness; in a dark north-facing room it can go murky. Dark room? Use palette #1 or #3 instead.
 
+
+![A hand fanning out neutral paint swatch cards on a wooden coffee table in front of a beige sofa](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-living-room-color-schemes/in-article-1)
+
 ## 3. Pale blue-gray and white
 
 **The palette:** pale blue-gray walls (LRV 65–75), crisp white trim and ceiling, light gray or white upholstery, silver/chrome or light wood accents.
@@ -103,6 +107,9 @@ This doesn't mean everything beige. It means the *steps* between colors are smal
 - One metallic: brushed brass or champagne — beige needs a light-catching moment or it goes matte-flat. A brass floor lamp or mirror frame, just one.
 
 **Best for:** minimalists, and rooms where you want art or a view to be the star — the palette disappears so the focal point shines.
+
+
+![A small living room with a dark charcoal accent wall, a light sofa, framed prints, and warm lamps](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-living-room-color-schemes/in-article-2)
 
 ## 6. Charcoal accent wall, done right
 

@@ -1,6 +1,8 @@
 ---
 title: "Gallery Wall Templates: 6 Layouts with Exact Measurements"
 date: "2026-10-19"
+updated: "2026-10-27"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/gallery-wall-templates/cover"
 excerpt: "6 gallery templates with exact measurements: spacing rules, frame-size charts, the 145 cm rule, and a kraft-paper trick for a perfect first hang."
 category: "DIY Projects"
 cluster: "wall-decor"
@@ -66,6 +68,8 @@ The grid is the most forgiving template because symmetry does the work. Use iden
 
 **Best for:** mixed art, photos, and frames — the classic "collected over time" look.
 
+![A living room wall with brown paper templates taped up in a salon-style layout, a person checking the spacing](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/gallery-wall-templates/in-article-1)
+
 Start with your largest piece dead center (on the 145 cm line). Add medium pieces around it, then fill the gaps with smalls. Keep the *outer silhouette* roughly rectangular or oval — that's the secret; the inside can be gloriously messy as long as the outside edge holds a shape.
 
 **Exact measurements:**
@@ -92,6 +96,8 @@ Three to five frames in one straight horizontal line. Simple, calm, almost impos
 ## Template 4: Staircase gallery
 
 **Best for:** stairwell walls — the most underused gallery space in any home.
+
+![A finished staircase gallery wall with mixed black and oak frames following the slope of the stairs](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/gallery-wall-templates/in-article-2)
 
 Follow the slope of the stairs. This is the one template where the 145 cm rule bends: here, everything keys off the stair angle instead.
 

@@ -1,6 +1,8 @@
 ---
 title: "DIY Wall Decor: The Ultimate Guide (40+ Ideas, Tutorials & Tips)"
 date: "2026-10-19"
+updated: "2026-10-27"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-wall-decor-guide/cover"
 excerpt: "40+ DIY wall decor ideas across 7 techniques, with costs, tools, and tutorials. Start here if you want one guide that covers the whole wall."
 category: "DIY Projects"
 cluster: "wall-decor"
@@ -46,6 +48,8 @@ Everything below links to a full tutorial. Read the summaries, pick one lane, an
 
 Sculptural, tactile canvases made with joint compound — the Pinterest staple. Arches, waves, organic blobs, combed lines. Cost: $10–$20 per piece. Skill: beginner-friendly, very forgiving (mistakes scrape off while wet).
 
+![Hands spreading textured white plaster onto a canvas with a palette knife on a wooden workbench](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-wall-decor-guide/in-article-1)
+
 Start with the complete [DIY plaster wall art tutorial](/blog/diy-plaster-wall-art/), then browse [textured plaster art designs](/blog/textured-plaster-art/) for 15+ patterns, [plaster art color ideas](/blog/plaster-art-colors/) for palettes and finishes, and the [plaster art tools checklist](/blog/plaster-art-tools/) before you shop.
 
 **Best for:** statement pieces, neutral/minimalist/Japandi/boho rooms, anyone who wants maximum visual impact per dollar.
@@ -55,6 +59,8 @@ Start with the complete [DIY plaster wall art tutorial](/blog/diy-plaster-wall-a
 Curated arrangements of multiple frames — photos, prints, small art — composed as one installation. Cost: $25–$60 for 6–10 thrifted frames. Skill: easy to make, hard to compose well (layout is the skill).
 
 Our [gallery wall layout guide](/blog/gallery-wall-layouts/) covers templates, spacing math (5–8 cm between frames), and the paper-template trick professionals use.
+
+![A person levelling a framed botanical print on a sage-green bedroom wall while hanging a gallery wall](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-wall-decor-guide/in-article-2)
 
 **Best for:** hallways, staircases, large blank walls, displaying personal photos and collected art as one story.
 

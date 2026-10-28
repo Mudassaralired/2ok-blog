@@ -1,6 +1,8 @@
 ---
 title: "Removable Wallpaper Accent Walls: Ideas & Application Tips"
 date: "2026-10-19"
+updated: "2026-10-28"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/removable-wallpaper-ideas/cover"
 excerpt: "10 removable wallpaper ideas with pattern-repeat math, bubble-free application, and clean removal. Renter-safe from first strip to last."
 category: "DIY Projects"
 cluster: "wall-decor"
@@ -42,6 +44,8 @@ For this guide, "removable wallpaper" = peel-and-stick. If you're renting, don't
 **One honest caveat:** "removable" assumes cured paint (30+ days), smooth walls, and eggshell/satin finish. On fresh paint, flat/matte paint, or textured walls, even good peel-and-stick can misbehave. Test a hidden 30 cm strip for 48 hours before committing to a whole wall — this 10-minute test prevents every horror story.
 
 ## 10 accent wall ideas
+
+![A finished rental bathroom with removable terrazzo wallpaper behind a mirror and a wooden shelf](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/removable-wallpaper-ideas/in-article-2)
 
 ### 1. Botanical oversized print (behind the bed)
 
@@ -98,6 +102,8 @@ Inside a closet, pantry, or reading nook — pattern where only you see it. Smal
 ## Application, step by step
 
 **Prep (30 minutes):** Clean the wall with a damp cloth, let dry fully. Fill any holes and sand smooth — every bump shows through. If the paint is fresh (under 30 days), wait. Remove outlet covers and switch plates. This prep is non-negotiable; wallpaper forgives nothing underneath it.
+
+![Hands peeling the backing off a floral wallpaper panel and aligning it to a wall corner with a plastic smoother](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/removable-wallpaper-ideas/in-article-1)
 
 **Step 1: Draw your plumb line.** Measure one roll-width in from your starting corner, and draw a true vertical line with a level (pencil, light). Walls are never straight — starting from the corner guarantees a crooked wall of paper. The plumb line is your truth.
 

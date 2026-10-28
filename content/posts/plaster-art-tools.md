@@ -1,6 +1,8 @@
 ---
 title: "DIY Plaster Art Tools & Materials: The Complete Checklist (2026)"
 date: "2026-10-19"
+updated: "2026-10-27"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/plaster-art-tools/cover"
 excerpt: "Complete DIY plaster art tools & materials checklist: joint compound types, shaping tools, surfaces, sealants — plus 3 budget kit tiers from $15 to $60."
 category: "DIY Projects"
 cluster: "wall-decor"
@@ -77,6 +79,8 @@ Sanded plywood or MDF, 6–12 mm thick. Advantages: zero flex (fewer cracks on t
 ## Shaping tools: knives, trowels, and household substitutes
 
 You need fewer tools than you think. The essentials:
+
+![A notched trowel dragging combed lines through wet plaster on a board](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/plaster-art-tools/in-article-1)
 
 ### Putty knives (essential)
 
@@ -174,6 +178,8 @@ Everything in Tier 2, plus:
 ## Storage, cleanup, and reuse
 
 - **Compound storage:** press plastic wrap directly onto the compound surface before closing the lid — prevents the dried skin that forms on contact with air. Stored this way, an opened tub lasts months.
+
+![Hands sanding a dried plaster canvas outdoors on a balcony, dust in sunlight, a drop cloth below](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/plaster-art-tools/in-article-2)
 - **Tool cleanup:** wash putty knives and trowels in warm water immediately after use. Dried compound is removable with soaking, but it's miserable — 2 minutes now saves 20 later. Never wash large amounts down the drain; wipe excess into the trash first (compound + pipes = plumber).
 - **Reusing mistakes:** scraped-off wet compound goes back in the working pile. Dry scraps go in the trash. Nothing is wasted while it's wet — one more reason joint compound beats plaster of Paris for learning.
 - **Workspace:** a plastic drop cloth or old shower curtain under everything. Compound washes off hard floors easily when wet; it's permanent-feeling on fabric and carpet once dry.

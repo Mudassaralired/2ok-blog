@@ -4,6 +4,7 @@ date: "2026-10-19"
 excerpt: "5 small living room arrangements that work: the float, the L, split zones, the diagonal, the wall-hugger, with exact clearances and walkway rules."
 category: "Small Spaces"
 cluster: "small-living-room"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-layouts/cover"
 ---
 
 Most small living rooms aren't too small — they're just arranged like big ones. The default move (everything shoved against the walls, sofa facing the TV) wastes the middle of the room and chokes the walkways. These five layouts are drawn from real floor plans that work in 10–18 square meters. Pick the one that matches your room's shape and door positions.
@@ -65,6 +66,9 @@ Push the two largest pieces — sofa and TV console, or sofa and a bookshelf —
 
 **TV note:** corner TV placement needs the right viewing angle — keep the screen within 30 degrees of the sofa's center line. Our [small living room TV layout guide](/blog/small-living-room-tv-layout/) has four exact recipes for tricky TV positions.
 
+
+![Blue painter's tape outlines marking furniture footprints on a wooden floor, with a tape measure, pencil, scissors, and a sketched floor plan](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-living-room-layouts/in-article-1)
+
 ## Layout 3: The split zone
 
 **Best for:** long narrow rooms (the classic 3×6 m apartment living room), studio apartments.
@@ -88,6 +92,9 @@ Angle the main piece. A sofa placed at **30–45 degrees** in a corner or across
 **Behind the angle:** the triangular gap behind an angled sofa is perfect for a tall plant, a floor lamp, or a narrow bookshelf turned sideways. Don't leave it empty — empty triangular gaps read as "couldn't figure this out."
 
 **When not to:** rooms under 10 sqm. The diagonal eats floor area for its geometry, and tiny rooms can't spare it. In a truly tiny room, go wall-hugger (Layout 5) instead.
+
+
+![A narrow living room with a grey sofa, a rust armchair by the window, a tall bookshelf, and a TV on a wooden console](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-living-room-layouts/in-article-2)
 
 ## Layout 5: The wall-hugger
 

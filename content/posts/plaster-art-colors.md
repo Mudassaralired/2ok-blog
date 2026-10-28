@@ -1,6 +1,8 @@
 ---
 title: "Plaster Wall Art Colors: Neutrals, Tones & Finishes"
 date: "2026-10-19"
+updated: "2026-10-27"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/plaster-art-colors/cover"
 excerpt: "Warm neutrals, earthy terracotta, bold moody shades: which plaster colors suit your room, and the finishes (matte, limewash, gold-leaf) that elevate them."
 category: "DIY Projects"
 cluster: "wall-decor"
@@ -43,6 +45,8 @@ Neutrals are the default for plaster art for good reason: texture plus neutral c
 ## Earth tones: terracotta, clay, ochre, olive
 
 The 2026 sweet spot — warm, current, and forgiving on handmade texture:
+
+![Hands mixing terracotta pigment into white joint compound in a bowl with a palette knife](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/plaster-art-colors/in-article-1)
 
 - **Terracotta:** the plaster-art color of the moment. Warm, earthy, works in boho, Mediterranean, modern rustic, and eclectic rooms. Medium terracotta (not too orange, not too brown) is the versatile pick.
 - **Clay / sienna:** deeper and browner than terracotta — moodier, more sophisticated. Beautiful in traditional and transitional rooms.
@@ -108,6 +112,8 @@ The technique matters as much as the color:
 ## Matching art color to your room
 
 The 60-30-10 rule applied to wall art:
+
+![A finished terracotta arched plaster artwork hanging above a boucle armchair in a sunlit reading nook](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/plaster-art-colors/in-article-2)
 
 - **60% — room's dominant tone:** your art's main color should echo the room's largest surfaces (walls, sofa, rug). Neutral art in a neutral room; terracotta art where terracotta already appears in textiles.
 - **30% — secondary:** pick up the room's secondary color in smaller art pieces or accents.

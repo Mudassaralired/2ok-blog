@@ -4,6 +4,7 @@ date: "2026-10-19"
 excerpt: "15+ textured plaster designs you can make at home: arches, waves, sunbursts, and organic shapes, with sizing and style-matching tips."
 category: "DIY Projects"
 cluster: "wall-decor"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/textured-plaster-art/cover"
 ---
 
 You've learned the basic technique — now the question is *what* to make. The design you carve into wet compound decides whether the finished piece reads as gallery art or a craft experiment. This guide covers 15+ textured plaster art designs, organized from easiest to most ambitious, with honest notes on difficulty, drying risk, and which room styles each design suits.
@@ -67,6 +68,9 @@ Dab the compound with a stiff brush, sponge, or crumpled plastic — hundreds of
 
 **Why it works:** pure texture, zero composition risk. Great for backgrounds behind other decor, or as a first experiment with the material.
 
+
+![A hand dragging a notched trowel through wet plaster to make wavy combed lines on a board](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/textured-plaster-art/in-article-1)
+
 ## Level 2: intermediate designs
 
 More relief, more planning, 24–48 hour drying. Make one Level 1 piece first.
@@ -114,6 +118,9 @@ Moroccan or art-deco inspired geometry carved into a smooth base with a pointed 
 ### Mixed-media panel
 
 Plaster texture combined with another material — a wood strip, a brass inlay line, dried botanicals embedded at the edges. Plan the non-plaster elements first; they're harder to adjust than compound.
+
+
+![A framed sunburst-pattern textured plaster artwork hanging on a wall](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/textured-plaster-art/in-article-2)
 
 ## Matching designs to room styles
 

@@ -1,6 +1,8 @@
 ---
 title: "Easy Macramé Wall Hanging Patterns (With Knot Diagrams)"
 date: "2026-10-19"
+updated: "2026-10-27"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/macrame-patterns/cover"
 excerpt: "4 easy macramé wall hanging patterns with step-by-step knot diagrams: the 3 knots you need, cord-length formula, and beginner mistakes that waste cord."
 category: "DIY Projects"
 cluster: "wall-decor"
@@ -43,6 +45,8 @@ If you're brand new to knotting, our [beginner's macramé wall hanging tutorial]
 ## The only 3 knots you need
 
 Each "diagram" below is a numbered sequence. Read it once, do it once with scrap cord, and your hands will know it.
+
+![Hands tying a square-knot row on a macrame panel clamped to a small tabletop stand](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/macrame-patterns/in-article-1)
 
 ### Knot 1: Lark's head (mounting knot)
 
@@ -110,6 +114,8 @@ Maximum impact, minimum knotting. A dense top section with long, brushed fringe 
 ## Pattern 3: Diamond lattice
 
 A net of open diamonds — airy, geometric, and impressive for the effort. Uses all three knots.
+
+![A finished boho bedroom corner with a large patterned macrame wall hanging above a rattan headboard](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/macrame-patterns/in-article-2)
 
 **Finished size:** ~45 cm wide × 75 cm long. **Time:** 4–5 hours. **Cord:** 24 cords × 3.6 m of 4 mm single-twist.
 

@@ -4,6 +4,7 @@ date: "2026-10-19"
 excerpt: "7 small-space gallery layouts that stay airy: frame-size rules, color tricks, and the mistakes that make small rooms feel cluttered."
 category: "DIY Projects"
 cluster: "wall-decor"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-gallery-wall-ideas/cover"
 ---
 
 Small walls scare people off gallery walls entirely — which is a shame, because small spaces are where gallery walls work *best*. A tight wall forces decisions: fewer pieces, tighter editing, one clear idea. The result is usually sharper than a sprawling salon wall in a big room. The trick is restraint: the right scale, breathing room around the arrangement, and a limited palette. Below are seven small-space gallery wall ideas with the measurements that keep them airy instead of overwhelming.
@@ -62,6 +63,9 @@ A picture ledge shelf (60–90 cm) with 4–6 small frames leaned on it, overlap
 
 **Best for:** renters, anyone who likes to redecorate seasonally. One shelf holds your gallery; swapping art for the seasons takes five minutes. For the full damage-free playbook, see [renter-friendly wall decor](/blog/renter-friendly-wall-decor/).
 
+
+![A wooden picture ledge holding five mixed black and white framed prints beside a small potted succulent](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-gallery-wall-ideas/in-article-1)
+
 ## Idea 3: One statement piece (the anti-gallery)
 
 Sometimes the best small-space gallery wall is a single piece. One 50×70 cm print with a wide mat, hung alone at 145 cm center, gives a small wall a focal point without any visual noise.
@@ -99,6 +103,9 @@ Frames arranged around a doorway — two stacks flanking it, or small pieces abo
 **Measurements:** flanking stacks: 2–3 small frames (20×25 cm) each side, 10 cm clear of the doorframe trim. Above the door: one horizontal piece centered, at least 15 cm above the trim.
 
 **Best for:** hallways and small living rooms where the only "walls" are the bits between doors.
+
+
+![A 2x2 grid of four white-framed abstract prints above a wooden desk with a mug and notebook](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-gallery-wall-ideas/in-article-2)
 
 ## Color tricks that keep it airy
 

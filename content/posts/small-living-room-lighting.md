@@ -4,6 +4,7 @@ date: "2026-10-19"
 excerpt: "7 small living room lighting ideas that make it feel bigger: layered light heights, warm bulb temperature, mirror tricks, and the one mistake to avoid."
 category: "Small Spaces"
 cluster: "small-living-room"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-lighting/cover"
 ---
 
 Bad lighting makes a small living room feel like a cave; good lighting makes the same room feel twice its size. It's the cheapest square-footage illusion that exists — cheaper than new furniture, faster than repainting. These seven ideas fix the classic mistake: a single ceiling light doing all the work.
@@ -63,6 +64,9 @@ A mirror doesn't create light, but it doubles the *perceived* light sources and 
 
 This pairs directly with wall color: light walls reflect 70–80% of light, dark walls under 20%. If you're choosing paint too, read our [paint colors for small living rooms](/blog/small-living-room-paint-colors/) first — the right shade multiplies everything on this page.
 
+
+![Hands fitting a warm-white bulb into a brass lamp socket beneath a linen lampshade](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-living-room-lighting/in-article-1)
+
 ## 4. Replace the single ceiling light
 
 The classic small-apartment setup — one harsh ceiling fixture in the middle of the room — is the fastest way to make 15 square meters feel like 10. Overhead-only light does three bad things: it casts shadows straight down (flattening everything), it leaves the walls dark (walls define perceived size), and it creates a single bright hotspot your eyes lock onto instead of traveling around the room.
@@ -99,6 +103,9 @@ The TV wall is usually the darkest wall in the room by day (big black rectangle)
 - For a 55-inch TV, a 2-meter strip centered on the back is plenty
 
 If your TV sits on a media console, add one more low source nearby — a small lamp or LED puck on the console itself. The [TV layout guide](/blog/small-living-room-tv-layout/) covers console heights and viewing distances; get the layout right and the lighting on top of it, and the whole wall stops feeling like a black hole.
+
+
+![A large round mirror above a wooden console, reflecting a window and a floor lamp](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/small-living-room-lighting/in-article-2)
 
 ## 7. Put everything on dimmers
 

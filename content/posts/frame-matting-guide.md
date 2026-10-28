@@ -1,6 +1,8 @@
 ---
 title: "How to Mat and Style Thrifted Frames Like a Pro (2026)"
 date: "2026-10-19"
+updated: "2026-10-27"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/frame-matting-guide/cover"
 excerpt: "How to mat thrifted frames like a pro: mat proportions that look expensive, DIY bevel cuts step by step, color rules, and styling mixed frames as one set."
 category: "DIY Projects"
 cluster: "wall-decor"
@@ -52,6 +54,8 @@ The thrifted-frame connection: thrift frames come in random sizes, and your art 
 
 **Tools ($15–$25 total):** a handheld mat cutter (the $12–$18 kind with a replaceable blade — not a craft knife, the angled blade is the whole point), a metal ruler or T-square, a self-healing cutting mat or spare board underneath, and pencil. Plus practice board: cut your first 2–3 mats from scrap cardboard, not your good mat board.
 
+![Hands cutting a cream mat board with a craft knife and metal ruler on a green cutting mat](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/frame-matting-guide/in-article-1)
+
 **Mat board:** buy 4-ply (standard, ~1.4 mm) conservation or acid-free board. Regular craft board yellows and can stain art over years — acid-free costs barely more ($3–$6 per 50×65 cm sheet, which yields 1–2 mats). White core vs cream core: white core shows a crisp white bevel line (modern); cream core shows warm (traditional).
 
 **The process:**
@@ -93,6 +97,8 @@ Cutting isn't mandatory. Honest alternatives, ranked:
 Random thrifted frames become a cohesive gallery with three unifiers — you only need two of the three:
 
 1. **Same mat color.** Five different frames, all with warm-white mats: instantly a set. This is the highest-leverage unifier and the reason to standardize your mat color.
+
+![A finished wide-mat black frame with a botanical print hanging above a hallway console with dried grasses](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/frame-matting-guide/in-article-2)
 2. **Same frame color.** (See the color-pop flip in our [frame flips guide](/blog/thrifted-frame-flips/) — paint unifies shapes.)
 3. **Consistent spacing and alignment.** Even wildly different frames look intentional hung on a strict grid or with exactly equal gaps. Chaos in the frames + order in the layout = designed.
 

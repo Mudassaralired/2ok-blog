@@ -1,6 +1,8 @@
 ---
 title: "Mini Macramé Wall Decor: 7 Small Projects"
 date: "2026-10-19"
+updated: "2026-10-27"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/mini-macrame-decor/cover"
 excerpt: "7 mini macramé wall decor projects: tiny hangings, feathers, mini plant hangers, rainbow charms — each under an hour, perfect for cord scraps and gifts."
 category: "DIY Projects"
 cluster: "wall-decor"
@@ -33,11 +35,13 @@ Haven't knotted before? Learn the three knots first in our [macramé patterns gu
 
 ## Why minis are the smartest macramé to start with
 
-Three reasons minis beat full-size hangings for beginners. First, **cord is cheap at this scale** — mistakes cost centimeters, so you experiment freely. Second, **you finish fast** — a completed project in 40 minutes teaches more than a half-done wall hanging abandoned for a month. Third, **minis are useful** — they fill awkward small wall spots, work as gifts, and cluster into larger arrangements.
+Three reasons minis beat full-size hangings for beginners. First, **cord is cheap at this scale** — mistakes cost centimeters, so you experiment freely. Our [macramé cord guide](/blog/macrame-cord-guide/) explains which cord suits minis best. Second, **you finish fast** — a completed project in 40 minutes teaches more than a half-done wall hanging abandoned for a month. Third, **minis are useful** — they fill awkward small wall spots, work as gifts, and cluster into larger arrangements.
+
+![Hands knotting a miniature macrame coaster in natural cord on a small tabletop loom](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/mini-macrame-decor/in-article-1)
 
 ## Project 1: Twig mini wall hanging
 
-A 15 cm twig with a few rows of knots — the mini version of a full wall hanging, and the best first project.
+A 15 cm twig with a few rows of knots — the mini version of a [full wall hanging](/blog/macrame-wall-hanging/), and the best first project.
 
 **You need:** a 15–20 cm twig or cinnamon stick, 8 cords × 60 cm of 3 mm cotton cord.
 **Time:** 30 minutes. **Knots:** lark's head, square knot.
@@ -152,6 +156,8 @@ One 100 m spool of cord, used for a full-size hanging plus these minis, genuinel
 ## Hanging minis without wall damage
 
 Minis are light — almost all weigh under 300 g — so damage-free hanging is trivial:
+
+![A car rear-view mirror with a small macrame charm and a mini macrame wall hanging on a narrow entryway wall](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/mini-macrame-decor/in-article-2)
 
 - **Adhesive strips:** one small set per mini, rated to 450 g. Clean the spot with rubbing alcohol first.
 - **Washi tape:** for paper-light pieces (rainbow charms, feathers), decorative washi tape doubles as the hanger and the frame.

@@ -4,6 +4,7 @@ date: "2026-10-19"
 excerpt: "Thrift store frame flips: how to spot frames worth buying, 8 before-and-after makeover ideas, and the paint process that makes $3 frames look custom-made."
 category: "DIY Projects"
 cluster: "wall-decor"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/thrifted-frame-flips/cover"
 ---
 
 Thrift stores price picture frames like they're doing you a favor — because they are. A solid wood frame that retails for $40–$80 sits in the bin for $2–$5, usually because the art inside is a faded motel landscape and the finish is 1994 honey oak. The frame is the asset; everything else is packaging. Frame flipping is buying the bones and fixing the skin.
@@ -41,6 +42,9 @@ Walk past the art. You're shopping for rectangles.
 **Always skip:** plastic frames with fake woodgrain print (paint peels off the slick surface), warped or twisted boards (won't hang flat), frames with that dusty gold plastic "ornate" finish that's actually hollow (paint won't save the cheapness), and anything smelling of mildew — the backing board is compromised.
 
 **The 30-second evaluation:** knock (wood?) → corners (tight?) → size (useful?) → price (under $5?). Four yeses = buy it. You'll develop the eye within three thrift trips.
+
+
+![Hands painting a wooden picture frame black with a brush, an open paint can beside it](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/thrifted-frame-flips/in-article-1)
 
 ## 8 before-and-after flip ideas
 
@@ -93,6 +97,9 @@ Every flip above runs on the same backbone. Learn it once, apply forever.
 **Step 6: Seal.** Clear matte polyurethane or furniture wax, one coat. Frames get handled, dusted, and leaned — unsealed paint scuffs. This 10-minute step is what makes the flip survive real life.
 
 **Drying truth:** paint feels dry in an hour and cures in 2–3 weeks. Hang gently at first; full hardness comes with time. Stacking freshly painted frames face-to-face = stuck paint. Ask me how I know.
+
+
+![A close-up of an ornate gold thrifted frame corner with carved floral detail](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/thrifted-frame-flips/in-article-2)
 
 ## Glass, backing, and hardware
 

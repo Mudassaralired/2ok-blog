@@ -1,6 +1,8 @@
 ---
 title: "Small Living Room Decor on a Budget: 12 Ideas Under $100"
 date: "2026-10-19"
+updated: "2026-10-27"
+cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/budget-small-living-room-decor/cover"
 excerpt: "Small living room decor on a budget: 12 ideas under $100 — paint tricks, thrifted finds, smart textiles, and layout fixes that make tiny rooms feel bigger."
 category: "Small Spaces"
 cluster: "small-living-room"
@@ -69,6 +71,8 @@ Go big: 60×90 cm minimum; a leaning floor mirror (120×40 cm) needs no holes �
 Cost: **$20–$30**. Time: 20 minutes.
 
 New cushion covers (not new cushions) are the highest-ROI textile swap in a living room. Two or three covers in a cohesive palette — say, warm white, terracotta, and one pattern — make a tired sofa look intentional. Standard 45×45 cm covers run $6–$10 each online.
+
+![Budget decorating supplies laid out on a woven rug: paint tester pots, a thrifted vase, fabric swatches, fairy lights and a tape measure](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/budget-small-living-room-decor/in-article-1)
 
 Stick to 60-30-10: neutral base, secondary color, one accent. Washable covers only — small-room cushions get touched constantly.
 
@@ -139,6 +143,8 @@ The 3-object rule: never more than three groupings on a coffee table — the tra
 Cost: **$0–$10**. Time: 1–2 hours.
 
 Gather every frame, print, and postcard you already own. Lay them on the floor in a tight arrangement — 5–8 cm gaps, one outer shape (rectangle or organic cluster). Trace each frame on kraft paper, tape the paper to the wall, then hang. Our [renter-friendly wall decor](/blog/renter-friendly-wall-decor/) shows how to do this with zero holes using adhesive strips.
+
+![A repainted sage side table below a mini gallery wall of mismatched thrifted frames on a pale grey wall](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/budget-small-living-room-decor/in-article-2)
 
 Keep frames within one color family (all black, all wood) for cohesion.
 
