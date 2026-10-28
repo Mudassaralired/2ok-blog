@@ -1,7 +1,7 @@
 ---
-title: "Small Living Room Storage Ideas: 10 That Actually Work (2026)"
+title: "Small Living Room Storage Ideas: 10 That Actually Work"
 date: "2026-10-19"
-excerpt: "Small living room storage ideas with real dimensions: 10 solutions from $0 to $150 — hidden storage, vertical space, and the declutter rule that makes them all work."
+excerpt: "10 storage solutions from $0 to $150 with real dimensions: hidden storage, vertical space, and the declutter rule that makes them all work."
 category: "Small Spaces"
 cluster: "small-living-room"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/small-living-room-storage-ideas.jpg"

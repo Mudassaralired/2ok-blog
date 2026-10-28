@@ -1,7 +1,7 @@
 ---
-title: "Tapestry Wall Hanging: How to Choose, Hang and Care for Fabric Wall Art (2026)"
+title: "Tapestry Wall Hanging: Choose, Hang & Care for Fabric Art"
 date: "2026-10-23"
-excerpt: "The softest wall decor there is — and the easiest to hang badly. Sizing rules, the weight classes that decide your hanging method (clips, rod sleeve, batten), the no-sew rod pocket fix, blocking out the sag, and care that keeps colors alive."
+excerpt: "The softest wall decor, and the easiest to hang badly. Sizing rules, weight classes that decide your method, the no-sew rod pocket, and color care."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/tapestry-wall-hanging/cover"

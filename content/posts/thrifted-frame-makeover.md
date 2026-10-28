@@ -1,7 +1,7 @@
 ---
 title: "Thrifted Frame Makeover: 3 Finishes Under $5 Each (2026)"
 date: "2026-10-19"
-excerpt: "Thrifted frame makeover tutorial: 3 finishes (chalk paint, gold-leaf edges, stripped natural wood) for under $5 each — what to buy, prep, and the sealing step."
+excerpt: "3 thrifted frame finishes under $5 each: chalk paint, gold-leaf edges, stripped natural wood. What to buy, prep, and the sealing step."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/thrifted-frame-makeover.jpg"

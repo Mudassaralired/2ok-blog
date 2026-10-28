@@ -1,7 +1,7 @@
 ---
-title: "Textured Plaster Art Designs You Can Make at Home (15+ Ideas)"
+title: "Textured Plaster Art: 15+ Designs You Can Make at Home"
 date: "2026-10-19"
-excerpt: "15+ textured plaster art designs you can make at home: arches, waves, sunbursts and organic shapes — with sizing, style matching, and technique tips."
+excerpt: "15+ textured plaster designs you can make at home: arches, waves, sunbursts, and organic shapes, with sizing and style-matching tips."
 category: "DIY Projects"
 cluster: "wall-decor"
 ---

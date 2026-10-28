@@ -1,5 +1,5 @@
 ---
-title: "What Size Rug for a Small Living Room? The 3 Measurements That Matter (2026)"
+title: "What Size Rug for a Small Living Room? 3 Measurements"
 date: "2026-10-18"
 excerpt: "What size rug for a small living room? The 3 measurements that decide it — plus exact size recipes (5x7, 6x9), placement rules, and 5 costly mistakes."
 category: "Small Spaces"

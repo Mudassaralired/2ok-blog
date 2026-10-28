@@ -1,7 +1,7 @@
 ---
 title: "Washi Tape Wall Art: Renter-Friendly Patterns That Look Painted On"
 date: "2026-10-26"
-excerpt: "Washi tape is the closest thing to painting a wall that a renter can do without paint. Ten patterns that actually look like design choices, plus the technique that keeps them crisp and removable."
+excerpt: "The closest thing to painting a wall a renter can do without paint: 10 patterns that look like design choices, crisp and fully removable."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/washi-tape-wall-art/cover"

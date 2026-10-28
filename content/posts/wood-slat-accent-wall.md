@@ -1,7 +1,7 @@
 ---
-title: "Wood Slat Accent Wall: DIY vs Ready-Made Panels, Real Costs and Spacing Math (2026)"
+title: "Wood Slat Accent Wall: DIY vs Panels, Costs & Spacing"
 date: "2026-10-20"
-excerpt: "Wood slat accent wall, two honest routes: DIY lumber vs felt-backed panels. Full cost math for a 12x8 wall, slat spacing formulas, and why the first slat decides everything."
+excerpt: "DIY lumber vs felt-backed panels: full cost math for a 12x8 wall, slat spacing formulas, and why the first slat decides everything."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/wood-slat-accent-wall/cover"

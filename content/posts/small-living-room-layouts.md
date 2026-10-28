@@ -1,7 +1,7 @@
 ---
-title: "Small Living Room Furniture Arrangement: 5 Layouts That Work"
+title: "Small Living Room Layouts: 5 Arrangements That Work"
 date: "2026-10-19"
-excerpt: "5 small living room furniture arrangements that work: the float, the L, split zones, the diagonal, the wall-hugger — with exact clearances and walkway rules."
+excerpt: "5 small living room arrangements that work: the float, the L, split zones, the diagonal, the wall-hugger, with exact clearances and walkway rules."
 category: "Small Spaces"
 cluster: "small-living-room"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Best Sofa for a Small Living Room: 5 Types Ranked by Real Dimensions (2026)"
+title: "Best Sofa for a Small Living Room: 5 Types, Real Dimensions"
 date: "2026-10-18"
-excerpt: "Best sofa for a small living room: 5 types ranked with exact dimensions — apartment sofa, loveseat, chaise, sleeper, modular. Plus the delivery measurement everyone forgets."
+excerpt: "5 sofa types ranked by real dimensions: apartment sofa, loveseat, chaise, sleeper, modular. Plus the delivery measurement everyone forgets."
 category: "Small Spaces"
 cluster: "small-living-room"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-sofa/cover"

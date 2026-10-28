@@ -1,5 +1,5 @@
 ---
-title: "Small Living Room Lighting Ideas: 7 Ways to Make It Feel Bigger"
+title: "Small Living Room Lighting: 7 Ways to Feel Bigger"
 date: "2026-10-19"
 excerpt: "7 small living room lighting ideas that make it feel bigger: layered light heights, warm bulb temperature, mirror tricks, and the one mistake to avoid."
 category: "Small Spaces"

@@ -1,5 +1,5 @@
 ---
-title: "Best Paint Colors for Small Living Rooms: 7 Shades That Actually Work (2026)"
+title: "Best Paint Colors for Small Living Rooms: 7 Shades That Work"
 date: "2026-10-18"
 excerpt: "Best paint colors for small living rooms: 7 real shades with codes and LRV numbers — plus north vs south facing guidance and the finish that matters most."
 category: "Small Spaces"
