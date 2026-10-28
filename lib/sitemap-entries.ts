@@ -1,4 +1,9 @@
-import { getAllPosts, getAllCategories, getAllClusters } from "@/lib/posts";
+import {
+  getAllPosts,
+  getAllCategories,
+  getAllClusters,
+  POSTS_PER_PAGE,
+} from "@/lib/posts";
 
 const SITE_URL = "https://2ok.lol";
 
@@ -41,6 +46,21 @@ export function buildSitemapEntries(): SitemapEntry[] {
     priority: 0.8,
   }));
 
+  // Paginated blog index pages (/blog is page 1; no /blog/page/1).
+  const totalPages = Math.max(
+    1,
+    Math.ceil(getAllPosts().length / POSTS_PER_PAGE)
+  );
+  const blogPages: SitemapEntry[] = [];
+  for (let n = 2; n <= totalPages; n++) {
+    blogPages.push({
+      url: `${SITE_URL}/blog/page/${n}`,
+      lastModified: newestPost,
+      changeFrequency: "weekly",
+      priority: 0.5,
+    });
+  }
+
   return [
     {
       url: SITE_URL,
@@ -54,6 +74,7 @@ export function buildSitemapEntries(): SitemapEntry[] {
       changeFrequency: "daily",
       priority: 0.9,
     },
+    ...blogPages,
     ...topics,
     ...categories,
     ...posts,

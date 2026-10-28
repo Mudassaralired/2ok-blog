@@ -62,6 +62,20 @@ export function getAllPosts(): PostMeta[] {
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
+/** Blog index pagination: 12 cards per page. */
+export const POSTS_PER_PAGE = 12;
+
+/** Number of blog index pages. Page 1 is /blog; page n > 1 is /blog/page/n. */
+export function getTotalPages(): number {
+  return Math.max(1, Math.ceil(getAllPosts().length / POSTS_PER_PAGE));
+}
+
+/** One page of posts, newest first. Out-of-range pages return []. */
+export function getPostsPage(page: number): PostMeta[] {
+  const all = getAllPosts();
+  return all.slice((page - 1) * POSTS_PER_PAGE, page * POSTS_PER_PAGE);
+}
+
 /** 1200x630 OG/social image for a post slug.
  *  Slugs shortened on 2026-10-19 keep pointing at their original upload path. */
 export function ogImageFor(slug: string): string {

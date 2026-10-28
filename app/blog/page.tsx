@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getAllPosts } from "@/lib/posts";
+import { getPostsPage, getTotalPages } from "@/lib/posts";
 import BlogSearch from "@/components/BlogSearch";
 
 const SITE_URL = "https://2ok.lol";
@@ -18,8 +18,6 @@ export const metadata: Metadata = {
 };
 
 export default function BlogIndexPage() {
-  const posts = getAllPosts();
-
   return (
     <div className="mx-auto max-w-6xl px-5 py-14 md:py-20">
       <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay-dark">
@@ -32,7 +30,11 @@ export default function BlogIndexPage() {
         Every decor idea we&apos;ve published — newest first.
       </p>
 
-      <BlogSearch posts={posts} />
+      <BlogSearch
+        pagePosts={getPostsPage(1)}
+        currentPage={1}
+        totalPages={getTotalPages()}
+      />
     </div>
   );
 }

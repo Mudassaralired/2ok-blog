@@ -15,14 +15,32 @@ function formatDate(iso: string): string {
   });
 }
 
+function pageHref(page: number): string {
+  return page <= 1 ? "/blog" : `/blog/page/${page}`;
+}
+
 /**
- * Live article search for the blog index. The site is a static export,
- * so filtering happens in the browser: the full post list arrives as
- * props from the server component, and ?q= in the URL (from the header
- * search or a shared link) is picked up on mount.
+ * Blog index: one page of cards + pagination, with live search across
+ * ALL articles. The site is a static export, so only the current page's
+ * posts arrive as props. When the reader starts searching, the full
+ * search index (/search-index.json, generated at build time) is fetched
+ * once and filtered in the browser; while a query is active the
+ * pagination hides and results come from the whole site. ?q= in the
+ * URL (from the header search or a shared link) is picked up on mount.
+ * If the index fetch fails, search falls back to the current page.
  */
-export default function BlogSearch({ posts }: { posts: PostMeta[] }) {
+export default function BlogSearch({
+  pagePosts,
+  currentPage,
+  totalPages,
+}: {
+  pagePosts: PostMeta[];
+  currentPage: number;
+  totalPages: number;
+}) {
   const [query, setQuery] = useState("");
+  const [indexPosts, setIndexPosts] = useState<PostMeta[] | null>(null);
+  const [indexFailed, setIndexFailed] = useState(false);
 
   // Pick up ?q= on mount, stay in sync with back/forward, and accept
   // live queries from the header while already on /blog (no remount
@@ -45,20 +63,33 @@ export default function BlogSearch({ posts }: { posts: PostMeta[] }) {
   }, []);
 
   const needle = query.trim().toLowerCase();
+
+  // Fetch the full index the first time a query appears (or when the
+  // page loads with ?q= already set).
+  useEffect(() => {
+    if (!needle || indexPosts !== null || indexFailed) return;
+    fetch("/search-index.json")
+      .then((r) => (r.ok ? r.json() : Promise.reject(new Error("index fetch failed"))))
+      .then((data: PostMeta[]) => setIndexPosts(data))
+      .catch(() => setIndexFailed(true));
+  }, [needle, indexPosts, indexFailed]);
+
+  const searchable = needle ? (indexPosts ?? pagePosts) : pagePosts;
   const filtered = needle
-    ? posts.filter((p) =>
+    ? searchable.filter((p) =>
         [p.title, p.excerpt, p.category, p.cluster, p.slug]
           .join(" ")
           .toLowerCase()
           .includes(needle)
       )
-    : posts;
+    : pagePosts;
 
   const update = (value: string) => {
     setQuery(value);
+    const base = window.location.pathname;
     const url = value.trim()
-      ? `/blog?q=${encodeURIComponent(value.trim())}`
-      : "/blog";
+      ? `${base}?q=${encodeURIComponent(value.trim())}`
+      : base;
     window.history.replaceState(null, "", url);
   };
 
@@ -150,6 +181,49 @@ export default function BlogSearch({ posts }: { posts: PostMeta[] }) {
           &ldquo;rug&rdquo;.
         </p>
       )}
+
+      {!needle && totalPages > 1 ? (
+        <nav
+          aria-label="Blog pages"
+          className="mt-12 flex flex-wrap items-center justify-center gap-2"
+        >
+          {currentPage > 1 ? (
+            <Link
+              href={pageHref(currentPage - 1)}
+              className="rounded-full border border-ink/15 px-5 py-2.5 text-sm font-semibold text-ink-soft transition-colors hover:text-clay-dark"
+            >
+              ← Previous
+            </Link>
+          ) : null}
+          {Array.from({ length: totalPages }, (_, i) => i + 1).map((n) =>
+            n === currentPage ? (
+              <span
+                key={n}
+                aria-current="page"
+                className="rounded-full bg-clay-dark px-4 py-2.5 text-sm font-semibold text-cream"
+              >
+                {n}
+              </span>
+            ) : (
+              <Link
+                key={n}
+                href={pageHref(n)}
+                className="rounded-full border border-ink/15 px-4 py-2.5 text-sm font-semibold text-ink-soft transition-colors hover:text-clay-dark"
+              >
+                {n}
+              </Link>
+            )
+          )}
+          {currentPage < totalPages ? (
+            <Link
+              href={pageHref(currentPage + 1)}
+              className="rounded-full border border-ink/15 px-5 py-2.5 text-sm font-semibold text-ink-soft transition-colors hover:text-clay-dark"
+            >
+              Next →
+            </Link>
+          ) : null}
+        </nav>
+      ) : null}
     </div>
   );
 }
