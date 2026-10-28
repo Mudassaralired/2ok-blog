@@ -1,7 +1,7 @@
 ---
-title: "Small Living Room Color Schemes: 6 Palettes That Open Up Space"
+title: "Small Living Room Colors: 6 Palettes That Open Up Space"
 date: "2026-10-19"
-excerpt: "6 small living room color schemes that open up space: warm white, sage, blue-gray, terracotta accents, monochrome beige, and one dark accent done right."
+excerpt: "6 color schemes that open up small rooms: warm white, sage, blue-gray, terracotta accents, monochrome beige, and one dark accent done right."
 category: "Small Spaces"
 cluster: "small-living-room"
 ---

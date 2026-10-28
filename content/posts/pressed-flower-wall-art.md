@@ -1,7 +1,7 @@
 ---
-title: "Pressed Flower Wall Art DIY: The 12-Minute Microwave Method (2026)"
+title: "Pressed Flower Wall Art: The 12-Minute Microwave Method"
 date: "2026-10-19"
-excerpt: "Pressed flower wall art DIY: the microwave-press method (12 minutes vs 3 weeks), best flowers for pressing, floating-frame arranging, and color preservation."
+excerpt: "Pressed flower wall art DIY: the microwave-press method (12 minutes vs 3 weeks), best flowers, floating-frame arranging, and color preservation."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/pressed-flower-wall-art.jpg"

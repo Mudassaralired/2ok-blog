@@ -1,7 +1,7 @@
 ---
-title: "Painted Arch Accent Wall: How to Size, Draw and Paint a Perfect Arch (2026)"
+title: "Painted Arch Accent Wall: Size, Draw & Paint a Perfect Arch"
 date: "2026-10-23"
-excerpt: "The string-compass trick that draws a mathematically perfect arch, the sizing rules (width, spring line, ceiling clearance), tape technique for a bleed-free curve, and the colors that work — a one-quart, one-afternoon accent wall."
+excerpt: "The string-compass trick for a mathematically perfect arch, sizing rules, bleed-free tape technique, and colors that work. One quart, one afternoon."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/painted-arch-accent-wall/cover"

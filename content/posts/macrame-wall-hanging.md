@@ -1,5 +1,5 @@
 ---
-title: "Macramé Wall Hanging for Beginners: Your First Project, Start to Finish (2026)"
+title: "Macrame for Beginners: Your First Wall Hanging, Start to Finish"
 date: "2026-10-19"
 excerpt: "Macramé wall hanging for beginners: the 4 knots you need, exact cord measurements, and a complete first project — 60 cm dowel, 3 hours, zero experience."
 category: "DIY Projects"

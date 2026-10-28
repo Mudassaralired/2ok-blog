@@ -1,7 +1,7 @@
 ---
-title: "Plaster Wall Art Color Ideas: Neutrals, Tones & Finishes (2026)"
+title: "Plaster Wall Art Colors: Neutrals, Tones & Finishes"
 date: "2026-10-19"
-excerpt: "Plaster wall art color ideas: warm neutrals, earthy terracotta and clay tones, bold moody shades, plus matte, limewash and gold-leaf finishes explained."
+excerpt: "Warm neutrals, earthy terracotta, bold moody shades: which plaster colors suit your room, and the finishes (matte, limewash, gold-leaf) that elevate them."
 category: "DIY Projects"
 cluster: "wall-decor"
 ---

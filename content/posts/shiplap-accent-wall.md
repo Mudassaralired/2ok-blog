@@ -1,7 +1,7 @@
 ---
-title: "Shiplap Accent Wall: Real vs Faux, Costs per Sq Ft and How to Install It Right (2026)"
+title: "Shiplap Accent Wall: Real vs Faux, Costs & Install Rules"
 date: "2026-10-23"
-excerpt: "True shiplap, nickel gap, and the ripped-plywood faux method side by side: real material costs ($0.80–$7/sq ft), board math for a 12-foot wall, the paint-the-wall-first trick, and the first-board rule that decides whether the whole wall looks pro or homemade."
+excerpt: "True shiplap, nickel gap, and ripped-plywood faux compared: real costs ($0.80-$7/sq ft), board math, and the first-board rule that decides everything."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/shiplap-accent-wall/cover"

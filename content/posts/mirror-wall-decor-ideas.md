@@ -1,7 +1,7 @@
 ---
-title: "Mirror Wall Decor Ideas: Sizes, Placement, and Styles That Actually Work"
+title: "Mirror Wall Decor Ideas: Sizes, Placement & Styles"
 date: "2026-10-27"
-excerpt: "A mirror is the hardest-working piece of wall decor you can buy: it adds light, space, and a focal point in one move. Here is how to size it, where to hang it room by room, and which styles are worth your money."
+excerpt: "A mirror adds light, space, and a focal point in one move. How to size it, where to hang it room by room, and which styles are worth your money."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/mirror-wall-decor-ideas/cover"

@@ -1,7 +1,7 @@
 ---
-title: "8 Small Living Room Layout Mistakes That Make the Room Feel Smaller (and the Fix for Each)"
+title: "8 Small Living Room Layout Mistakes (and the Fix for Each)"
 date: "2026-10-25"
-excerpt: "Most small living rooms feel cramped because of placement, not square footage: furniture shoved against walls, walkways under 30 inches, a rug that floats like an island, and a sofa that eats the room. The eight mistakes that matter, with the real measurements that fix them."
+excerpt: "Cramped rooms are a placement problem, not a size problem: 8 mistakes that shrink small rooms, with the real measurements that fix each one."
 category: "DIY Projects"
 cluster: "small-living-room"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-layout-mistakes/cover"

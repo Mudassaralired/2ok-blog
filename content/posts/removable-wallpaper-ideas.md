@@ -1,7 +1,7 @@
 ---
-title: "Removable Wallpaper Accent Walls: Ideas & Application Tips (2026)"
+title: "Removable Wallpaper Accent Walls: Ideas & Application Tips"
 date: "2026-10-19"
-excerpt: "Removable wallpaper accent walls: 10 design ideas, pattern-repeat math, bubble-free application steps, and easy clean removal — renter-safe throughout."
+excerpt: "10 removable wallpaper ideas with pattern-repeat math, bubble-free application, and clean removal. Renter-safe from first strip to last."
 category: "DIY Projects"
 cluster: "wall-decor"
 ---

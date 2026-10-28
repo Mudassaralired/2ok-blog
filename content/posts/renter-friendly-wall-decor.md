@@ -1,7 +1,7 @@
 ---
-title: "Renter-Friendly Wall Decor: 9 DIY Ideas With Zero Holes (2026)"
+title: "Renter-Friendly Wall Decor: 9 DIY Ideas, Zero Holes"
 date: "2026-10-19"
-excerpt: "Renter-friendly wall decor: 9 DIY ideas with zero holes — damage-free methods ranked, the adhesive prep that makes strips actually hold, and clean move-out removal."
+excerpt: "9 renter-friendly DIY ideas with zero holes: damage-free methods ranked, the adhesive prep that makes strips actually hold, and clean move-out removal."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/knb4zxgu/image/upload/f_auto,q_auto/2ok-blog/renter-friendly-wall-decor.jpg"

@@ -1,7 +1,7 @@
 ---
-title: "Plaster Art Materials: Joint Compound vs Plaster of Paris vs Lime — What to Buy for Your First Textured Piece (2026)"
+title: "Plaster Art Materials: Joint Compound vs Plaster of Paris"
 date: "2026-10-24"
-excerpt: "The four plaster materials compared honestly: joint compound (the beginner pick), plaster of Paris (fast but brittle), lime plaster (the authentic slow cure), and modeling plaster — plus pigment rules (5% max for lime), crack fixes, drying times, and a first-project shopping list under $50."
+excerpt: "Joint compound vs plaster of Paris vs lime: what to buy for your first textured piece, plus pigment rules, crack fixes, and a sub-$50 shopping list."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/plaster-art-materials/cover"

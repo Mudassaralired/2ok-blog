@@ -1,7 +1,7 @@
 ---
-title: "Peel and Stick Wallpaper Accent Wall: The One-Afternoon Install, Done Right (2026)"
+title: "Peel and Stick Wallpaper Accent Wall: One-Afternoon Install"
 date: "2026-10-20"
-excerpt: "Peel and stick wallpaper accent wall, installed properly: roll math for a 12x8 wall, the wall-prep rules that decide whether it sticks for years, plumb lines, pattern matching, and clean removal."
+excerpt: "Roll math for a 12x8 wall, the prep rules that decide whether it sticks for years, plumb lines, pattern matching, and clean removal."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/peel-stick-wallpaper-accent-wall/cover"
