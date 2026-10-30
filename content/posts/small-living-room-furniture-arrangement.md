@@ -2,7 +2,7 @@
 title: "Small Living Room Furniture: Spacing Rules & 4 Layouts"
 date: "2026-10-23"
 excerpt: "30-36-inch walkways, 14-18 inches sofa to coffee table, TV distance by screen size, and 4 layouts matched to room shape. Plus the wall-hugging mistake."
-category: "DIY Projects"
+category: "Small Spaces"
 cluster: "small-living-room"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-furniture-arrangement/cover"
 ---

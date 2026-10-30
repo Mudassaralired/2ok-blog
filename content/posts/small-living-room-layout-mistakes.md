@@ -2,7 +2,7 @@
 title: "8 Small Living Room Layout Mistakes (and the Fix for Each)"
 date: "2026-10-25"
 excerpt: "Cramped rooms are a placement problem, not a size problem: 8 mistakes that shrink small rooms, with the real measurements that fix each one."
-category: "DIY Projects"
+category: "Small Spaces"
 cluster: "small-living-room"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-living-room-layout-mistakes/cover"
 ---

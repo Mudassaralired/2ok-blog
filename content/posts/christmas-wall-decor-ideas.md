@@ -2,7 +2,7 @@
 title: "Christmas Wall Decor Ideas: 9 Ways, Zero New Holes"
 date: "2026-10-21"
 excerpt: "Nine Christmas wall ideas for real walls: garland swags, wreath trios, paper stars, and the hanging rules that keep it all up until January."
-category: "DIY Projects"
+category: "Seasonal Decor"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-wall-decor-ideas/cover"
 ---

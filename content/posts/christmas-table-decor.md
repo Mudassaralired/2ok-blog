@@ -2,7 +2,7 @@
 title: "Christmas Table Decor: 9 Centerpieces That Cost Under $25"
 date: "2026-10-28"
 excerpt: "Nine Christmas table centerpieces under $25 each, plus the height rule that keeps conversation flowing and the candle safety basics."
-category: "DIY Projects"
+category: "Seasonal Decor"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-table-decor/cover"
 ---

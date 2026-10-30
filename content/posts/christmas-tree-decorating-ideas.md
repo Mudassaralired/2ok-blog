@@ -2,7 +2,7 @@
 title: "How to Decorate a Christmas Tree Like a Designer"
 date: "2026-10-27"
 excerpt: "The right order and the right amounts: step-by-step tree decorating, per-foot quantities for lights, ornaments, ribbon, and 5 themes to copy."
-category: "DIY Projects"
+category: "Seasonal Decor"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-tree-decorating-ideas/cover"
 ---
