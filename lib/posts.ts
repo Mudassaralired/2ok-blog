@@ -221,6 +221,14 @@ const COVER_ALTS: Record<string, string> = {
     "A geometric washi tape triangle pattern on a bedroom wall above a bed",
   "wood-slat-accent-wall":
     "A living room with a vertical wood slat accent wall and a wall-mounted TV",
+  "diy-geometric-accent-wall":
+    "Living room with a bold terracotta, navy and cream geometric triangle accent wall above a beige sofa",
+  "staircase-wall-decor-ideas":
+    "Wooden staircase with a diagonal gallery wall of framed photos following the rise of the stairs",
+  "diy-wall-mural-ideas":
+    "Bedroom with a large hand-painted botanical leaf mural in sage and terracotta behind a wooden bed",
+  "christmas-front-door-decor":
+    "Red front door at dusk with a large evergreen Christmas wreath, garland frame and glowing lanterns",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
