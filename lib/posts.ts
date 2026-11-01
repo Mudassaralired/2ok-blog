@@ -229,6 +229,14 @@ const COVER_ALTS: Record<string, string> = {
     "Bedroom with a large hand-painted botanical leaf mural in sage and terracotta behind a wooden bed",
   "christmas-front-door-decor":
     "Red front door at dusk with a large evergreen Christmas wreath, garland frame and glowing lanterns",
+  "diy-string-art-wall-decor":
+    "Wooden board with a terracotta and cream string art heart hanging above a wooden console",
+  "diy-photo-wall-ideas":
+    "Grid of nine black-framed family photographs above a beige sofa in a bright living room",
+  "diy-wall-planter-ideas":
+    "Terracotta pots with trailing pothos plants mounted on a wooden rail on a cream wall",
+  "christmas-stocking-display-ideas":
+    "Five red and cream knitted Christmas stockings hanging from a wooden mantel with garland and fairy lights",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
