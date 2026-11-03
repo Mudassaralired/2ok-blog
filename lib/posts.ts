@@ -245,6 +245,14 @@ const COVER_ALTS: Record<string, string> = {
     "Cream wall decorated with a diagonal cluster of three-dimensional paper flowers and butterflies in blush pink and terracotta above a sofa",
   "christmas-window-decor-ideas":
     "Living-room window at night framed with evergreen garland and fairy lights, a lit wreath and hanging paper snowflakes",
+  "kitchen-wall-decor-ideas":
+    "Bright farmhouse kitchen wall with open wood shelves, framed herb prints, a chalkboard menu sign and glass jars",
+  "boho-wall-decor-ideas":
+    "Woven basket gallery wall with a rattan sunburst mirror, cream macrame hanging and a terracotta plant pocket above a sofa",
+  "bathroom-wall-decor-ideas":
+    "Bright bathroom with above-toilet wood shelves, rolled towels, framed botanical prints, a trailing plant and an arched backlit mirror",
+  "christmas-staircase-decor":
+    "Wooden staircase with deep evergreen garland, warm fairy lights, red velvet bows, stockings and lanterns at the newel post",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
