@@ -253,6 +253,14 @@ const COVER_ALTS: Record<string, string> = {
     "Bright bathroom with above-toilet wood shelves, rolled towels, framed botanical prints, a trailing plant and an arched backlit mirror",
   "christmas-staircase-decor":
     "Wooden staircase with deep evergreen garland, warm fairy lights, red velvet bows, stockings and lanterns at the newel post",
+  "diy-pallet-wall-decor":
+    "Rustic pallet wood accent wall with mixed-tone reclaimed boards, neutral sofa and shelf with plants in warm light",
+  "diy-fabric-wall-art":
+    "Bright living room with large terracotta and cream floral fabric panel above a neutral sofa",
+  "small-living-room-accent-wall-ideas":
+    "Bright small living room with deep green accent wall behind a pale sofa and large framed botanical print",
+  "christmas-kitchen-decor-ideas":
+    "Festive farmhouse kitchen with low greenery and candle tray centrepiece on the island and garland on cabinet tops",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
