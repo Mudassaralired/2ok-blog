@@ -261,6 +261,14 @@ const COVER_ALTS: Record<string, string> = {
     "Bright small living room with deep green accent wall behind a pale sofa and large framed botanical print",
   "christmas-kitchen-decor-ideas":
     "Festive farmhouse kitchen with low greenery and candle tray centrepiece on the island and garland on cabinet tops",
+  "dining-room-wall-decor-ideas":
+    "Warm dining room wall with a large framed botanical print above a dark wood sideboard, flanked by brass sconces",
+  "home-office-wall-decor-ideas":
+    "Bright home office with a white desk, oak slat wall, three framed abstract prints and a floating shelf",
+  "minimalist-wall-decor-ideas":
+    "Calm minimalist living room with one oversized beige abstract canvas above a pale grey sofa and an arched leaning mirror",
+  "christmas-bedroom-decor-ideas":
+    "Cosy Christmas bedroom with a tartan throw on a white bed, evergreen garland with fairy lights over the headboard and a lit mini tree",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
