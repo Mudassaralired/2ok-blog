@@ -269,6 +269,14 @@ const COVER_ALTS: Record<string, string> = {
     "Calm minimalist living room with one oversized beige abstract canvas above a pale grey sofa and an arched leaning mirror",
   "christmas-bedroom-decor-ideas":
     "Cosy Christmas bedroom with a tartan throw on a white bed, evergreen garland with fairy lights over the headboard and a lit mini tree",
+  "diy-accent-wall-paint-ideas":
+    "Deep forest-green painted accent wall behind a cream sofa in a bright living room",
+  "modern-farmhouse-wall-decor":
+    "White shiplap feature wall with oak shelves, ceramics and black sconces in a farmhouse living room",
+  "large-wall-decor-ideas":
+    "Oversized abstract canvas in terracotta and cream above a long sofa on a large living room wall",
+  "christmas-dining-room-decor":
+    "Christmas dining table with low evergreen centerpiece, taper candles and a glowing chandelier",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
