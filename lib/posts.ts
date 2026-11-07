@@ -277,6 +277,14 @@ const COVER_ALTS: Record<string, string> = {
     "Oversized abstract canvas in terracotta and cream above a long sofa on a large living room wall",
   "christmas-dining-room-decor":
     "Christmas dining table with low evergreen centerpiece, taper candles and a glowing chandelier",
+  "diy-embroidery-hoop-wall-art":
+    "A wooden embroidery hoop with pink and terracotta wildflowers stitched on cream linen, leaning on a light oak shelf against a terracotta plaster wall beside a small vase of dried flowers",
+  "diy-plate-wall-decor":
+    "A grid of nine hand-painted decorative plates in terracotta, cream, sage green and dusty blue with floral and geometric patterns, hung on a cream wall above a linen sofa with terracotta cushions",
+  "small-living-room-mirror-ideas":
+    "Tall arched mirror with a black frame leaning against a cream wall beside a terracotta sofa, reflecting a bright window",
+  "christmas-entryway-decor-ideas":
+    "Christmas entryway with a half-moon console table, round mirror with a berry wreath, lit garland, brass lanterns and a layered rug",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
