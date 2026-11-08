@@ -1,7 +1,7 @@
 ---
-title: "Best Small Living Room Shelving: Weight Limits & Costs"
+title: "Best Shelving for a Small Living Room: 5 Types, Weight Limits & Costs"
 date: "2026-10-24"
-excerpt: "Floating shelves, ledges, cabinets, and leaning shelves compared honestly: real weight limits, the stud rule, and the sag span nobody warns about."
+excerpt: "Best shelving for a small living room, compared: floating shelves hold 20-50 lb, bracketed shelves 50-100 lb. Real costs, the stud rule, renter picks."
 category: "Small Spaces"
 cluster: "small-living-room"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/best-shelving-small-living-room/cover"
@@ -9,7 +9,7 @@ cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/
 
 A small living room has two storage problems, not one: nowhere to put things, and nowhere to put things that doesn't make the room feel smaller. Shelving solves the first problem and causes the second one whenever it's chosen on looks alone. A deep bookcase against the only long wall eats a foot of floor and turns the walkway into a corridor; a row of floating shelves hung too high becomes a dust museum you need a chair to reach. The right answer depends less on style than on three boring variables: how much weight it must hold, how deep it can be, and whether you're allowed to drill.
 
-Here's the comparison I wish someone had handed me before my first shelf pulled out of drywall — with real numbers, not catalog optimism.
+Here's the comparison I wish someone had handed me before my first shelf pulled out of drywall — with real numbers, not catalog optimism. The short version: two floating shelves for display, one bracketed shelf for the books, and a leaning ladder shelf if you rent and can't drill.
 
 > **Key Takeaways**
 > - **Floating shelves hold 20–50 lb each** in practice; bracketed or wall-mounted units hold **50–100 lb** — the wall, not the shelf, usually decides
