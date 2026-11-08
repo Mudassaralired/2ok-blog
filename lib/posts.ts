@@ -285,6 +285,14 @@ const COVER_ALTS: Record<string, string> = {
     "Tall arched mirror with a black frame leaning against a cream wall beside a terracotta sofa, reflecting a bright window",
   "christmas-entryway-decor-ideas":
     "Christmas entryway with a half-moon console table, round mirror with a berry wreath, lit garland, brass lanterns and a layered rug",
+  "diy-wall-clock-decor-ideas":
+    "Large round pallet-wood wall clock with black Roman numerals above a beige linen sofa with terracotta cushions",
+  "diy-wall-sconce-ideas":
+    "Warm brass wall sconces with cream shades flanking a round mirror above a wooden sideboard at dusk",
+  "nursery-wall-decor-ideas":
+    "Boho nursery with a blush and terracotta crochet rainbow above a white crib beside a wooden rocking chair",
+  "diy-christmas-advent-calendar":
+    "Red and cream fabric advent calendar with 24 numbered pockets beside a lit Christmas tree and armchair",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
