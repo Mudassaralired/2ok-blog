@@ -309,6 +309,14 @@ const COVER_ALTS: Record<string, string> = {
     "Terracotta pots hanging on a cream wall in rope macramé holders with trailing green plants, above a wooden sideboard",
   "diy-christmas-village-display":
     "Miniature Christmas village with lit ceramic houses, bottle-brush trees and cotton snow on a wooden mantel with warm fairy lights",
+  "kids-room-wall-decor-ideas":
+    "Bright kids bedroom wall with a colourful DIY art gallery of framed children's drawings in matching light-wood frames above a white picture ledge holding books, in soft daylight",
+  "diy-moss-wall-art":
+    "Large framed preserved moss wall art panel above a sofa in a bright living room, mixed green sheet and reindeer moss in an organic pattern within a wooden frame",
+  "diy-wooden-sign-wall-decor":
+    "A large rustic wooden plank sign with no lettering hanging above a beige linen sofa, layered with a small green wreath and two framed botanical prints in warm natural daylight",
+  "diy-christmas-wall-hanging-ideas":
+    "A cosy living room wall with a handmade red felt Christmas banner with cream felt trees, a macramé wall hanging with wooden beads, and a pine garland with warm fairy lights on a terracotta wall",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
