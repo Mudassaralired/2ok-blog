@@ -293,6 +293,22 @@ const COVER_ALTS: Record<string, string> = {
     "Boho nursery with a blush and terracotta crochet rainbow above a white crib beside a wooden rocking chair",
   "diy-christmas-advent-calendar":
     "Red and cream fabric advent calendar with 24 numbered pockets beside a lit Christmas tree and armchair",
+  "diy-woven-wall-hanging-ideas":
+    "Handwoven wall hanging in cream, rust and sage yarn with a geometric pattern and long fringe, hung from a driftwood branch above a linen sofa",
+  "diy-pegboard-wall-decor":
+    "Sage-green painted pegboard with wooden shelves, framed botanical prints, woven baskets and trailing plants above a cream linen sofa",
+  "diy-dried-flower-wall-decor":
+    "Dried flower hoop wall hanging with lavender, eucalyptus and pampas beside a tall terracotta vase of pampas grass above a cream sofa",
+  "diy-christmas-gallery-wall-ideas":
+    "Christmas gallery wall in a 3 by 3 grid of framed snowflakes, tree art, sheet music and a family photo wreath under a lit pine garland above a cream sofa",
+  "diy-shadow-box-wall-decor":
+    "Deep dark-wood shadow box with dried flowers, ticket stubs and small keepsakes on a warm cream wall",
+  "diy-fairy-light-wall-decor":
+    "Bedroom wall with warm-white fairy lights draped in soft waves above a bed with cream linen bedding",
+  "diy-terracotta-pot-wall-decor":
+    "Terracotta pots hanging on a cream wall in rope macramé holders with trailing green plants, above a wooden sideboard",
+  "diy-christmas-village-display":
+    "Miniature Christmas village with lit ceramic houses, bottle-brush trees and cotton snow on a wooden mantel with warm fairy lights",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
