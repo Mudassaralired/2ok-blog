@@ -317,6 +317,14 @@ const COVER_ALTS: Record<string, string> = {
     "A large rustic wooden plank sign with no lettering hanging above a beige linen sofa, layered with a small green wreath and two framed botanical prints in warm natural daylight",
   "diy-christmas-wall-hanging-ideas":
     "A cosy living room wall with a handmade red felt Christmas banner with cream felt trees, a macramé wall hanging with wooden beads, and a pine garland with warm fairy lights on a terracotta wall",
+  "rustic-wall-decor-ideas":
+    "A warm rustic living-room wall with a reclaimed-wood GATHER sign, woven basket wall and a driftwood shelf holding a mason-jar candle above a linen sofa with terracotta cushions",
+  "scandinavian-wall-decor-ideas":
+    "Three light-wood frames with botanical line-art prints and a woven wall hanging above a cream sofa with a terracotta cushion in a bright Scandinavian living room",
+  "industrial-wall-decor-ideas":
+    "Black iron pipe shelves with warm Edison cage bulbs on an exposed red-brick loft wall, with books, plants and terracotta pots in soft window light",
+  "diy-christmas-tree-skirt-ideas":
+    "A decorated Christmas tree with a handmade white faux-fur tree skirt and wrapped presents in terracotta and cream",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
