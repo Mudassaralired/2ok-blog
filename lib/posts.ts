@@ -325,6 +325,14 @@ const COVER_ALTS: Record<string, string> = {
     "Black iron pipe shelves with warm Edison cage bulbs on an exposed red-brick loft wall, with books, plants and terracotta pots in soft window light",
   "diy-christmas-tree-skirt-ideas":
     "A decorated Christmas tree with a handmade white faux-fur tree skirt and wrapped presents in terracotta and cream",
+  "diy-metal-wall-decor-ideas":
+    "Copper pipe diamond sculpture and wire home word art above a terracotta sofa",
+  "diy-mason-jar-wall-decor":
+    "Six mason jars with fairy lights on a wooden board above a cream sofa",
+  "diy-driftwood-wall-decor":
+    "Large driftwood branch with cream macramé hanging above a white sofa with terracotta cushions",
+  "diy-christmas-centerpiece-ideas":
+    "Long Christmas dining table with evergreen tray centrepiece, tall candles, gold ornaments and fairy lights",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
