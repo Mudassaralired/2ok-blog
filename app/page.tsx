@@ -17,13 +17,24 @@ export default function HomePage() {
         url: SITE_URL,
         name: "2ok Home",
         publisher: { "@type": "Organization", "@id": `${SITE_URL}#organization` },
+        potentialAction: {
+          "@type": "SearchAction",
+          target: {
+            "@type": "EntryPoint",
+            urlTemplate: `${SITE_URL}/blog?q={search_term_string}`,
+          },
+          "query-input": "required name=search_term_string",
+        },
       },
       {
         "@type": "Organization",
         "@id": `${SITE_URL}#organization`,
         name: "2ok Home",
         url: SITE_URL,
-        sameAs: ["https://www.instagram.com/2ok.home/"],
+        sameAs: [
+          "https://www.instagram.com/2ok.home/",
+          "https://www.pinterest.com/2okhome/",
+        ],
       },
     ],
   };

@@ -96,6 +96,51 @@ body {
   margin-top: 2em;
 }
 
+/* ---------- Pinterest "Pin it" buttons (article images) ----------
+   Wrappers are added at build time: the hero cover in
+   app/blog/[slug]/page.tsx and in-article images by the
+   rehypePinButtons plugin in lib/posts.ts. Buttons appear on hover
+   (desktop) and stay visible on touch devices. */
+.pin-figure {
+  position: relative;
+  display: block;
+}
+.pin-figure img {
+  display: block;
+  width: 100%;
+}
+.pin-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 2;
+  display: inline-block;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: #e60023;
+  color: #fff !important;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none !important;
+  box-shadow: 0 4px 14px rgb(0 0 0 / 0.25);
+  opacity: 0;
+  transition: opacity 0.18s ease;
+}
+.pin-btn:hover {
+  background: #c8001f;
+  color: #fff !important;
+}
+.pin-figure:hover .pin-btn,
+.pin-figure:focus-within .pin-btn {
+  opacity: 1;
+}
+@media (hover: none) {
+  .pin-btn {
+    opacity: 1;
+  }
+}
+
 /* ---------- Ad slots ----------
    Slots are config-gated (see components/AdSlot.tsx): nothing renders
    until an ad client ID is set, so there are never visible empty boxes. */

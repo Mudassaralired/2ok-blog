@@ -393,14 +393,93 @@ export function getFaqItems(slug: string): FaqItem[] {
   return items;
 }
 
+/** Minimal hast node shape — enough for the pin-button transform below
+ *  without adding hast/unist type packages. */
+type HastNode = {
+  type: string;
+  tagName?: string;
+  properties?: Record<string, unknown>;
+  children?: HastNode[];
+  value?: string;
+};
+
+/** Rehype plugin: wrap every article-body image in a figure with a hover
+ *  "Pin it" button linking to Pinterest's create-pin endpoint. Runs at
+ *  build time only — the static HTML ships the buttons, no client JS.
+ *  Images already inside a link are left alone (no nested anchors). */
+function rehypePinButtons(options: { pageUrl: string; pageTitle: string }) {
+  const { pageUrl, pageTitle } = options;
+  return (tree: HastNode) => {
+    const visit = (node: HastNode, inLink: boolean) => {
+      if (!node.children) return;
+      for (let i = 0; i < node.children.length; i++) {
+        const child = node.children[i];
+        const childInLink =
+          inLink ||
+          (child.type === "element" && child.tagName === "a");
+        if (
+          !inLink &&
+          child.type === "element" &&
+          child.tagName === "img" &&
+          typeof child.properties?.src === "string"
+        ) {
+          const src = child.properties.src;
+          const media = src.startsWith("http")
+            ? src
+            : `${SITE_URL}${src.startsWith("/") ? "" : "/"}${src}`;
+          const alt =
+            typeof child.properties.alt === "string"
+              ? child.properties.alt
+              : "";
+          const pinHref =
+            "https://www.pinterest.com/pin/create/button/?" +
+            `url=${encodeURIComponent(pageUrl)}` +
+            `&media=${encodeURIComponent(media)}` +
+            `&description=${encodeURIComponent(alt || pageTitle)}`;
+          node.children[i] = {
+            type: "element",
+            tagName: "span",
+            properties: { className: ["pin-figure"] },
+            children: [
+              child,
+              {
+                type: "element",
+                tagName: "a",
+                properties: {
+                  className: ["pin-btn"],
+                  href: pinHref,
+                  target: "_blank",
+                  rel: "noopener noreferrer",
+                  ariaLabel: "Save this image on Pinterest",
+                },
+                children: [{ type: "text", value: "Pin it" }],
+              },
+            ],
+          };
+        } else {
+          visit(child, childInLink);
+        }
+      }
+    };
+    visit(tree, false);
+  };
+}
+
 /** Full post including rendered HTML (H2s carry id anchors via rehype-slug). */
 export async function getPost(slug: string): Promise<Post | null> {
   const file = path.join(POSTS_DIR, `${slug}.md`);
   if (!fs.existsSync(file)) return null;
   const raw = fs.readFileSync(file, "utf8");
   const { content } = matter(raw);
+  const meta = metaFor(slug);
   const processed = await remark()
     .use(remarkRehype)
+    // Custom hast plugin: cast keeps unified's processor generics (typed
+    // for the mdast input tree) from rejecting a hast-tree transformer.
+    .use(rehypePinButtons as never, {
+      pageUrl: `${SITE_URL}/blog/${slug}`,
+      pageTitle: meta.title,
+    })
     .use(rehypeSlug)
     .use(rehypeStringify)
     .process(content);
@@ -410,7 +489,7 @@ export async function getPost(slug: string): Promise<Post | null> {
     text: m[1].trim(),
     id: githubSlug(m[1].trim()),
   }));
-  return { meta: metaFor(slug), contentHtml: processed.toString(), headings };
+  return { meta, contentHtml: processed.toString(), headings };
 }
 
 /** All categories with post counts, most posts first. */
@@ -438,6 +517,9 @@ export type ClusterInfo = {
   name: string;
   tagline: string;
   description: string;
+  /** Short meta description (≤145 chars) so hub + paginated pages stay
+   *  under 155 chars in search results. On-page copy keeps `description`. */
+  metaDescription: string;
 };
 
 const CLUSTERS: ClusterInfo[] = [
@@ -447,6 +529,8 @@ const CLUSTERS: ClusterInfo[] = [
     tagline: "Our biggest topic",
     description:
       "Step-by-step tutorials and budget ideas for plaster art, gallery walls, macramé, thrifted frames, and renter-friendly projects — the heart of 2ok Home.",
+    metaDescription:
+      "DIY wall decor ideas on a budget: plaster art, gallery walls, macramé and renter-friendly projects, with step-by-step tutorials.",
   },
   {
     slug: "small-living-room",
@@ -454,6 +538,8 @@ const CLUSTERS: ClusterInfo[] = [
     tagline: "Small spaces, big ideas",
     description:
       "Layouts, furniture picks, paint colors, lighting, and storage ideas that make compact living rooms feel twice as big.",
+    metaDescription:
+      "Small living room ideas: layouts, furniture, paint colors and storage that make compact rooms feel twice as big.",
   },
   {
     slug: "christmas-decor",
@@ -461,12 +547,15 @@ const CLUSTERS: ClusterInfo[] = [
     tagline: "Seasonal on a budget",
     description:
       "Budget-friendly Christmas ideas — mantels, porches, tree alternatives, and dollar-store DIYs that look anything but cheap.",
+    metaDescription:
+      "Budget Christmas decor ideas: mantels, porches, tree alternatives and dollar-store DIYs that look anything but cheap.",
   },
   {
     slug: "halloween",
     name: "Halloween Decor",
     tagline: "Cozy, not tacky",
     description: "Elegant Halloween decor ideas for a cozy autumn home.",
+    metaDescription: "Elegant Halloween decor ideas for a cozy autumn home.",
   },
 ];
 

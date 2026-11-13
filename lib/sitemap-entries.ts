@@ -2,9 +2,6 @@ import {
   getAllPosts,
   getAllCategories,
   getAllClusters,
-  postsInCluster,
-  postsInCategory,
-  POSTS_PER_PAGE,
 } from "@/lib/posts";
 
 const SITE_URL = "https://2ok.lol";
@@ -48,20 +45,10 @@ export function buildSitemapEntries(): SitemapEntry[] {
     priority: 0.8,
   }));
 
-  // Paginated blog index pages (/blog is page 1; no /blog/page/1).
-  const totalPages = Math.max(
-    1,
-    Math.ceil(getAllPosts().length / POSTS_PER_PAGE)
-  );
-  const blogPages: SitemapEntry[] = [];
-  for (let n = 2; n <= totalPages; n++) {
-    blogPages.push({
-      url: `${SITE_URL}/blog/page/${n}`,
-      lastModified: newestPost,
-      changeFrequency: "weekly",
-      priority: 0.5,
-    });
-  }
+  // Pagination URLs (/blog/page/N, /topics/*/page/N, /category/*/page/N)
+  // are intentionally NOT in the sitemap (audit fix 2026-11-13): they are
+  // duplicate listing views, and keeping them out focuses crawl budget on
+  // the 127 articles and the main hubs. Page 1 keeps its canonical URL.
 
   return [
     {
@@ -76,44 +63,15 @@ export function buildSitemapEntries(): SitemapEntry[] {
       changeFrequency: "daily",
       priority: 0.9,
     },
-    ...blogPages,
-    // Paginated topic hubs (page 1 is the hub URL itself).
-    ...getAllClusters().flatMap((c) => {
-      const total = Math.max(
-        1,
-        Math.ceil(postsInCluster(c.slug).length / POSTS_PER_PAGE)
-      );
-      const pages: SitemapEntry[] = [];
-      for (let n = 2; n <= total; n++) {
-        pages.push({
-          url: `${SITE_URL}/topics/${c.slug}/page/${n}`,
-          lastModified: newestPost,
-          changeFrequency: "weekly",
-          priority: 0.5,
-        });
-      }
-      return pages;
-    }),
-    // Paginated category pages (page 1 is the category URL itself).
-    ...getAllCategories().flatMap((c) => {
-      const total = Math.max(
-        1,
-        Math.ceil(postsInCategory(c.slug).length / POSTS_PER_PAGE)
-      );
-      const pages: SitemapEntry[] = [];
-      for (let n = 2; n <= total; n++) {
-        pages.push({
-          url: `${SITE_URL}/category/${c.slug}/page/${n}`,
-          lastModified: newestPost,
-          changeFrequency: "weekly",
-          priority: 0.4,
-        });
-      }
-      return pages;
-    }),
     ...topics,
     ...categories,
     ...posts,
+    {
+      url: `${SITE_URL}/author/mudassar-ali`,
+      lastModified: new Date("2026-10-16"),
+      changeFrequency: "monthly",
+      priority: 0.5,
+    },
     {
       url: `${SITE_URL}/about`,
       lastModified: new Date("2026-10-16"),

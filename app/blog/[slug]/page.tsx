@@ -81,6 +81,13 @@ export default async function ArticlePage({ params }: Props) {
   const faqItems = getFaqItems(meta.slug);
   const articleUrl = `${SITE_URL}/blog/${meta.slug}`;
   const categoryUrl = `${SITE_URL}/category/${slugify(meta.category)}`;
+  // Pinterest save link for the hero cover (in-article images get theirs
+  // from the rehypePinButtons plugin in lib/posts.ts).
+  const coverPinHref =
+    "https://www.pinterest.com/pin/create/button/?" +
+    `url=${encodeURIComponent(articleUrl)}` +
+    `&media=${encodeURIComponent(meta.cover)}` +
+    `&description=${encodeURIComponent(meta.title)}`;
 
   // Up to 4 related cards: same topical cluster first (interlinking),
   // then same category, then newest others.
@@ -236,7 +243,7 @@ export default async function ArticlePage({ params }: Props) {
       </p>
 
       {meta.cover ? (
-        <div className="mt-8 overflow-hidden rounded-2xl border border-ink/10">
+        <div className="pin-figure mt-8 overflow-hidden rounded-2xl border border-ink/10">
           <CoverImage
             src={meta.cover}
             slug={meta.slug}
@@ -244,6 +251,15 @@ export default async function ArticlePage({ params }: Props) {
             eager
             imgClassName="w-full object-cover"
           />
+          <a
+            className="pin-btn"
+            href={coverPinHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Save this image on Pinterest"
+          >
+            Pin it
+          </a>
         </div>
       ) : null}
 

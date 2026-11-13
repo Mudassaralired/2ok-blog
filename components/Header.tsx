@@ -82,6 +82,18 @@ export default function Header() {
               <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
             </svg>
           </a>
+          <a
+            href="https://www.pinterest.com/2okhome/"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="2ok Home on Pinterest"
+            className="text-ink-soft transition-colors hover:text-clay-dark"
+          >
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+              <path d="M12 21s-7-5.5-7-11a7 7 0 0 1 14 0c0 5.5-7 11-7 11z" />
+              <circle cx="12" cy="10" r="2.5" />
+            </svg>
+          </a>
           <form
             role="search"
             onSubmit={submitSearch}
@@ -177,6 +189,15 @@ export default function Header() {
             className="block py-2.5 text-base font-medium text-ink-soft"
           >
             Instagram
+          </a>
+          <a
+            href="https://www.pinterest.com/2okhome/"
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={() => setOpen(false)}
+            className="block py-2.5 text-base font-medium text-ink-soft"
+          >
+            Pinterest
           </a>
         </nav>
       )}
