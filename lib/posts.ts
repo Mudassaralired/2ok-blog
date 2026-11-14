@@ -333,6 +333,14 @@ const COVER_ALTS: Record<string, string> = {
     "Large driftwood branch with cream macramé hanging above a white sofa with terracotta cushions",
   "diy-christmas-centerpiece-ideas":
     "Long Christmas dining table with evergreen tray centrepiece, tall candles, gold ornaments and fairy lights",
+  "diy-air-dry-clay-wall-decor":
+    "Minimalist cream clay tiles and a moon-phase clay hanging on a warm terracotta plaster wall above a light oak sideboard with a vase of dried pampas grass",
+  "diy-yarn-wall-hanging":
+    "Cream, terracotta and sage yarn tassel wall hanging on a wooden dowel above a beige linen sofa in a bright boho living room",
+  "diy-wood-bead-wall-decor":
+    "Layered wooden bead garlands with cream tassels hanging from a driftwood branch on a terracotta bedroom wall above a bed with cream linen bedding",
+  "christmas-tree-topper-ideas":
+    "A lit Christmas tree crowned with a glowing gold star and a large red velvet bow in a cozy living room with terracotta walls and a cream sofa",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
