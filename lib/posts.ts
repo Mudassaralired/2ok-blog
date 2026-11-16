@@ -341,6 +341,22 @@ const COVER_ALTS: Record<string, string> = {
     "Layered wooden bead garlands with cream tassels hanging from a driftwood branch on a terracotta bedroom wall above a bed with cream linen bedding",
   "christmas-tree-topper-ideas":
     "A lit Christmas tree crowned with a glowing gold star and a large red velvet bow in a cozy living room with terracotta walls and a cream sofa",
+  "diy-seashell-wall-decor":
+    "A bright coastal living room wall with a framed seashell shadowbox display, a round seashell mirror and a shell garland draped across a wooden mantel above terracotta pots",
+  "diy-cork-wall-decor":
+    "A living room feature wall of natural cork hexagon tiles in terracotta and cream tones above a wooden sideboard with a terracotta vase of pampas grass",
+  "diy-rope-wall-decor":
+    "A coiled jute rope sunburst wall art, a terracotta and cream rope rainbow and a sailor-knot hanging above a terracotta sofa in a bright coastal living room",
+  "christmas-candle-decor-ideas":
+    "Three white pillar candles in glass hurricane holders glowing on a wooden mantel dressed with pine garland, red berries, pine cones and brass lanterns",
+  "diy-felt-wall-decor":
+    "Layered terracotta, blush and cream felt flowers with a felt moon-phase and tassel garland above a linen sofa in a bright living room",
+  "diy-concrete-wall-decor":
+    "Nine handmade concrete relief tiles with geometric patterns in grey, terracotta and sage arranged in a grid on a cream living-room wall above a terracotta sofa",
+  "dorm-room-wall-decor-ideas":
+    "A photo grid clipped to warm string lights above a dorm room bed with terracotta bedding and cream pillows on a sage-green wall",
+  "christmas-outdoor-decor-ideas":
+    "A house front at dusk with warm-white roofline lights, a lit wreath with a red bow on the wooden front door, glowing lanterns lining the stone steps, and a decorated Christmas tree in a wicker basket, with light snow on the terracotta-tiled roof",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
