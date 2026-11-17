@@ -2,7 +2,7 @@
 title: "Dorm Room Wall Decor Ideas: 15 Damage-Free Looks"
 date: "2026-11-16"
 excerpt: "Dorm room wall decor ideas: 15 damage-free looks from £2 — photo grids, tapestries, string lights on Command strips, plus cinder-block and move-out tips."
-category: "DIY Projects"
+category: "Small Spaces"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/dorm-room-wall-decor-ideas/cover"
 ---

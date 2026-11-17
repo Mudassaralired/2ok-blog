@@ -357,6 +357,14 @@ const COVER_ALTS: Record<string, string> = {
     "A photo grid clipped to warm string lights above a dorm room bed with terracotta bedding and cream pillows on a sage-green wall",
   "christmas-outdoor-decor-ideas":
     "A house front at dusk with warm-white roofline lights, a lit wreath with a red bow on the wooden front door, glowing lanterns lining the stone steps, and a decorated Christmas tree in a wicker basket, with light snow on the terracotta-tiled roof",
+  "living-room-wall-decor-ideas":
+    "A bright living room with a large gallery wall of framed botanical and abstract prints in terracotta, cream and sage above a cream linen sofa with green and terracotta cushions, sunlight streaming through a tall window",
+  "teen-bedroom-wall-decor-ideas":
+    "A bright teen bedroom with a photo-collage gallery wall of framed landscape prints above a wooden bed with sage green bedding, warm fairy lights draped along the top of the wall",
+  "diy-book-page-wall-art":
+    "A framed layered book-page peony beside a sunburst mirror of rolled book pages on a cream living-room wall above a linen sofa",
+  "christmas-bathroom-decor-ideas":
+    "A bright guest bathroom at Christmas with a pine garland draped across a large mirror, a small lit Christmas tree on the marble counter, and folded red and cream towels in warm daylight",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
