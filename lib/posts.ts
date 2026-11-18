@@ -365,6 +365,14 @@ const COVER_ALTS: Record<string, string> = {
     "A framed layered book-page peony beside a sunburst mirror of rolled book pages on a cream living-room wall above a linen sofa",
   "christmas-bathroom-decor-ideas":
     "A bright guest bathroom at Christmas with a pine garland draped across a large mirror, a small lit Christmas tree on the marble counter, and folded red and cream towels in warm daylight",
+  "diy-resin-wall-art":
+    "Glossy blue resin ocean wave wall art with white foam lacing hanging above a cream sofa with terracotta cushions in a bright living room",
+  "diy-vinyl-record-wall-art":
+    "Nine hand-painted vinyl records in a 3x3 grid above a cream sofa in a warm terracotta living room",
+  "diy-punch-needle-wall-art":
+    "A punch needle rainbow wall hanging with cream fringe above a wooden console in a cosy living room",
+  "christmas-shelf-decor-ideas":
+    "Christmas-styled wooden floating shelves with a pine garland, a frosted mini tree in a terracotta pot, warm fairy lights, stacked books and battery candles in a cosy living room",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
