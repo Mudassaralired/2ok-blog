@@ -373,6 +373,14 @@ const COVER_ALTS: Record<string, string> = {
     "A punch needle rainbow wall hanging with cream fringe above a wooden console in a cosy living room",
   "christmas-shelf-decor-ideas":
     "Christmas-styled wooden floating shelves with a pine garland, a frosted mini tree in a terracotta pot, warm fairy lights, stacked books and battery candles in a cosy living room",
+  "diy-mosaic-wall-art":
+    "A geometric mosaic sunburst wall panel in terracotta, sage and cream tiles above a rust sofa in a bright living room",
+  "diy-acrylic-pour-wall-art":
+    "A large acrylic pour canvas with flowing terracotta, sage, cream and gold marble swirls above a cream sofa in a bright living room",
+  "diy-suncatcher-wall-decor":
+    "Five beaded crystal suncatchers hanging in a sunny window casting rainbow light across a terracotta wall above a wooden sideboard",
+  "christmas-gift-wrapping-ideas":
+    "Kraft-wrapped Christmas gifts with burgundy ribbon, dried orange slices and greenery piled under a lit tree with dried orange ornaments",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
