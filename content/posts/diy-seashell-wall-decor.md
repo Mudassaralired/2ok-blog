@@ -1,7 +1,8 @@
 ---
 title: "DIY Seashell Wall Decor: 15 Coastal Projects"
 date: "2026-11-16"
-excerpt: "DIY seashell wall decor: 15 coastal projects from £6, with shell types, drilling vs gluing, sealing, hanging by weight and renter-friendly methods."
+updated: "2026-11-20"
+excerpt: "DIY seashell wall decor: 15 coastal projects from $8, with shell types, drilling vs gluing, sealing, hanging by weight and renter-friendly methods."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-seashell-wall-decor/cover"
@@ -10,10 +11,10 @@ cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/
 Seashells are the cheapest ticket to a coastal wall: free on the beach or a few pounds a bag in a craft shop. These 15 wall-only projects turn shells into shadowboxes, mandalas, mirrors and garlands, each with a real cost, time and difficulty, plus the shell know-how the photo lists never give you.
 
 > **Key Takeaways**
-> - Every project here costs £6 to £26, most under two hours.
+> - Every project here costs $8 to $32, most under two hours.
 > - Scallops and cowries are the easiest shells; sand dollars are the most fragile.
 > - Glue suits flat displays; drill only thick shells, with a diamond bit and water.
-> - Seal shells with clear matte varnish so they keep their colour.
+> - Seal shells with clear matte varnish so they keep their color.
 > - Weigh the finished piece, then use hardware rated for twice its weight.
 
 ## Table of Contents
@@ -34,86 +35,86 @@ Seashells are the cheapest ticket to a coastal wall: free on the beach or a few 
 
 ### 1. Seashell shadowbox display
 
-Arrange a dozen mixed shells — scallops, cowries, a sand dollar and a starfish — in a deep box frame. Cost: £14 to £20. Time: 2 hours. Difficulty: easy. A 40 × 50 cm shadowbox weighs about 1.5 kg, so one screw hook holds it. The [DIY wall decor ideas](/blog/diy-wall-decor-ideas) guide shows how one framed piece anchors a whole wall.
+Arrange a dozen mixed shells — scallops, cowries, a sand dollar and a starfish — in a deep box frame. Cost: $18 to $25. Time: 2 hours. Difficulty: easy. A 40 × 50 cm shadowbox weighs about 1.5 kg, so one screw hook holds it. The [DIY wall decor ideas](/blog/diy-wall-decor-ideas) guide shows how one framed piece anchors a whole wall.
 
 ### 2. Framed sand dollar trio
 
-Mount three sand dollars in a row of small square frames. Cost: £12 to £18. Time: 1 hour 30 minutes. Difficulty: easy. Three small frames weigh under 1 kg together, so one adhesive hook each holds them. Sand dollars are brittle — handle them by the edges, never stack them.
+Mount three sand dollars in a row of small square frames. Cost: $15 to $22. Time: 1 hour 30 minutes. Difficulty: easy. Three small frames weigh under 1 kg together, so one adhesive hook each holds them. Sand dollars are brittle — handle them by the edges, never stack them.
 
 ### 3. Shell-covered photo frame
 
-Glue small cowries and mussels edge to edge around a plain wooden photo frame. Cost: £8 to £12. Time: 1 hour. Difficulty: easy. A 20 × 25 cm frame weighs under 500 g, so a large adhesive hook holds it.
+Glue small cowries and mussels edge to edge around a plain wooden photo frame. Cost: $10 to $15. Time: 1 hour. Difficulty: easy. A 20 × 25 cm frame weighs under 500 g, so a large adhesive hook holds it.
 
 ### 4. Scallop shell wall plaque
 
-Glue five large scallops in a fan across a painted plywood plaque, with a brass hook at the base. Cost: £9 to £14. Time: 2 hours. Difficulty: moderate. A 30 × 40 cm plaque weighs about 800 g, so one screw hook holds it. The [DIY driftwood wall decor](/blog/diy-driftwood-wall-decor) guide pairs shell plaques with driftwood shelves.
+Glue five large scallops in a fan across a painted plywood plaque, with a brass hook at the base. Cost: $11 to $18. Time: 2 hours. Difficulty: moderate. A 30 × 40 cm plaque weighs about 800 g, so one screw hook holds it. The [DIY driftwood wall decor](/blog/diy-driftwood-wall-decor) guide pairs shell plaques with driftwood shelves.
 
 ### 5. Shell specimen wall chart
 
-Lay out twenty small shells in a grid inside a large frame, labelling each one on cream card. Cost: £16 to £24. Time: 2 to 3 hours. Difficulty: moderate. A 50 × 70 cm framed chart weighs 2 to 3 kg, so use two screw hooks. Mix scallop, cowrie, mussel and oyster shells so it reads like a collector's chart.
+Lay out twenty small shells in a grid inside a large frame, labelling each one on cream card. Cost: $20 to $30. Time: 2 to 3 hours. Difficulty: moderate. A 50 × 70 cm framed chart weighs 2 to 3 kg, so use two screw hooks. Mix scallop, cowrie, mussel and oyster shells so it reads like a collector's chart.
 
 ## Garlands, Mandalas and Hanging Pieces
 
 ### 6. Seashell mandala wall art
 
-Glue scallops in rings on a round wooden board, cowries at the centre, mussels outside. Cost: £10 to £16. Time: 2 to 3 hours. Difficulty: moderate. A 40 cm mandala weighs about 1 kg, so one screw hook holds it. Dry-fit the pattern before gluing.
+Glue scallops in rings on a round wooden board, cowries at the center, mussels outside. Cost: $12 to $20. Time: 2 to 3 hours. Difficulty: moderate. A 40 cm mandala weighs about 1 kg, so one screw hook holds it. Dry-fit the pattern before gluing.
 
 ![Hands arranging white scallop shells and small cowrie shells into a circular seashell mandala on a dark wooden board, with a dish of sand dollars, a hot glue gun and twine nearby](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-seashell-wall-decor/in-article-1)
 
 ### 7. Shell garland swag
 
-Thread drilled cowries and small scallops onto jute twine, knotting between shells, then drape it across a mantel. Cost: £6 to £10. Time: 45 minutes. Difficulty: easy. A 150 cm garland weighs roughly 300 g, so two small adhesive hooks at the ends are enough. The [DIY fairy light wall decor](/blog/diy-fairy-light-wall-decor) guide shows one woven with warm lights.
+Thread drilled cowries and small scallops onto jute twine, knotting between shells, then drape it across a mantel. Cost: $8 to $12. Time: 45 minutes. Difficulty: easy. A 150 cm garland weighs roughly 300 g, so two small adhesive hooks at the ends are enough. The [DIY fairy light wall decor](/blog/diy-fairy-light-wall-decor) guide shows one woven with warm lights.
 
 ### 8. Driftwood-and-shell hanging
 
-Hang five short shell strands at staggered lengths from a slim piece of driftwood. Cost: £8 to £13. Time: 1 hour 30 minutes. Difficulty: easy. A 60 cm driftwood hanging weighs under 1 kg, so one screw hook holds it. The [DIY wood bead wall decor](/blog/diy-wood-bead-wall-decor) guide uses the same structure with beads.
+Hang five short shell strands at staggered lengths from a slim piece of driftwood. Cost: $10 to $16. Time: 1 hour 30 minutes. Difficulty: easy. A 60 cm driftwood hanging weighs under 1 kg, so one screw hook holds it. The [DIY wood bead wall decor](/blog/diy-wood-bead-wall-decor) guide uses the same structure with beads.
 
 ### 9. Shell-and-starfish mobile
 
-Suspend three short shell strands from a driftwood crosspiece, then hang the mobile from a ceiling hook. Cost: £10 to £15. Time: 2 hours. Difficulty: moderate. A mobile weighs under 1 kg, so a single ceiling hook rated for 2 kg is plenty. Keep the strands short — long ones tangle.
+Suspend three short shell strands from a driftwood crosspiece, then hang the mobile from a ceiling hook. Cost: $12 to $20. Time: 2 hours. Difficulty: moderate. A mobile weighs under 1 kg, so a single ceiling hook rated for 2 kg is plenty. Keep the strands short — long ones tangle.
 
 ### 10. Shell tassel wall hanging
 
-Knot cream cotton tassels onto a wooden dowel, glue small shells along the tops and one large scallop at the centre. Cost: £9 to £14. Time: 2 hours. Difficulty: easy. A 50 cm hanging weighs about 700 g, so one screw hook holds it. The [boho wall decor ideas](/blog/boho-wall-decor-ideas) guide shows tassels and shells in boho rooms.
+Knot cream cotton tassels onto a wooden dowel, glue small shells along the tops and one large scallop at the center. Cost: $11 to $18. Time: 2 hours. Difficulty: easy. A 50 cm hanging weighs about 700 g, so one screw hook holds it. The [boho wall decor ideas](/blog/boho-wall-decor-ideas) guide shows tassels and shells in boho rooms.
 
 ## Mirrors, Wreaths and Statement Pieces
 
 ### 11. Seashell mirror frame
 
-Glue a ring of scallops and cowries around a round mirror, filling gaps with mussels. Cost: £16 to £24. Time: 3 hours. Difficulty: moderate. A 50 cm mirror with its shell frame weighs 3 to 4 kg, so hang it from a stud or two heavy-duty wall plugs. Dry-fit the ring first — a gap at the end is hard to hide.
+Glue a ring of scallops and cowries around a round mirror, filling gaps with mussels. Cost: $20 to $30. Time: 3 hours. Difficulty: moderate. A 50 cm mirror with its shell frame weighs 3 to 4 kg, so hang it from a stud or two heavy-duty wall plugs. Dry-fit the ring first — a gap at the end is hard to hide.
 
 ![Three framed sand dollars in a row above a shell-and-driftwood garland on a cream bedroom wall over a pale wooden headboard with terracotta linen bedding](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-seashell-wall-decor/in-article-2)
 
 ### 12. Shell wreath
 
-Glue mixed shells in a tight ring around a foam or grapevine wreath base. Cost: £12 to £18. Time: 2 hours. Difficulty: easy. A 40 cm wreath weighs 600 g to 1 kg, so one screw hook holds it. Add a jute loop at the top so it hangs straight.
+Glue mixed shells in a tight ring around a foam or grapevine wreath base. Cost: $15 to $22. Time: 2 hours. Difficulty: easy. A 40 cm wreath weighs 600 g to 1 kg, so one screw hook holds it. Add a jute loop at the top so it hangs straight.
 
 ### 13. Cowrie shell wall panel
 
-Glue cowries in rows across a painted plywood panel, alternating cream and brown. Cost: £18 to £26. Time: 3 hours. Difficulty: moderate. A 60 × 80 cm panel weighs 2 to 3 kg, so use two screw hooks. Cowries are heavy for their size, so weigh the panel first.
+Glue cowries in rows across a painted plywood panel, alternating cream and brown. Cost: $22 to $32. Time: 3 hours. Difficulty: moderate. A 60 × 80 cm panel weighs 2 to 3 kg, so use two screw hooks. Cowries are heavy for their size, so weigh the panel first.
 
 ### 14. Shell monogram letter
 
-Cut a large letter from plywood, then glue small shells across its face. Cost: £10 to £15. Time: 2 hours. Difficulty: moderate. A 45 cm letter weighs about 1 kg, so one screw hook holds it. The [DIY wall decor guide](/blog/diy-wall-decor-guide) covers cutting the letter.
+Cut a large letter from plywood, then glue small shells across its face. Cost: $12 to $20. Time: 2 hours. Difficulty: moderate. A 45 cm letter weighs about 1 kg, so one screw hook holds it. The [DIY wall decor guide](/blog/diy-wall-decor-guide) covers cutting the letter.
 
 ### 15. Oversized statement shell cluster
 
-Glue six large scallops and two starfish in a cluster onto a painted backing board, then hang it as one bold piece. Cost: £15 to £22. Time: 1 hour 30 minutes. Difficulty: easy. A 60 × 60 cm board weighs 1 to 2 kg, so use two screw hooks. Fewer, bigger shells read better across a room.
+Glue six large scallops and two starfish in a cluster onto a painted backing board, then hang it as one bold piece. Cost: $20 to $28. Time: 1 hour 30 minutes. Difficulty: easy. A 60 × 60 cm board weighs 1 to 2 kg, so use two screw hooks. Fewer, bigger shells read better across a room.
 
 ## Choosing Your Shells: Types, Sizes and Where to Buy
 
-Shell type decides the whole project. Scallops are the all-rounders — flat, sturdy, easy to glue, £4 to £6 a bag of 20 to 30. Cowries are small, smooth and heavy for their size, perfect for detail work and mandala centres; a bag of 30 costs about £5. Sand dollars are the prettiest and the most fragile — flat, pale and patterned, best behind glass, £2 to £4 each. Starfish dry hard and light, ideal for wreaths and mobiles, about £1 to £2 each. Mussels are thin and dark, good for filling gaps, and oysters are rough and chunky, best for rustic panels.
+Shell type decides the whole project. Scallops are the all-rounders — flat, sturdy, easy to glue, $5 to $8 a bag of 20 to 30. Cowries are small, smooth and heavy for their size, perfect for detail work and mandala centers; a bag of 30 costs about $6. Sand dollars are the prettiest and the most fragile — flat, pale and patterned, best behind glass, $3 to $5 each. Starfish dry hard and light, ideal for wreaths and mobiles, about $1 to $3 each. Mussels are thin and dark, good for filling gaps, and oysters are rough and chunky, best for rustic panels.
 
-Buy shells from craft shops, beach shops and online suppliers — a mixed bag of 50 costs £6 to £10 and covers most projects here. Collecting your own is free, but do it responsibly: take only empty shells, never live ones, and check local rules first. Wash beach shells in warm soapy water, soak in weak bleach for an hour, then rinse and dry fully.
+Buy shells from craft shops, beach shops and online suppliers — a mixed bag of 50 costs $8 to $12 and covers most projects here. Collecting your own is free, but do it responsibly: take only empty shells, never live ones, and check local rules first. Wash beach shells in warm soapy water, soak in weak bleach for an hour, then rinse and dry fully.
 
 | Shell type | Size | Best for | Cost |
 | --- | --- | --- | --- |
-| Scallop | 5–10 cm | Shadowboxes, mandalas, mirrors | £4–£6 a bag |
-| Cowrie | 2–3 cm | Detail, frames, monograms | £5 for 30 |
-| Sand dollar | 7–10 cm | Framed displays | £2–£4 each |
-| Starfish | 8–15 cm | Wreaths, mobiles, clusters | £1–£2 each |
-| Mussel | 4–7 cm | Gap filling, garlands | £3–£5 a bag |
-| Oyster | 6–12 cm | Rustic panels | £4–£6 a bag |
+| Scallop | 5–10 cm | Shadowboxes, mandalas, mirrors | $5–$8 a bag |
+| Cowrie | 2–3 cm | Detail, frames, monograms | $6 for 30 |
+| Sand dollar | 7–10 cm | Framed displays | $3–$5 each |
+| Starfish | 8–15 cm | Wreaths, mobiles, clusters | $1–$3 each |
+| Mussel | 4–7 cm | Gap filling, garlands | $4–$6 a bag |
+| Oyster | 6–12 cm | Rustic panels | $5–$8 a bag |
 
 ## Drilling vs Gluing Shells: Which Method for Which Project
 
@@ -123,15 +124,15 @@ Drilling suits only garlands, mobiles and hanging strands, where a shell must be
 
 ## Sealing and Protecting Seashell Wall Decor
 
-Sealing keeps shells looking like the day you made the piece. Brush on two thin coats of clear matte varnish — it deepens the colours, stops dust sticking, and protects against humidity. Gloss varnish looks wet and cheap on shells, so stick to matte or satin. Spray varnish is quicker for wreaths.
+Sealing keeps shells looking like the day you made the piece. Brush on two thin coats of clear matte varnish — it deepens the colors, stops dust sticking, and protects against humidity. Gloss varnish looks wet and cheap on shells, so stick to matte or satin. Spray varnish is quicker for wreaths.
 
 Seal before you hang, and seal the backing board too — unsealed plywood warps in a damp room. Keep shell decor out of steamy bathrooms unless fully sealed, and never hang it in direct sun: strong sun bleaches cowries and starfish within a year.
 
 ## Sizing and Layout: Getting Shell Decor to Sit Right
 
-Shells are pale and quiet visually, so size them generously: a piece that is too small looks lost on a wall. A single piece should cover roughly two-thirds of the width of the furniture below it — above a 180 cm sofa, aim for about 120 cm. Hang its centre at about 145 cm from the floor, and apply the same rule to a cluster.
+Shells are pale and quiet visually, so size them generously: a piece that is too small looks lost on a wall. A single piece should cover roughly two-thirds of the width of the furniture below it — above a 180 cm sofa, aim for about 120 cm. Hang its center at about 145 cm from the floor, and apply the same rule to a cluster.
 
-For a garland swag, let the centre dip 15 to 20 cm below the ends. For a gallery of framed shells, keep gaps of 5 to 8 cm between frames so they read as one group.
+For a garland swag, let the center dip 15 to 20 cm below the ends. For a gallery of framed shells, keep gaps of 5 to 8 cm between frames so they read as one group.
 
 ## Hanging Hardware by Weight: What Holds What
 
@@ -169,8 +170,8 @@ Use large adhesive hooks for pieces under 500 g, such as garlands and small fram
 
 ### Should I seal seashell wall decor?
 
-Yes — two thin coats of clear matte varnish keep shells' colour, stop dust sticking and protect against humidity. Seal the backing board too, and keep shell decor out of steamy bathrooms unless sealed.
+Yes — two thin coats of clear matte varnish keep shells' color, stop dust sticking and protect against humidity. Seal the backing board too, and keep shell decor out of steamy bathrooms unless sealed.
 
 ### How much does DIY seashell wall decor cost?
 
-Most projects cost £6 to £26. A shell garland costs £6 to £10, a shadowbox £14 to £20, and a shell mirror frame £16 to £24. The dearest piece here is the cowrie wall panel at £18 to £26.
+Most projects cost $8 to $32. A shell garland costs $8 to $12, a shadowbox $18 to $25, and a shell mirror frame $20 to $30. The dearest piece here is the cowrie wall panel at $22 to $32.

@@ -1,7 +1,8 @@
 ---
 title: "DIY Geometric Accent Wall: 5 Tape Patterns, Colour Rules & Crisp Lines (2026 Guide)"
 date: "2026-10-31"
-excerpt: "A DIY geometric accent wall with painter's tape: 5 patterns ranked by difficulty, colour rules, exact costs and the bleed-proof taping method for crisp lines."
+updated: "2026-11-20"
+excerpt: "A DIY geometric accent wall with painter's tape: 5 patterns ranked by difficulty, colour rules, exact costs and the bleed-proof taping method for crisp."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-geometric-accent-wall/cover"

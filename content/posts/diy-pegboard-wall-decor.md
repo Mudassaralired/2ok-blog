@@ -1,16 +1,17 @@
 ---
 title: "DIY Pegboard Wall Decor Ideas: 18 Stylish Ways to Organize and Decorate"
 date: "2026-11-09"
-excerpt: "18 DIY pegboard wall decor ideas with costs, sizes and install rules — painted, colour-blocked and renter-friendly pegboards for every room."
+updated: "2026-11-20"
+excerpt: "18 DIY pegboard wall decor ideas with costs, sizes and install rules — painted, color-blocked and renter-friendly pegboards for every room."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-pegboard-wall-decor/cover"
 ---
 
-A pegboard is the hardest-working wall in the house: it holds things, hides clutter and still looks like decor when styled right. A 60 by 90 cm panel costs about £10, a full painted setup rarely passes £40, and most ideas here take under two hours.
+A pegboard is the hardest-working wall in the house: it holds things, hides clutter and still looks like decor when styled right. A 60 by 90 cm panel costs about $12, a full painted setup rarely passes $50, and most ideas here take under two hours.
 
 > **Key Takeaways**
-> - A hardboard pegboard costs £8 to £15; a full styled setup costs £25 to £45.
+> - A hardboard pegboard costs $10 to $20; a full styled setup costs $30 to $55.
 > - Leave a 20 mm gap behind the board so hooks seat — furring strips do the job.
 > - Painted and framed pegboards read as decor; bare brown board reads as a garage.
 > - Keep 20% of the board empty so the display breathes.
@@ -38,21 +39,21 @@ Treat the board as decor first, storage second: paint it, frame it, and hang bea
 
 ## Choosing Your Pegboard: Materials, Sizes and Costs
 
-**Hardboard (Masonite)** is the classic: cheap, light, easy to cut and paint. Fixed into studs, a 6 mm panel holds 10 to 15 kg. The brown face needs paint. Cost: £8 to £15 for a 60 by 90 cm panel.
+**Hardboard (Masonite)** is the classic: cheap, light, easy to cut and paint. Fixed into studs, a 6 mm panel holds 10 to 15 kg. The brown face needs paint. Cost: $10 to $20 for a 60 by 90 cm panel.
 
-**MDF pegboard** is smoother, takes paint beautifully and has a cleaner edge, but it swells if wet, so avoid steamy bathrooms. Cost: £12 to £20.
+**MDF pegboard** is smoother, takes paint beautifully and has a cleaner edge, but it swells if wet, so avoid steamy bathrooms. Cost: $15 to $25.
 
-**Metal pegboard** is the strongest — steel holds 20 kg or more — and suits kitchens and craft rooms. It needs a metal primer before painting. Cost: £25 to £45.
+**Metal pegboard** is the strongest — steel holds 20 kg or more — and suits kitchens and craft rooms. It needs a metal primer before painting. Cost: $30 to $55.
 
-**Acrylic pegboard** is clear or frosted and lets the wall colour show through, but it scratches easily, so it suits display rather than heavy storage. Cost: £30 to £60.
+**Acrylic pegboard** is clear or frosted and lets the wall color show through, but it scratches easily, so it suits display rather than heavy storage. Cost: $40 to $75.
 
 | Material | Best for | Cost (60 × 90 cm) | Weight limit |
 | --- | --- | --- | --- |
-| Hardboard | Painted decor | £8–£15 | 10–15 kg |
-| MDF | Painted finish | £12–£20 | 10–15 kg |
-| Metal | Heavy loads | £25–£45 | 20 kg+ |
-| Acrylic | Display | £30–£60 | 5–8 kg |
-| **Typical first setup** | **Painted hardboard + hooks** | **£25–£45** | **10–15 kg** |
+| Hardboard | Painted decor | $10–$20 | 10–15 kg |
+| MDF | Painted finish | $15–$25 | 10–15 kg |
+| Metal | Heavy loads | $30–$55 | 20 kg+ |
+| Acrylic | Display | $40–$75 | 5–8 kg |
+| **Typical first setup** | **Painted hardboard + hooks** | **$30–$55** | **10–15 kg** |
 
 Size the board to the wall: 60 by 90 cm suits a desk or entryway; 90 by 120 cm fills the wall above a sofa. Cover about one-third to one-half of the empty wall width.
 
@@ -60,7 +61,7 @@ Size the board to the wall: 60 by 90 cm suits a desk or entryway; 90 by 120 cm f
 
 Hooks need about 20 mm of clear space behind the board to seat and lock, so it must stand off the wall on furring strips, spacers or a frame.
 
-**Step 1: Find the studs.** Run a stud finder across the wall and mark the stud centres — usually 40 cm apart. If the board will hold more than 5 kg, at least two fixings must land in studs.
+**Step 1: Find the studs.** Run a stud finder across the wall and mark the stud centers — usually 40 cm apart. If the board will hold more than 5 kg, at least two fixings must land in studs.
 
 **Step 2: Cut the furring strips.** Cut two or three 20 mm by 40 mm timber strips to the board's width — top, bottom, and one in the middle for boards over 90 cm tall.
 
@@ -76,11 +77,11 @@ Hooks need about 20 mm of clear space behind the board to seat and lock, so it m
 
 Sand lightly, wipe off the dust, and prime once — unprimed hardboard drinks paint and looks patchy. Then use two thin coats of eggshell or satin emulsion, letting the first dry fully. Spray paint gives the smoothest finish and reaches inside the holes; a roller works too, rolled lightly so paint does not clog them. Push a cocktail stick through any hole that fills up.
 
-**Colour-blocked** is the easiest designer look: top half one colour, bottom half another, masked off with painter's tape — terracotta over cream, sage over white, navy over pale grey. **Ombré** blends three tones of one colour from dark at the bottom to pale at the top. **Wall-matched** paints the board the exact colour of the wall so it disappears and the objects do the talking.
+**Color-blocked** is the easiest designer look: top half one color, bottom half another, masked off with painter's tape — terracotta over cream, sage over white, navy over pale grey. **Ombré** blends three tones of one color from dark at the bottom to pale at the top. **Wall-matched** paints the board the exact color of the wall so it disappears and the objects do the talking.
 
-Four strips of 20 mm pine, mitred and painted to match, hide the raw edge and add about £6 — framed, the board reads as furniture. Varnish a kitchen or bathroom board so steam never marks the paint.
+Four strips of 20 mm pine, mitred and painted to match, hide the raw edge and add about $8 — framed, the board reads as furniture. Varnish a kitchen or bathroom board so steam never marks the paint.
 
-![Colour-blocked pegboard in a home office, terracotta on top and cream below, with wooden shelves, books, a trailing plant and brass hooks](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-pegboard-wall-decor/in-article-1)
+![Color-blocked pegboard in a home office, terracotta on top and cream below, with wooden shelves, books, a trailing plant and brass hooks](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-pegboard-wall-decor/in-article-1)
 
 ## 18 DIY Pegboard Wall Decor Ideas by Room
 
@@ -90,85 +91,85 @@ Each idea lists cost, time and skill.
 
 ### 1. Framed art-and-plant board
 
-Sage 90 by 120 cm board, pine frame, two shelves, three trailing plants, two framed prints. Cost about £40; one afternoon; easy.
+Sage 90 by 120 cm board, pine frame, two shelves, three trailing plants, two framed prints. Cost about $50; one afternoon; easy.
 
 ### 2. Above-sofa display ledge board
 
-Wide, low board above the sofa: small vases, a clock, a trailing plant, bottom third empty. Cost about £35; two hours; easy.
+Wide, low board above the sofa: small vases, a clock, a trailing plant, bottom third empty. Cost about $45; two hours; easy.
 
 ### 3. Book-and-vase reading nook board
 
-60 by 90 cm board beside an armchair: shelves for paperbacks, a hook for reading glasses, a small vase. Cost about £25; one hour; easy.
+60 by 90 cm board beside an armchair: shelves for paperbacks, a hook for reading glasses, a small vase. Cost about $30; one hour; easy.
 
 ### Entryway
 
 ### 4. Key-and-mail command board
 
-60 by 60 cm white board: brass hooks for keys, a basket for post, a shelf for sunglasses. Cost about £20; one hour; easy.
+60 by 60 cm white board: brass hooks for keys, a basket for post, a shelf for sunglasses. Cost about $25; one hour; easy.
 
 ### 5. Coat-and-hat peg wall
 
-Full-height 60 by 120 cm board: metal hooks for coats, a shelf for hats, a mirror hung on it. Cost about £35; two hours; easy to intermediate.
+Full-height 60 by 120 cm board: metal hooks for coats, a shelf for hats, a mirror hung on it. Cost about $45; two hours; easy to intermediate.
 
 ### 6. Family photo pegboard
 
-Wall-matched board: mini clips holding rotating family photos, a chalkboard section for notes. Cost about £18; one hour; easy.
+Wall-matched board: mini clips holding rotating family photos, a chalkboard section for notes. Cost about $22; one hour; easy.
 
 ### Kitchen
 
 ### 7. Mug-and-herb kitchen board
 
-Metal pegboard: S-hooks for mugs, pots of basil and mint, a shelf for spice jars. Cost about £30; two hours; easy.
+Metal pegboard: S-hooks for mugs, pots of basil and mint, a shelf for spice jars. Cost about $40; two hours; easy.
 
 ### 8. Utensil-and-chopping-board wall
 
-90 by 90 cm painted board: ladles, tongs and chopping boards on hooks, a basket for tea towels. Cost about £28; two hours; easy.
+90 by 90 cm painted board: ladles, tongs and chopping boards on hooks, a basket for tea towels. Cost about $35; two hours; easy.
 
 ### 9. Pantry-door pegboard
 
-Slim 40 by 90 cm board inside a pantry door, baskets for packets and jars — hidden storage, no wall space used. Cost about £15; one hour; easy.
+Slim 40 by 90 cm board inside a pantry door, baskets for packets and jars — hidden storage, no wall space used. Cost about $20; one hour; easy.
 
 ### Home Office
 
-### 10. Colour-blocked desk board
+### 10. Color-blocked desk board
 
-Terracotta-and-cream board above the desk: shelves for notebooks, a pen pot, a small plant, a framed print. Cost about £30; two hours; easy. See the [home office wall decor ideas](/blog/home-office-wall-decor-ideas/) guide.
+Terracotta-and-cream board above the desk: shelves for notebooks, a pen pot, a small plant, a framed print. Cost about $40; two hours; easy. See the [home office wall decor ideas](/blog/home-office-wall-decor-ideas/) guide.
 
 ### 11. Cable-tidy tech board
 
-Basket for chargers, hooks for headphones, a shelf for a speaker — every cable off the desk. Cost about £25; one hour; easy.
+Basket for chargers, hooks for headphones, a shelf for a speaker — every cable off the desk. Cost about $30; one hour; easy.
 
 ### 12. Pinboard-planner combo
 
-Half pegboard, half cork: weekly planner, to-do cards, a small calendar clipped to the holes. Cost about £22; one hour; easy.
+Half pegboard, half cork: weekly planner, to-do cards, a small calendar clipped to the holes. Cost about $28; one hour; easy.
 
 ### Craft Room
 
 ### 13. Ribbon-and-thread rainbow board
 
-White board: dowels holding ribbon, thread and washi tape in colour order. Cost about £20; one hour; easy.
+White board: dowels holding ribbon, thread and washi tape in color order. Cost about $25; one hour; easy.
 
 ### 14. Paint-and-brush studio board
 
-Metal board: baskets for paint tubes, hooks for brushes, a shelf for water jars and palettes. Cost about £30; two hours; easy.
+Metal board: baskets for paint tubes, hooks for brushes, a shelf for water jars and palettes. Cost about $40; two hours; easy.
 
 ### 15. Sewing-supply board
 
-Baskets for buttons and bobbins, a magnetic strip for pins, hooks for scissors and tapes. Cost about £25; one hour; easy.
+Baskets for buttons and bobbins, a magnetic strip for pins, hooks for scissors and tapes. Cost about $30; one hour; easy.
 
 ### Bedroom
 
 ### 16. Bedside jewellery board
 
-45 by 60 cm blush board beside the bed: hooks for necklaces, a shelf for perfume, a tiny vase. Cost about £18; one hour; easy.
+45 by 60 cm blush board beside the bed: hooks for necklaces, a shelf for perfume, a tiny vase. Cost about $22; one hour; easy.
 
-### 17. Cosy book-and-lamp board
+### 17. Cozy book-and-lamp board
 
-Board above a bedside table: a shelf for two books, a hook for a sleep mask, a clip-on lamp. Cost about £28; two hours; easy.
+Board above a bedside table: a shelf for two books, a hook for a sleep mask, a clip-on lamp. Cost about $35; two hours; easy.
 
 ### 18. Kids' art-display board
 
-Bright colour-blocked board at child height: clips for drawings, a basket for crayons, a shelf for toys. Cost about £20; one hour; easy — and the display changes with every new picture.
+Bright color-blocked board at child height: clips for drawings, a basket for crayons, a shelf for toys. Cost about $25; one hour; easy — and the display changes with every new picture.
 
 ![White painted pegboard in a bright kitchen entryway with woven baskets, potted herbs, hanging mugs and framed photos](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-pegboard-wall-decor/in-article-2)
 
@@ -182,7 +183,7 @@ The 20% empty rule: leave at least a fifth of the holes bare. Empty space lets t
 
 ## Pegboard Art Hacks
 
-The holes are a grid, and a grid is a canvas. **Cross-stitch murals** use chunky yarn threaded through the holes to draw a simple shape — a sun, a leaf, a heart. Sketch it on graph paper first, one square per hole, then stitch with a blunt tapestry needle. A 30 by 30 cm motif takes about two hours and £5 of yarn.
+The holes are a grid, and a grid is a canvas. **Cross-stitch murals** use chunky yarn threaded through the holes to draw a simple shape — a sun, a leaf, a heart. Sketch it on graph paper first, one square per hole, then stitch with a blunt tapestry needle. A 30 by 30 cm motif takes about two hours and $6 of yarn.
 
 **Photo displays** need only mini wooden pegs or bulldog clips: clip prints to the board in a loose grid and swap them whenever you like.
 

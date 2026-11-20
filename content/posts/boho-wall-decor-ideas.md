@@ -1,19 +1,20 @@
 ---
 title: "Boho Wall Decor Ideas: 15 Warm, Textured Looks"
 date: "2026-11-03"
+updated: "2026-11-20"
 excerpt: "Boho wall decor ideas with basket-wall layouts, macrame, hat walls and dark boho: sizing, hanging weights, costs and renter-safe methods."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/boho-wall-decor-ideas/cover"
 ---
 
-Boho wall decor is easy to love and easy to get wrong. Done well, it is layered, warm and collected over time: woven texture, natural wood, plants and soft colour against a calm wall. Done badly, it is a jumble of unrelated baskets, tassels and prints that makes the room look like a market stall rather than a home. The difference is not money — most boho pieces are cheap — it is layout, spacing and one repeated natural material.
+Boho wall decor is easy to love and easy to get wrong. Done well, it is layered, warm and collected over time: woven texture, natural wood, plants and soft color against a calm wall. Done badly, it is a jumble of unrelated baskets, tassels and prints that makes the room look like a market stall rather than a home. The difference is not money — most boho pieces are cheap — it is layout, spacing and one repeated natural material.
 
 This guide gives you fifteen boho looks that actually work together, with the layout systems, hanging weights and costs that most boho listicles skip. You will learn how to plan a basket wall without a template, how to hang heavy macrame safely, when dark boho beats light boho, and which pieces renters can hang without drilling.
 
 > **Key Takeaways**
-> - Boho works through **texture, not colour**: mix woven, wood, cotton and plant texture, and keep the palette to cream, terracotta and wood tones.
-> - A basket wall needs a **centre anchor** — a mirror or the largest basket — with smaller baskets radiating out at 5 to 8 centimetres apart.
+> - Boho works through **texture, not color**: mix woven, wood, cotton and plant texture, and keep the palette to cream, terracotta and wood tones.
+> - A basket wall needs a **center anchor** — a mirror or the largest basket — with smaller baskets radiating out at 5 to 8 centimetres apart.
 > - Large macrame can weigh **2 to 4 kilograms**: hang it from a stud or a proper wall fixing, never from a single adhesive hook.
 > - Dark boho suits **north-facing or large rooms**; small, dark rooms stay lighter with cream macrame and pale baskets.
 > - One repeated material — rattan, seagrass or natural wood — stops mixed boho pieces looking random.
@@ -41,63 +42,63 @@ Finally, collect in threes. Three textures — for example woven baskets, cotton
 
 ### 1. A woven basket gallery wall
 
-Seven to fourteen seagrass or rattan baskets in mixed sizes, arranged around a central mirror or the largest basket. Cost around £30 to £70 for a set. Baskets are light, so adhesive hooks or small nails both work, and the gallery can be rearranged in minutes when a new basket joins the set.
+Seven to fourteen seagrass or rattan baskets in mixed sizes, arranged around a central mirror or the largest basket. Cost around $40 to $90 for a set. Baskets are light, so adhesive hooks or small nails both work, and the gallery can be rearranged in minutes when a new basket joins the set.
 
 ### 2. Large cream macrame with fringe
 
-One large cream cotton macrame, at least 90 centimetres wide, hung above a sofa or bed as the room's anchor piece. Cost around £35 to £80.
+One large cream cotton macrame, at least 90 centimetres wide, hung above a sofa or bed as the room's anchor piece. Cost around $45 to $100.
 
 ### 3. A straw hat wall
 
-Five to eight straw or felt hats hung in a loose cluster or a gentle diagonal above a chair or console. Cost around £25 to £60, less if the hats are already in the house.
+Five to eight straw or felt hats hung in a loose cluster or a gentle diagonal above a chair or console. Cost around $30 to $75, less if the hats are already in the house.
 
 ### 4. A rattan sunburst mirror
 
-A round mirror with a rattan sunburst frame, hung at eye level as the centre of a basket or plant arrangement. Cost around £30 to £65.
+A round mirror with a rattan sunburst frame, hung at eye level as the center of a basket or plant arrangement. Cost around $40 to $80.
 
 ### 5. Terracotta wall pocket planters
 
-Two or three terracotta wall pockets holding trailing plants, hung in a vertical line beside a window or door. Cost around £20 to £45 plus plants.
+Two or three terracotta wall pockets holding trailing plants, hung in a vertical line beside a window or door. Cost around $25 to $55 plus plants.
 
 ### 6. A woven tapestry above the bed
 
-A large woven tapestry, geometric or botanical, hung above a bed or sofa where a framed print would feel too formal. Cost around £25 to £60.
+A large woven tapestry, geometric or botanical, hung above a bed or sofa where a framed print would feel too formal. Cost around $30 to $75.
 
 ### 7. Dried pampas in tall vases on the wall
 
-Wall-mounted vases or a shelf holding tall dried pampas stems, for height and softness without a plant to water. Cost around £15 to £35.
+Wall-mounted vases or a shelf holding tall dried pampas stems, for height and softness without a plant to water. Cost around $20 to $45.
 
 ### 8. A wooden bead garland display
 
-Long wooden bead garlands draped from a hook or shelf edge, layered over a mirror or frame corner. Cost around £10 to £25.
+Long wooden bead garlands draped from a hook or shelf edge, layered over a mirror or frame corner. Cost around $12 to $30.
 
 ### 9. A boho gallery of botanical prints
 
-Botanical or desert-landscape prints in natural wood frames, hung as a row or a grid on a calm wall. Cost around £30 to £70.
+Botanical or desert-landscape prints in natural wood frames, hung as a row or a grid on a calm wall. Cost around $40 to $90.
 
 ### 10. A rattan sconce pair
 
-Two rattan or woven wall sconces flanking a mirror, bed or console, with warm LED candles inside. Cost around £30 to £60 for the pair.
+Two rattan or woven wall sconces flanking a mirror, bed or console, with warm LED candles inside. Cost around $40 to $75 for the pair.
 
 ### 11. A ladder shelf styled boho
 
-A leaning ladder shelf against the wall, styled with baskets, a folded throw, plants and one framed print. Cost around £40 to £90.
+A leaning ladder shelf against the wall, styled with baskets, a folded throw, plants and one framed print. Cost around $50 to $110.
 
 ### 12. A dark boho accent wall display
 
-Deep green or charcoal paint behind cream macrame, brass frames and dark wood shelves, for a moody boho corner. Cost is paint plus pieces, around £40 to £90 total.
+Deep green or charcoal paint behind cream macrame, brass frames and dark wood shelves, for a moody boho corner. Cost is paint plus pieces, around $50 to $110 total.
 
 ### 13. A woven wall hanging with tassels
 
-A smaller woven hanging, wool or cotton with tassels, for a hallway, bathroom or bedroom wall that cannot take a large macrame. Cost around £20 to £45.
+A smaller woven hanging, wool or cotton with tassels, for a hallway, bathroom or bedroom wall that cannot take a large macrame. Cost around $25 to $55.
 
 ### 14. A plant wall with trailing greens
 
-A rail or a set of wall planters holding trailing plants above a console or desk, turning the wall into a living feature. Cost around £30 to £70 plus plants.
+A rail or a set of wall planters holding trailing plants above a console or desk, turning the wall into a living feature. Cost around $40 to $90 plus plants.
 
 ### 15. A mixed-texture shelf vignette
 
-A floating shelf styled with a small basket, a candle, a plant and one framed print, repeated on two shelves for a layered boho vignette. Cost around £25 to £50. The shelf gives heavy or fragile boho pieces a home without a hook in each one, and it can be restyled seasonally in minutes.
+A floating shelf styled with a small basket, a candle, a plant and one framed print, repeated on two shelves for a layered boho vignette. Cost around $30 to $60. The shelf gives heavy or fragile boho pieces a home without a hook in each one, and it can be restyled seasonally in minutes.
 
 ![Woven basket gallery wall with a rattan sunburst mirror, cream macrame hanging and a terracotta plant pocket above a sofa](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/boho-wall-decor-ideas/in-article-1)
 
@@ -105,9 +106,9 @@ A floating shelf styled with a small basket, a candle, a plant and one framed pr
 
 ## Step by step: a basket wall in an afternoon
 
-You need seven to fourteen baskets, a central mirror or one large basket, small nails or adhesive hooks, a pencil and a spirit level. Lay the arrangement on the floor first, in the shape it will take on the wall: a loose oval or a scattered cluster, with the largest piece in the centre. Photograph the floor layout, since it is far easier to rearrange on the floor than on the wall.
+You need seven to fourteen baskets, a central mirror or one large basket, small nails or adhesive hooks, a pencil and a spirit level. Lay the arrangement on the floor first, in the shape it will take on the wall: a loose oval or a scattered cluster, with the largest piece in the center. Photograph the floor layout, since it is far easier to rearrange on the floor than on the wall.
 
-Transfer the layout to the wall by marking the centre piece first, at eye level, roughly 145 to 155 centimetres from the floor to its centre. Hang it, then work outward, keeping 5 to 8 centimetres between baskets. Step back after every three baskets and check from the doorway: basket walls drift easily, and a gap that looks fine up close can look like a hole from across the room. Total time is one to two hours, and the only cost beyond the baskets is hooks.
+Transfer the layout to the wall by marking the center piece first, at eye level, roughly 145 to 155 centimetres from the floor to its center. Hang it, then work outward, keeping 5 to 8 centimetres between baskets. Step back after every three baskets and check from the doorway: basket walls drift easily, and a gap that looks fine up close can look like a hole from across the room. Total time is one to two hours, and the only cost beyond the baskets is hooks.
 
 For the wider basket-wall family, including woven wall decor beyond boho, see [basket wall decor](/blog/basket-wall-decor/) and [tapestry wall hanging](/blog/tapestry-wall-hanging/). For macrame technique and cord choices, see [macrame wall hanging](/blog/macrame-wall-hanging/) and [macrame patterns](/blog/macrame-patterns/).
 
@@ -125,7 +126,7 @@ Renters can build almost a full boho wall without drilling: adhesive hooks for b
 
 ## Thrifted boho: building the wall for less
 
-Boho is the easiest wall style to build second-hand, because its best pieces are already old, worn and natural. Charity shops, car-boot sales and online marketplaces are full of woven baskets, wooden frames, straw hats and rattan mirrors at a fraction of shop prices, and a basket with a faded rim or a hat with a softened brim looks more authentically boho than a brand-new one. Budget roughly £30 to £50 for a basket wall built second-hand, against £70 or more bought new.
+Boho is the easiest wall style to build second-hand, because its best pieces are already old, worn and natural. Charity shops, car-boot sales and online marketplaces are full of woven baskets, wooden frames, straw hats and rattan mirrors at a fraction of shop prices, and a basket with a faded rim or a hat with a softened brim looks more authentically boho than a brand-new one. Budget roughly $40 to $60 for a basket wall built second-hand, against $90 or more bought new.
 
 Check thrifted pieces before you hang them: shake baskets outside, wipe wood with a damp cloth, and check macrame for weak cords in daylight. A basket with a broken weave still works if the break faces the wall. What cannot be fixed is the wrong material: plastic baskets painted to look woven never convince up close, so skip them however cheap they are.
 
@@ -133,15 +134,15 @@ Thrifted pieces also stop the wall looking like a catalogue page: a charity-shop
 
 ## Common mistakes and fixes
 
-The most common boho mistake is too many textures on one wall: baskets, macrame, beads, tassels, prints and plants all at once. Fix it by removing one texture family entirely and letting the remaining three breathe. The second mistake is hanging everything too high: a basket gallery whose centre sits above eye level feels like a ceiling display, so lower the group until its centre is at 145 to 155 centimetres.
+The most common boho mistake is too many textures on one wall: baskets, macrame, beads, tassels, prints and plants all at once. Fix it by removing one texture family entirely and letting the remaining three breathe. The second mistake is hanging everything too high: a basket gallery whose center sits above eye level feels like a ceiling display, so lower the group until its center is at 145 to 155 centimetres.
 
-The third mistake is a basket wall with no anchor: baskets scattered without a mirror or large basket in the centre look like storage, not decor. Add the anchor and the same baskets suddenly look arranged. The fourth is ignoring light: boho texture needs side light or warm lamps to show, and a boho wall in a dark corner looks flat no matter how good the pieces are. Add a lamp, and the texture appears.
+The third mistake is a basket wall with no anchor: baskets scattered without a mirror or large basket in the center look like storage, not decor. Add the anchor and the same baskets suddenly look arranged. The fourth is ignoring light: boho texture needs side light or warm lamps to show, and a boho wall in a dark corner looks flat no matter how good the pieces are. Add a lamp, and the texture appears.
 
 ## FAQ
 
 ### How many baskets do I need for a basket wall?
 
-Seven to fourteen baskets in mixed sizes, with one large basket or a mirror as the centre. Fewer than seven looks sparse on a sofa-width wall, and more than fourteen needs a very large wall to avoid crowding.
+Seven to fourteen baskets in mixed sizes, with one large basket or a mirror as the center. Fewer than seven looks sparse on a sofa-width wall, and more than fourteen needs a very large wall to avoid crowding.
 
 ### How do I hang heavy macrame safely?
 
@@ -159,6 +160,6 @@ Yes. Adhesive hooks carry baskets and hats, a leaning ladder shelf needs no fixi
 
 Shake stems outside before bringing them in, keep them away from radiators and open flames, and avoid moving them once placed. Shedding is heaviest in the first week and settles after that. For macrame and textiles generally, dust with a dry microfibre cloth or a low-suction vacuum brush monthly, and keep them out of direct sun, which fades cotton fringe and dried stems fastest.
 
-### What colours go with boho wall decor?
+### What colors go with boho wall decor?
 
 Cream, terracotta, sand and natural wood for classic boho, with green from plants. Dark boho adds deep green or charcoal walls, brass and jewel tones, but keeps the same natural textures.

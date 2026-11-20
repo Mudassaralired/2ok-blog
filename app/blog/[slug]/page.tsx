@@ -9,6 +9,7 @@ import {
   slugify,
   coverAlt,
   ogImageFor,
+  schemaImagesFor,
   SITE_URL,
 } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
@@ -20,7 +21,10 @@ const AUTHOR = {
   url: `${SITE_URL}/author/mudassar-ali`,
   jobTitle: "Founder & Editor, 2ok Home",
   knowsAbout: ["Home Decor", "DIY", "Interior Styling", "Budget Decorating"],
-  sameAs: ["https://www.instagram.com/2ok.home/"],
+  sameAs: [
+    "https://www.instagram.com/2ok.home/",
+    "https://www.pinterest.com/2okhome/",
+  ],
 };
 
 type Props = { params: Promise<{ slug: string }> };
@@ -37,9 +41,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await getPost(slug);
   if (!post) return {};
   const url = `${SITE_URL}/blog/${post.meta.slug}`;
-  const ogImage = post.meta.cover ? ogImageFor(post.meta.slug) : "";
+  const ogImage = post.meta.cover
+    ? ogImageFor(post.meta.slug, post.meta.cover)
+    : "";
+  // Avoid appending " | 2ok Home" (+11 chars) when the title is already
+  // near Google's ~60-character SERP display limit; Site Name shows above.
+  const metaTitle =
+    post.meta.title.length > 48
+      ? { absolute: post.meta.title }
+      : post.meta.title;
   return {
-    title: post.meta.title,
+    title: metaTitle,
     description: post.meta.excerpt,
     keywords: [post.meta.category, "home decor", "DIY"],
     openGraph: {
@@ -48,6 +60,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: post.meta.excerpt,
       url,
       publishedTime: post.meta.date,
+      modifiedTime: post.meta.updated ?? post.meta.date,
       authors: [AUTHOR.name],
       ...(ogImage
         ? {
@@ -103,9 +116,10 @@ export default async function ArticlePage({ params }: Props) {
   );
   const related = [...sameCluster, ...sameCategory, ...rest].slice(0, 4);
 
-  const coverImage = ogImageFor(meta.slug);
+  const schemaImages = schemaImagesFor(meta.slug, meta.cover);
   // OG image file only exists once the owner supplies the polished cover.
   const hasCoverImage = Boolean(meta.cover);
+  const modifiedDate = meta.updated ?? meta.date;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -116,7 +130,10 @@ export default async function ArticlePage({ params }: Props) {
         headline: meta.title,
         description: meta.excerpt,
         datePublished: meta.date,
-        dateModified: meta.date,
+        dateModified: modifiedDate,
+        inLanguage: "en-US",
+        articleSection: meta.category,
+        wordCount: meta.wordCount,
         author: {
           "@type": "Person",
           "@id": `${AUTHOR.url}#person`,
@@ -131,20 +148,26 @@ export default async function ArticlePage({ params }: Props) {
           "@id": `${SITE_URL}#organization`,
           name: "2ok Home",
           url: SITE_URL,
+          logo: {
+            "@type": "ImageObject",
+            url: `${SITE_URL}/icon-192.png`,
+            width: 192,
+            height: 192,
+          },
         },
         mainEntityOfPage: articleUrl,
-        ...(coverImage && hasCoverImage
+        ...(hasCoverImage
           ? {
-              image: {
+              image: schemaImages.map((img, idx) => ({
                 "@type": "ImageObject",
-                "@id": `${articleUrl}#primaryimage`,
-                url: coverImage,
-                width: 1200,
-                height: 630,
+                ...(idx === 0 ? { "@id": `${articleUrl}#primaryimage` } : {}),
+                url: img.url,
+                width: img.width,
+                height: img.height,
                 creator: { "@type": "Organization", name: "2ok Home" },
                 creditText: "2ok Home",
                 copyrightNotice: "© 2026 2ok Home",
-              },
+              })),
             }
           : {}),
       },
@@ -206,7 +229,7 @@ export default async function ArticlePage({ params }: Props) {
   };
 
   return (
-    <article className="mx-auto max-w-3xl px-5 py-12 md:py-16">
+    <article className="mx-auto max-w-3xl px-4 py-6 sm:px-5 md:py-14">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -225,31 +248,44 @@ export default async function ArticlePage({ params }: Props) {
         </Link>
       </nav>
 
-      <h1 className="mt-5 font-display text-3xl font-bold leading-tight tracking-tight md:text-5xl">
+      <h1 className="mt-3 font-display text-[1.75rem] font-bold leading-[1.16] tracking-tight sm:text-4xl md:mt-5 md:text-5xl">
         {meta.title}
       </h1>
-      <p className="mt-4 text-lg leading-relaxed text-ink-soft">{meta.excerpt}</p>
-      <p className="mt-5 text-sm font-medium text-ink">
-        By{" "}
-        <Link
-          href="/author/mudassar-ali"
-          className="font-semibold text-clay-dark underline underline-offset-2 hover:text-clay"
-        >
-          Mudassar Ali
-        </Link>
+      <p className="mt-3 text-base leading-relaxed text-ink-soft md:mt-4 md:text-lg">
+        {meta.excerpt}
       </p>
-      <p className="mt-2 text-xs font-medium uppercase tracking-[0.14em] text-stone-warm">
-        {formatDate(meta.date)} · {meta.readingTime} min read · {meta.category}
-      </p>
+      <div className="mt-3.5 flex flex-wrap items-center gap-x-2.5 gap-y-1 text-xs font-medium text-stone-warm md:mt-5 md:text-sm">
+        <span className="text-ink">
+          By{" "}
+          <Link
+            href="/author/mudassar-ali"
+            className="font-semibold text-clay-dark underline underline-offset-2 hover:text-clay"
+          >
+            Mudassar Ali
+          </Link>
+        </span>
+        <span aria-hidden="true">·</span>
+        <span className="uppercase tracking-[0.1em]">
+          {meta.updated && meta.updated !== meta.date
+            ? `Updated ${formatDate(meta.updated)}`
+            : formatDate(meta.date)}
+        </span>
+        <span aria-hidden="true">·</span>
+        <span className="uppercase tracking-[0.1em]">
+          {meta.readingTime} min read
+        </span>
+      </div>
 
       {meta.cover ? (
-        <div className="pin-figure mt-8 overflow-hidden rounded-2xl border border-ink/10">
+        <div className="pin-figure mt-5 aspect-[3/2] overflow-hidden rounded-2xl border border-ink/10 bg-sand md:mt-8">
           <CoverImage
             src={meta.cover}
             slug={meta.slug}
             title={meta.title}
             eager
-            imgClassName="w-full object-cover"
+            defaultWidth={1200}
+            sizes="(max-width: 768px) 100vw, 768px"
+            imgClassName="h-full w-full object-cover"
           />
           <a
             className="pin-btn"
@@ -267,7 +303,7 @@ export default async function ArticlePage({ params }: Props) {
       <AdSlot slot="IN_ARTICLE_SLOT_ID" label="In-article" className="my-8" />
 
       <div
-        className="article-body mt-8"
+        className="article-body mt-6 md:mt-8"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
 

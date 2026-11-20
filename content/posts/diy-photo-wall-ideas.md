@@ -1,7 +1,8 @@
 ---
 title: "DIY Photo Wall Ideas: 14 Layouts, Print Sizes & Spacing That Look Professional"
 date: "2026-11-01"
-excerpt: "DIY photo wall ideas that look professional: 14 layouts, print sizes, spacing formulas, the paper-template method, hanging weights and renter-friendly options."
+updated: "2026-11-20"
+excerpt: "DIY photo wall ideas that look professional: 14 layouts, print sizes, spacing formulas, the paper-template method."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-photo-wall-ideas/cover"

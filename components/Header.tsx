@@ -40,20 +40,20 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-ink/10 bg-cream/90 backdrop-blur">
-      <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
-        <Link href="/" className="flex items-center gap-2.5">
+      <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-2.5 md:px-5 md:py-4">
+        <Link href="/" className="flex items-center gap-2 md:gap-2.5">
           <img
             src="/logo-mark.svg"
             alt="2ok Home logo"
             width={40}
             height={40}
-            className="h-10 w-10"
+            className="h-8 w-8 md:h-10 md:w-10"
           />
           <span className="leading-tight">
-            <span className="block font-display text-xl font-bold tracking-tight">
+            <span className="block font-display text-lg font-bold tracking-tight md:text-xl">
               2ok Home
             </span>
-            <span className="block text-[11px] font-medium uppercase tracking-[0.18em] text-stone-warm">
+            <span className="block text-[10px] font-medium uppercase tracking-[0.16em] text-stone-warm md:text-[11px] md:tracking-[0.18em]">
               Decor &amp; DIY
             </span>
           </span>
@@ -137,15 +137,15 @@ export default function Header() {
 
       {/* Topics strip — one-click filter to topic hubs */}
       <nav aria-label="Topics" className="border-t border-ink/10 bg-sand/60">
-        <div className="mx-auto flex max-w-6xl items-center gap-6 overflow-x-auto px-5 py-2.5">
-          <span className="shrink-0 text-[11px] font-semibold uppercase tracking-[0.16em] text-stone-warm">
+        <div className="topics-strip mx-auto flex max-w-6xl items-center justify-between gap-3 overflow-x-auto px-4 py-2 sm:justify-start sm:gap-6 sm:px-5 md:py-2.5">
+          <span className="hidden shrink-0 text-[11px] font-semibold uppercase tracking-[0.16em] text-stone-warm sm:inline">
             Topics
           </span>
           {TOPICS.map((t) => (
             <Link
               key={t.href}
               href={t.href}
-              className="shrink-0 text-sm font-medium text-ink-soft transition-colors hover:text-clay-dark"
+              className="shrink-0 whitespace-nowrap text-[13px] font-medium text-ink-soft transition-colors hover:text-clay-dark sm:text-sm"
             >
               {t.label}
             </Link>

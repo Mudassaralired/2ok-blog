@@ -38,6 +38,7 @@ const posts = fs
       cover: field(frontmatter, "cover"),
       date: field(frontmatter, "date") || "2026-01-01",
       readingTime: Math.max(2, Math.round(words / 200)),
+      wordCount: words,
     };
   })
   .sort((a, b) => (a.date < b.date ? 1 : -1));

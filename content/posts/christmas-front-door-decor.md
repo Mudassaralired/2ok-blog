@@ -1,7 +1,8 @@
 ---
 title: "Christmas Front Door Decor: 15 Ideas, Wreath Sizing & Weatherproof Hanging (2026 Guide)"
 date: "2026-10-31"
-excerpt: "Christmas front door decor that fits your door: wreath and garland sizing tables, 15 ideas from swags to double doors, damage-free hanging and windproofing."
+updated: "2026-11-20"
+excerpt: "Christmas front door decor that fits your door: wreath and garland sizing tables, 15 ideas from swags to double doors."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/christmas-front-door-decor/cover"

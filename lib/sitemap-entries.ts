@@ -21,7 +21,7 @@ export interface SitemapEntry {
 export function buildSitemapEntries(): SitemapEntry[] {
   const posts: SitemapEntry[] = getAllPosts().map((p) => ({
     url: `${SITE_URL}/blog/${p.slug}`,
-    lastModified: new Date(p.date),
+    lastModified: new Date(p.updated ?? p.date),
     changeFrequency: "monthly",
     priority: 0.7,
   }));

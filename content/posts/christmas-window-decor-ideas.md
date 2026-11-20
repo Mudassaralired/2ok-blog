@@ -1,6 +1,7 @@
 ---
 title: "Christmas Window Decor Ideas: 15 Lit, Safe and Renter-Friendly"
 date: "2026-11-02"
+updated: "2026-11-20"
 excerpt: "Christmas window decor ideas with sizing by window type, costs and renter-safe mounting: lit wreaths, garlands, silhouette villages and snowflakes."
 category: "Seasonal Decor"
 cluster: "christmas-decor"
@@ -53,69 +54,69 @@ Costs are approximate; battery lights with timers recommended.
 
 ### 1. Garland framed window with fairy lights
 
-Evergreen garland around all four sides of the frame, woven with warm white battery fairy lights. Cost around £15 to £30. Time one hour. Fix with removable hooks, never nails into uPVC.
+Evergreen garland around all four sides of the frame, woven with warm white battery fairy lights. Cost around $20 to $40. Time one hour. Fix with removable hooks, never nails into uPVC.
 
-### 2. Lit wreath in the centre of the window
+### 2. Lit wreath in the center of the window
 
-One [wreath](/blog/diy-christmas-wreath-ideas/), sized as above, hung from a suction hook or a ribbon over the frame, with battery lights woven through it. Cost around £12 to £25. Time 20 minutes. A ribbon over the frame holds more weight than a suction hook on cold glass.
+One [wreath](/blog/diy-christmas-wreath-ideas/), sized as above, hung from a suction hook or a ribbon over the frame, with battery lights woven through it. Cost around $15 to $30. Time 20 minutes. A ribbon over the frame holds more weight than a suction hook on cold glass.
 
 ### 3. Lit silhouette village on the sill
 
-Card or wooden house silhouettes on the sill, backlit by fairy lights behind them. Cost around £10 to £20, or under £5 if you cut the houses from card. Time one to two hours. Full tutorial below.
+Card or wooden house silhouettes on the sill, backlit by fairy lights behind them. Cost around $12 to $25, or under $6 if you cut the houses from card. Time one to two hours. Full tutorial below.
 
 ### 4. Paper snowflake curtain
 
-Paper snowflakes in three sizes, hung on clear thread at staggered heights. Cost around £3 to £6. Time two hours for fifteen to twenty snowflakes. Cut them 12 to 20 centimetres across so they read from across the room.
+Paper snowflakes in three sizes, hung on clear thread at staggered heights. Cost around $4 to $8. Time two hours for fifteen to twenty snowflakes. Cut them 12 to 20 centimetres across so they read from across the room.
 
 ### 5. Hanging ornaments at staggered heights
 
-Baubles, pinecones or dried oranges hung on ribbons or clear thread from a rod above the window. Cost around £8 to £18. Time one hour. Keep each ornament under 100 grams so it hangs straight.
+Baubles, pinecones or dried oranges hung on ribbons or clear thread from a rod above the window. Cost around $10 to $22. Time one hour. Keep each ornament under 100 grams so it hangs straight.
 
 ### 6. Dried orange and greenery garland across the top
 
-A swag of greenery with dried orange slices and cinnamon sticks, across the top of the window only. Cost around £10 to £18. Time one hour plus drying. Dry orange slices at 100 degrees for two to three hours, turning once.
+A swag of greenery with dried orange slices and cinnamon sticks, across the top of the window only. Cost around $12 to $22. Time one hour plus drying. Dry orange slices at 100 degrees for two to three hours, turning once.
 
 ### 7. Red bows on every pane
 
-One large velvet or wired-ribbon bow per pane, at the centre or top corner. Cost around £8 to £15 for three to four bows. Time 30 minutes.
+One large velvet or wired-ribbon bow per pane, at the center or top corner. Cost around $10 to $20 for three to four bows. Time 30 minutes.
 
 ### 8. Chalk marker winter scene on the glass
 
-A hand-drawn village, trees or snowfall on the inside of the glass with a chalk marker, wiped off in January. Cost around £5 to £8. Time one to two hours. Test on a corner first, and use a chalk marker, not a permanent paint pen.
+A hand-drawn village, trees or snowfall on the inside of the glass with a chalk marker, wiped off in January. Cost around $6 to $10. Time one to two hours. Test on a corner first, and use a chalk marker, not a permanent paint pen.
 
 ### 9. Two wreaths, one inside and one outside
 
-Matching wreaths on both sides of the same window, reading from street and room. Cost around £20 to £40. Time 30 minutes. Fix the outside wreath to the frame, not the glass, so wind cannot peel it off.
+Matching wreaths on both sides of the same window, reading from street and room. Cost around $25 to $50. Time 30 minutes. Fix the outside wreath to the frame, not the glass, so wind cannot peel it off.
 
 ### 10. Small wreaths across a wide window
 
-Three or four small wreaths, 25 to 30 centimetres each, in a row across a picture window. Cost around £18 to £30. Time 30 minutes. Space them 15 to 20 centimetres apart.
+Three or four small wreaths, 25 to 30 centimetres each, in a row across a picture window. Cost around $22 to $40. Time 30 minutes. Space them 15 to 20 centimetres apart.
 
 ### 11. Window box dressed for Christmas
 
-A window box filled with evergreen sprigs, pinecones, red berries and battery lights. Cost around £12 to £22. Time one hour. Water lightly once a week so greenery does not drop needles early.
+A window box filled with evergreen sprigs, pinecones, red berries and battery lights. Cost around $15 to $28. Time one hour. Water lightly once a week so greenery does not drop needles early.
 
 ### 12. Mini tree beside the window
 
-A small potted tree, 60 to 90 centimetres, beside the window with its own lights, reading as one display with the window. Cost around £15 to £35. Time 20 minutes. Keep it clear of curtains and radiators.
+A small potted tree, 60 to 90 centimetres, beside the window with its own lights, reading as one display with the window. Cost around $20 to $45. Time 20 minutes. Keep it clear of curtains and radiators.
 
 ### 13. Pink paper chain window
 
-A paper chain in pink, cream and gold across the window for a non-traditional look. Cost around £4 to £8. Time one hour. Make links 15 centimetres long so the chain drapes.
+A paper chain in pink, cream and gold across the window for a non-traditional look. Cost around $5 to $10. Time one hour. Make links 15 centimetres long so the chain drapes.
 
 ### 14. Battery candles in jars on the sill
 
-Battery candles in jars or lanterns along the sill, on a timer for the evening. Cost around £10 to £20 for three to five candles. Time 15 minutes. Never substitute real candles near curtains.
+Battery candles in jars or lanterns along the sill, on a timer for the evening. Cost around $12 to $25 for three to five candles. Time 15 minutes. Never substitute real candles near curtains.
 
 ### 15. Lit Santa or star silhouette
 
-A flat silhouette — Santa in a sleigh, a large star, a nativity shape — cut from card or plywood, backlit on the glass at night. Cost around £8 to £15 for card. Time two hours. Keep it within the glass area so its edges glow cleanly.
+A flat silhouette — Santa in a sleigh, a large star, a nativity shape — cut from card or plywood, backlit on the glass at night. Cost around $10 to $20 for card. Time two hours. Keep it within the glass area so its edges glow cleanly.
 
 ## Step by step lit silhouette village window
 
-Cut house silhouettes from thick card in three heights — 12, 18 and 25 centimetres — with pitched roofs and windows cut as small rectangles or arches. Five to seven houses fill a standard sill; three fill a small one. Cover the card in one colour — kraft, white or deep green — and stand houses along the back of the sill, tallest in the middle, with bottle-brush trees between them.
+Cut house silhouettes from thick card in three heights — 12, 18 and 25 centimetres — with pitched roofs and windows cut as small rectangles or arches. Five to seven houses fill a standard sill; three fill a small one. Cover the card in one color — kraft, white or deep green — and stand houses along the back of the sill, tallest in the middle, with bottle-brush trees between them.
 
-Run warm white battery fairy lights behind the houses, not in front, so light shines through the cut windows and around rooflines. Set the timer for 5pm to 11pm, so the village glows after dark. From the street it reads as a glowing skyline; from inside, as a warm display. Cost under £20, time one to two hours.
+Run warm white battery fairy lights behind the houses, not in front, so light shines through the cut windows and around rooflines. Set the timer for 5pm to 11pm, so the village glows after dark. From the street it reads as a glowing skyline; from inside, as a warm display. Cost under $25, time one to two hours.
 
 ## Renter safe mounting on glass and frames
 

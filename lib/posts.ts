@@ -2,10 +2,12 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
+import remarkGfm from "remark-gfm";
 import remarkRehype from "remark-rehype";
 import rehypeSlug from "rehype-slug";
 import rehypeStringify from "rehype-stringify";
 import { slug as githubSlug } from "github-slugger";
+import { cloudinaryCrop, cloudinarySrcSet, cloudinaryUrl } from "@/lib/cloudinary";
 
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
 
@@ -16,12 +18,14 @@ export type PostMeta = {
   slug: string;
   title: string;
   date: string; // ISO date, e.g. "2026-10-16"
+  updated?: string; // Optional ISO last-modified date, e.g. "2026-11-20"
   excerpt: string;
   category: string;
   /** Topical-authority cluster, e.g. "wall-decor", "small-living-room". Drives interlinking. */
   cluster: string;
   cover: string; // absolute Cloudinary URL (f_auto,q_auto)
   readingTime: number; // minutes
+  wordCount: number;
 };
 
 export type Post = {
@@ -41,17 +45,19 @@ function readSlugs(): string[] {
 
 function metaFor(slug: string): PostMeta {
   const raw = fs.readFileSync(path.join(POSTS_DIR, `${slug}.md`), "utf8");
-  const { data } = matter(raw);
-  const words = raw.split(/\s+/).length;
+  const { data, content } = matter(raw);
+  const wordCount = content.trim().split(/\s+/).filter(Boolean).length;
   return {
     slug,
     title: String(data.title ?? slug),
     date: String(data.date ?? "2026-01-01"),
+    ...(data.updated ? { updated: String(data.updated) } : {}),
     excerpt: String(data.excerpt ?? ""),
     category: String(data.category ?? "Decor"),
     cluster: String(data.cluster ?? ""),
     cover: String(data.cover ?? ""),
-    readingTime: Math.max(2, Math.round(words / 200)),
+    readingTime: Math.max(2, Math.round(wordCount / 200)),
+    wordCount,
   };
 }
 
@@ -76,10 +82,29 @@ export function getPostsPage(page: number): PostMeta[] {
   return all.slice((page - 1) * POSTS_PER_PAGE, page * POSTS_PER_PAGE);
 }
 
-/** 1200x630 OG/social image for a post slug.
- *  Slugs shortened on 2026-10-19 keep pointing at their original upload path. */
-export function ogImageFor(slug: string): string {
+/** 1200x630 OG/social image for a post slug. */
+export function ogImageFor(slug: string, coverSrc?: string): string {
+  if (coverSrc && coverSrc.includes("res.cloudinary.com")) {
+    return cloudinaryCrop(coverSrc, 1200, 630);
+  }
   return `${CLOUDINARY}/w_1200,h_630,c_fill/f_auto,q_auto/2ok-blog/${slug}/cover`;
+}
+
+/** Multi-aspect Schema.org ImageObject crops (16:9, 4:3, 1:1) recommended by
+ *  Google Rich Results so mobile SERPs can display crisp photo thumbnails. */
+export function schemaImagesFor(
+  slug: string,
+  coverSrc?: string
+): { url: string; width: number; height: number }[] {
+  const base =
+    coverSrc && coverSrc.includes("res.cloudinary.com")
+      ? coverSrc
+      : `${CLOUDINARY}/f_auto,q_auto/2ok-blog/${slug}/cover`;
+  return [
+    { url: cloudinaryCrop(base, 1200, 675), width: 1200, height: 675 },
+    { url: cloudinaryCrop(base, 1200, 900), width: 1200, height: 900 },
+    { url: cloudinaryCrop(base, 1200, 1200), width: 1200, height: 1200 },
+  ];
 }
 
 /** Descriptive cover alt text per post (10-15 words). Written from the
@@ -205,6 +230,8 @@ const COVER_ALTS: Record<string, string> = {
     "A living room rug sized under a sofa and coffee table with a measuring tape on the floor",
   "small-living-room-sofa":
     "A beige small-space sofa with green cushions beside a black floor lamp",
+  "small-living-room-storage":
+    "A small living room with wall shelves, woven baskets, and a storage ottoman",
   "small-living-room-storage-ideas":
     "A small living room with wall shelves, woven baskets, and a storage ottoman",
   "small-living-room-tv-layout":
@@ -381,6 +408,14 @@ const COVER_ALTS: Record<string, string> = {
     "Five beaded crystal suncatchers hanging in a sunny window casting rainbow light across a terracotta wall above a wooden sideboard",
   "christmas-gift-wrapping-ideas":
     "Kraft-wrapped Christmas gifts with burgundy ribbon, dried orange slices and greenery piled under a lit tree with dried orange ornaments",
+  "diy-canvas-wall-art":
+    "Large handmade textured arch canvas wall art in warm cream and terracotta tones hanging above a linen sofa in natural daylight",
+  "diy-christmas-ornaments":
+    "Evergreen Christmas tree decorated with handmade dried orange slices, salt dough stars and cream ribbon ornaments in warm fairy light",
+  "diy-wood-slice-wall-art":
+    "Cluster of natural sanded wood slices arranged as organic wall art above a wooden console in a warm living room",
+  "picture-ledge-wall-decor":
+    "Two slim oak picture ledges layered with overlapping framed botanical prints and ceramics above a neutral sofa",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
@@ -451,11 +486,13 @@ type HastNode = {
   value?: string;
 };
 
-/** Rehype plugin: wrap every article-body image in a figure with a hover
- *  "Pin it" button linking to Pinterest's create-pin endpoint. Runs at
- *  build time only — the static HTML ships the buttons, no client JS.
- *  Images already inside a link are left alone (no nested anchors). */
-function rehypePinButtons(options: { pageUrl: string; pageTitle: string }) {
+/** Rehype plugin:
+ *  1) Wrap every article-body image in `.pin-figure` with a "Pin it" link,
+ *     plus responsive Cloudinary srcset/sizes, intrinsic 1200x800 dimensions,
+ *     and native `loading="lazy"` + `decoding="async"` for below-the-fold speed.
+ *  2) Wrap every GFM `<table>` in a keyboard-scrollable `.table-wrapper`
+ *     (`tabindex="0"`, `role="region"`, `aria-label`) for responsive mobile UX. */
+function rehypeEnhanceArticle(options: { pageUrl: string; pageTitle: string }) {
   const { pageUrl, pageTitle } = options;
   return (tree: HastNode) => {
     const visit = (node: HastNode, inLink: boolean) => {
@@ -463,22 +500,50 @@ function rehypePinButtons(options: { pageUrl: string; pageTitle: string }) {
       for (let i = 0; i < node.children.length; i++) {
         const child = node.children[i];
         const childInLink =
-          inLink ||
-          (child.type === "element" && child.tagName === "a");
+          inLink || (child.type === "element" && child.tagName === "a");
+        if (child.type === "element" && child.tagName === "table") {
+          node.children[i] = {
+            type: "element",
+            tagName: "div",
+            properties: {
+              className: ["table-wrapper"],
+              tabIndex: 0,
+              role: "region",
+              ariaLabel: "Article comparison table",
+            },
+            children: [child],
+          };
+          continue;
+        }
         if (
           !inLink &&
           child.type === "element" &&
           child.tagName === "img" &&
           typeof child.properties?.src === "string"
         ) {
-          const src = child.properties.src;
-          const media = src.startsWith("http")
-            ? src
-            : `${SITE_URL}${src.startsWith("/") ? "" : "/"}${src}`;
+          const rawSrc = child.properties.src;
+          const media = rawSrc.startsWith("http")
+            ? rawSrc
+            : `${SITE_URL}${rawSrc.startsWith("/") ? "" : "/"}${rawSrc}`;
           const alt =
             typeof child.properties.alt === "string"
               ? child.properties.alt
               : "";
+          const srcSet = cloudinarySrcSet(rawSrc, [480, 800, 1200]);
+          child.properties = {
+            ...child.properties,
+            src: cloudinaryUrl(rawSrc, 1200),
+            ...(srcSet
+              ? {
+                  srcSet,
+                  sizes: "(max-width: 768px) 100vw, 768px",
+                }
+              : {}),
+            width: 1200,
+            height: 800,
+            loading: "lazy",
+            decoding: "async",
+          };
           const pinHref =
             "https://www.pinterest.com/pin/create/button/?" +
             `url=${encodeURIComponent(pageUrl)}` +
@@ -521,10 +586,11 @@ export async function getPost(slug: string): Promise<Post | null> {
   const { content } = matter(raw);
   const meta = metaFor(slug);
   const processed = await remark()
+    .use(remarkGfm)
     .use(remarkRehype)
     // Custom hast plugin: cast keeps unified's processor generics (typed
     // for the mdast input tree) from rejecting a hast-tree transformer.
-    .use(rehypePinButtons as never, {
+    .use(rehypeEnhanceArticle as never, {
       pageUrl: `${SITE_URL}/blog/${slug}`,
       pageTitle: meta.title,
     })

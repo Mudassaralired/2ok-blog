@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import type { PostMeta } from "@/lib/posts";
+import { cloudinarySrcSet, cloudinaryUrl } from "@/lib/cloudinary";
 
 /** Same output as lib/posts formatDate — kept local so this client
  *  component never imports the server-only posts module (fs). */
@@ -137,9 +138,14 @@ export default function BlogSearch({
               <div className="aspect-[16/10] overflow-hidden bg-sand">
                 {post.cover ? (
                   <img
-                    src={post.cover}
+                    src={cloudinaryUrl(post.cover, 800)}
+                    srcSet={cloudinarySrcSet(post.cover, [480, 800, 1200])}
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 380px"
                     alt={post.title}
+                    width={1200}
+                    height={800}
                     loading="lazy"
+                    decoding="async"
                     className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                   />
                 ) : (

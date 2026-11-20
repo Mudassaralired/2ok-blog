@@ -1,7 +1,8 @@
 ---
 title: "Picture Ledge Wall Decor: How to Install and Style Picture Ledges Like a Designer"
 date: "2026-10-30"
-excerpt: "Picture ledge wall decor done properly: the right length and depth, stud-strong installation, correct heights, and a layering formula that looks designer-made."
+updated: "2026-11-20"
+excerpt: "Picture ledge wall decor done properly: the right length and depth, stud-strong installation, correct heights."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/picture-ledge-wall-decor/cover"

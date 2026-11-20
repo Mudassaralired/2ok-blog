@@ -1,7 +1,8 @@
 ---
 title: "DIY Decorative Plate Wall Decor: 17 Ideas Under $30"
 date: "2026-11-07"
-excerpt: "DIY decorative plate wall decor on a thrifted budget: 17 ideas, painting and decoupage techniques, safe hanging, layouts and renter-friendly options under $30."
+updated: "2026-11-20"
+excerpt: "DIY decorative plate wall decor on a thrifted budget: 17 ideas, painting and decoupage techniques, safe hanging."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-plate-wall-decor/cover"

@@ -27,6 +27,20 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+section[id] {
+  scroll-margin-top: 7.5rem;
+}
+
+/* ---------- Header topics strip (no distracting horizontal scrollbar) ---------- */
+.topics-strip {
+  scrollbar-width: none;
+}
+@supports not (scrollbar-width: none) {
+  .topics-strip::-webkit-scrollbar {
+    display: none;
+  }
+}
+
 /* ---------- Article typography (markdown → HTML) ---------- */
 .article-body {
   font-size: 1.075rem;
@@ -43,6 +57,7 @@ body {
   color: var(--color-ink);
   margin-top: 2.2em;
   font-weight: 600;
+  scroll-margin-top: 7.5rem;
 }
 .article-body h3 {
   font-family: var(--font-display);
@@ -50,6 +65,14 @@ body {
   color: var(--color-ink);
   margin-top: 1.8em;
   font-weight: 600;
+  scroll-margin-top: 7.5rem;
+}
+@media (min-width: 768px) {
+  section[id],
+  .article-body h2,
+  .article-body h3 {
+    scroll-margin-top: 8.5rem;
+  }
 }
 .article-body p {
   margin-top: 1.2em;
@@ -94,13 +117,103 @@ body {
 .article-body img {
   border-radius: 0.9rem;
   margin-top: 2em;
+  height: auto;
+}
+
+/* ---------- Responsive GFM data tables ---------- */
+.table-wrapper {
+  --scrollbar-thumb: var(--color-clay-dark);
+  --scrollbar-track: var(--color-sand);
+  margin-top: 1.6em;
+  overflow-x: auto;
+  max-inline-size: 100%;
+  max-block-size: min(560px, 75vh);
+  container-type: inline-size;
+  border: 1px solid rgb(42 37 32 / 0.12);
+  border-radius: 0.9rem;
+  background: var(--color-parchment);
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+}
+.table-wrapper:focus-visible {
+  outline: 2px solid var(--color-clay-dark);
+  outline-offset: 2px;
+}
+@supports not (scrollbar-color: auto) {
+  .table-wrapper {
+    scrollbar-width: auto;
+  }
+  .table-wrapper::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  .table-wrapper::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thumb);
+    border-radius: 999px;
+  }
+  .table-wrapper::-webkit-scrollbar-track {
+    background: var(--scrollbar-track);
+  }
+}
+.article-body table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.94rem;
+  line-height: 1.5;
+  text-align: left;
+}
+.article-body thead {
+  position: sticky;
+  inset-block-start: 0;
+  z-index: 1;
+}
+.article-body thead th {
+  background: var(--color-sand);
+  color: var(--color-ink);
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.75rem 0.95rem;
+  border-bottom: 1px solid rgb(42 37 32 / 0.14);
+  white-space: nowrap;
+}
+.article-body tbody td,
+.article-body tbody th {
+  padding: 0.7rem 0.95rem;
+  border-bottom: 1px solid rgb(42 37 32 / 0.08);
+  vertical-align: top;
+  color: var(--color-ink-soft);
+}
+.article-body tbody tr:last-child td,
+.article-body tbody tr:last-child th {
+  border-bottom: none;
+}
+.article-body tbody tr:nth-child(even) td,
+.article-body tbody tr:nth-child(even) th {
+  background: rgb(241 232 219 / 0.35);
+}
+.article-body tbody td:first-child {
+  color: var(--color-ink);
+  font-weight: 500;
+}
+@container (width < 500px) {
+  .article-body table {
+    font-size: 0.86rem;
+  }
+  .article-body thead th,
+  .article-body tbody td,
+  .article-body tbody th {
+    padding: 0.55rem 0.7rem;
+  }
 }
 
 /* ---------- Pinterest "Pin it" buttons (article images) ----------
    Wrappers are added at build time: the hero cover in
    app/blog/[slug]/page.tsx and in-article images by the
-   rehypePinButtons plugin in lib/posts.ts. Buttons appear on hover
-   (desktop) and stay visible on touch devices. */
+   rehypeEnhanceArticle plugin in lib/posts.ts. Buttons appear on hover
+   (desktop) and stay subtle/compact on touch devices. */
 .pin-figure {
   position: relative;
   display: block;
@@ -108,6 +221,9 @@ body {
 .pin-figure img {
   display: block;
   width: 100%;
+}
+.article-body .pin-figure img {
+  height: auto;
 }
 .pin-btn {
   position: absolute;
@@ -137,7 +253,11 @@ body {
 }
 @media (hover: none) {
   .pin-btn {
-    opacity: 1;
+    opacity: 0.78;
+    top: 8px;
+    right: 8px;
+    padding: 5px 10px;
+    font-size: 11px;
   }
 }
 

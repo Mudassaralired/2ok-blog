@@ -1,16 +1,17 @@
 ---
 title: "DIY Cork Wall Decor: 15 Warm Natural Projects"
 date: "2026-11-16"
-excerpt: "DIY cork wall decor: 15 warm natural projects from £5, with cork tile, wine-cork and pin-board builds, cutting, sealing and hanging guides."
+updated: "2026-11-20"
+excerpt: "DIY cork wall decor: 15 warm natural projects from $6, with cork tile, wine-cork and pin-board builds, cutting, sealing and hanging guides."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-cork-wall-decor/cover"
 ---
 
-Cork is the warmest shortcut in wall decor: soft, naturally textured and far cheaper than wood panelling, it turns a plain wall into something calm in a single afternoon. These 15 wall-only projects use real cork, each with a real cost, time and difficulty rating.
+Cork is the warmest shortcut in wall decor: soft, naturally textured and far cheaper than wood paneling, it turns a plain wall into something calm in a single afternoon. These 15 wall-only projects use real cork, each with a real cost, time and difficulty rating.
 
 > **Key Takeaways**
-> - Every project here costs £5 to £40, and most take under three hours.
+> - Every project here costs $6 to $50, and most take under three hours.
 > - Tiles suit feature walls; sheets suit pin boards; wine corks cost almost nothing.
 > - Cut cork with a sharp craft knife — blunt blades tear the edges.
 > - Seal cork in kitchens and bathrooms, or it will stain.
@@ -35,73 +36,73 @@ Cork is the warmest shortcut in wall decor: soft, naturally textured and far che
 
 ### 1. Hexagon cork tile feature wall
 
-Stick self-adhesive hexagon cork tiles as a honeycomb across one wall, mixing natural and terracotta tiles. Cost: £18 to £30. Time: 3 to 4 hours. Difficulty: moderate. A 2 square metre panel weighs about 3 kg, so the adhesive holds it.
+Stick self-adhesive hexagon cork tiles as a honeycomb across one wall, mixing natural and terracotta tiles. Cost: $22 to $40. Time: 3 to 4 hours. Difficulty: moderate. A 2 square metre panel weighs about 3 kg, so the adhesive holds it.
 
 ### 2. Full cork roll accent wall
 
-Glue a 4 mm cork roll to one wall as a warm backdrop behind a sofa or bed. Cost: £25 to £40. Time: 4 hours. Difficulty: moderate. A 3 metre roll weighs about 5 kg, so use cork adhesive, not spray glue. The [rustic wall decor ideas](/blog/rustic-wall-decor-ideas) guide pairs a full cork wall with reclaimed wood.
+Glue a 4 mm cork roll to one wall as a warm backdrop behind a sofa or bed. Cost: $30 to $50. Time: 4 hours. Difficulty: moderate. A 3 metre roll weighs about 5 kg, so use cork adhesive, not spray glue. The [rustic wall decor ideas](/blog/rustic-wall-decor-ideas) guide pairs a full cork wall with reclaimed wood.
 
 ### 3. Cork tile half-wall wainscot
 
-Run square cork tiles to chair-rail height, about 90 cm, and finish the top with a slim wooden batten. Cost: £12 to £20. Time: 2 to 3 hours. Difficulty: easy. Tiles weigh under 2 kg per square metre, so adhesive holds them.
+Run square cork tiles to chair-rail height, about 90 cm, and finish the top with a slim wooden batten. Cost: $15 to $25. Time: 2 to 3 hours. Difficulty: easy. Tiles weigh under 2 kg per square metre, so adhesive holds them.
 
 ### 4. Geometric cork tile mosaic
 
-Cut square tiles into triangles and diamonds and lay them in a repeating pattern with a contrasting gap. Cost: £15 to £24. Time: 3 hours. Difficulty: moderate. Plan it on the floor first: a 1 square metre mosaic uses about 16 tiles.
+Cut square tiles into triangles and diamonds and lay them in a repeating pattern with a contrasting gap. Cost: $20 to $30. Time: 3 hours. Difficulty: moderate. Plan it on the floor first: a 1 square metre mosaic uses about 16 tiles.
 
 ### 5. Cork tile picture-rail band
 
-Fix a 20 cm band of cork tiles just below the ceiling or above a doorway, like a warm timber frieze. Cost: £8 to £14. Time: 1 to 2 hours. Difficulty: easy. A 3 metre band weighs under 1 kg, so adhesive strips hold it.
+Fix a 20 cm band of cork tiles just below the ceiling or above a doorway, like a warm timber frieze. Cost: $10 to $18. Time: 1 to 2 hours. Difficulty: easy. A 3 metre band weighs under 1 kg, so adhesive strips hold it.
 
 ## Pin Boards and Notice Walls
 
 ### 6. Classic framed cork pin board
 
-Glue a 6 mm cork sheet into a thrifted wooden frame and add a sawtooth hanger. Cost: £10 to £16. Time: 1 to 2 hours. Difficulty: easy. A 60 × 80 cm board weighs about 1.5 kg.
+Glue a 6 mm cork sheet into a thrifted wooden frame and add a sawtooth hanger. Cost: $12 to $20. Time: 1 to 2 hours. Difficulty: easy. A 60 × 80 cm board weighs about 1.5 kg.
 
 ### 7. Fabric-covered corkboard
 
-Stretch sage or cream linen over a cork sheet, stapling it tight at the back. Cost: £12 to £19. Time: 2 hours. Difficulty: easy. The fabric softens the speckled look and takes pins cleanly, and the board still weighs under 2 kg. The [DIY fabric wall art](/blog/diy-fabric-wall-art) guide covers stretching fabric drum-tight.
+Stretch sage or cream linen over a cork sheet, stapling it tight at the back. Cost: $15 to $24. Time: 2 hours. Difficulty: easy. The fabric softens the speckled look and takes pins cleanly, and the board still weighs under 2 kg. The [DIY fabric wall art](/blog/diy-fabric-wall-art) guide covers stretching fabric drum-tight.
 
 ![A sage linen fabric-covered cork pin board hung above a light oak desk in a bright home office, with pinned photos and notes, a terracotta plant pot and a notebook](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-cork-wall-decor/in-article-2)
 
 ### 8. Full pin-board wall for a home office
 
-Cover a desk-width wall — about 150 × 90 cm — with cork sheets, trimmed flush and edged with thin oak batten. Cost: £20 to £32. Time: 3 to 4 hours. Difficulty: moderate. The sheets weigh 3 to 4 kg, so use adhesive plus screws into studs. The [home office wall decor ideas](/blog/home-office-wall-decor-ideas) guide shows how a pin-board wall anchors a small workspace.
+Cover a desk-width wall — about 150 × 90 cm — with cork sheets, trimmed flush and edged with thin oak batten. Cost: $25 to $40. Time: 3 to 4 hours. Difficulty: moderate. The sheets weigh 3 to 4 kg, so use adhesive plus screws into studs. The [home office wall decor ideas](/blog/home-office-wall-decor-ideas) guide shows how a pin-board wall anchors a small workspace.
 
 ### 9. Cork tile memo grid
 
-Stick six 30 × 30 cm cork tiles in a 3 × 2 grid by the front door or in the kitchen, with a finger-width gap between tiles. Cost: £9 to £15. Time: 1 hour. Difficulty: easy. The grid weighs under 2 kg, so adhesive holds it.
+Stick six 30 × 30 cm cork tiles in a 3 × 2 grid by the front door or in the kitchen, with a finger-width gap between tiles. Cost: $11 to $20. Time: 1 hour. Difficulty: easy. The grid weighs under 2 kg, so adhesive holds it.
 
 ## Wine Cork Art
 
 ### 10. Wine-cork herringbone panel
 
-Glue saved wine corks in a herringbone pattern onto plywood, alternating light and dark corks. Cost: £5 to £12. Time: 3 hours. Difficulty: moderate. You need about 90 corks for a 60 × 60 cm panel, which weighs 1 to 2 kg, so use two screw hooks. Ask friends and restaurants to save corks.
+Glue saved wine corks in a herringbone pattern onto plywood, alternating light and dark corks. Cost: $6 to $15. Time: 3 hours. Difficulty: moderate. You need about 90 corks for a 60 × 60 cm panel, which weighs 1 to 2 kg, so use two screw hooks. Ask friends and restaurants to save corks.
 
 ![Hands arranging natural wine corks in a herringbone pattern on a wooden craft table, with ceramic bowls of corks, a cork sheet and a craft knife nearby](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-cork-wall-decor/in-article-1)
 
 ### 11. Wine-cork monogram letter
 
-Cut a large letter from plywood, then glue wine corks upright across its face. Cost: £6 to £11. Time: 2 hours. Difficulty: easy. A 45 cm letter uses about 40 corks and weighs under 1 kg, so one screw hook holds it. The [DIY wooden sign wall decor](/blog/diy-wooden-sign-wall-decor) guide covers cutting the letter cleanly.
+Cut a large letter from plywood, then glue wine corks upright across its face. Cost: $8 to $14. Time: 2 hours. Difficulty: easy. A 45 cm letter uses about 40 corks and weighs under 1 kg, so one screw hook holds it. The [DIY wooden sign wall decor](/blog/diy-wooden-sign-wall-decor) guide covers cutting the letter cleanly.
 
 ### 12. Wine-cork heart or map silhouette
 
-Fill a heart or county-shaped outline with halved corks, cut side down, for a flat mosaic. Cost: £8 to £14. Time: 2 to 3 hours. Difficulty: moderate. Halving corks doubles your supply and halves the weight — a 50 cm heart weighs under 1 kg.
+Fill a heart or county-shaped outline with halved corks, cut side down, for a flat mosaic. Cost: $10 to $18. Time: 2 to 3 hours. Difficulty: moderate. Halving corks doubles your supply and halves the weight — a 50 cm heart weighs under 1 kg.
 
 ## Framed Cork Pieces
 
 ### 13. Cork-and-wood shadow box display
 
-Line a deep box frame with cork, then pin dried botanicals, ticket stubs and keepsakes onto it. Cost: £14 to £22. Time: 2 to 3 hours. Difficulty: moderate. A 50 × 60 cm shadow box weighs 2 to 3 kg, so use two screw hooks. The [DIY shadow box wall decor](/blog/diy-shadow-box-wall-decor) guide shows how to build depth without crowding the frame.
+Line a deep box frame with cork, then pin dried botanicals, ticket stubs and keepsakes onto it. Cost: $18 to $28. Time: 2 to 3 hours. Difficulty: moderate. A 50 × 60 cm shadow box weighs 2 to 3 kg, so use two screw hooks. The [DIY shadow box wall decor](/blog/diy-shadow-box-wall-decor) guide shows how to build depth without crowding the frame.
 
 ### 14. Cork-backed pegboard hybrid
 
-Fix a cork sheet behind a small pegboard so the holes reveal warm cork, then add hooks, a shelf and a plant. Cost: £16 to £25. Time: 3 hours. Difficulty: moderate. The pair weighs 3 to 4 kg loaded, so fix it to studs or use two wall plugs. The [DIY pegboard wall decor](/blog/diy-pegboard-wall-decor) guide covers spacing hooks so the board stays useful.
+Fix a cork sheet behind a small pegboard so the holes reveal warm cork, then add hooks, a shelf and a plant. Cost: $20 to $30. Time: 3 hours. Difficulty: moderate. The pair weighs 3 to 4 kg loaded, so fix it to studs or use two wall plugs. The [DIY pegboard wall decor](/blog/diy-pegboard-wall-decor) guide covers spacing hooks so the board stays useful.
 
 ### 15. Cork strip art with dried botanicals
 
-Glue vertical cork strips of different widths onto a painted board, then tuck dried lavender and eucalyptus between them. Cost: £10 to £16. Time: 2 hours. Difficulty: easy. A 60 × 80 cm piece weighs about 1.5 kg. The [DIY wall decor ideas](/blog/diy-wall-decor-ideas) pillar shows how one natural piece anchors a wall.
+Glue vertical cork strips of different widths onto a painted board, then tuck dried lavender and eucalyptus between them. Cost: $12 to $20. Time: 2 hours. Difficulty: easy. A 60 × 80 cm piece weighs about 1.5 kg. The [DIY wall decor ideas](/blog/diy-wall-decor-ideas) pillar shows how one natural piece anchors a wall.
 
 ## Choosing Your Cork
 
@@ -111,26 +112,26 @@ Thickness matters. Thin cork under 3 mm curls and shows every bump in the wall b
 
 | Cork form | Thickness | Best for | Typical cost |
 | --- | --- | --- | --- |
-| Sheet | 3–6 mm | Pin boards, frames | £6–£12 per sheet |
-| Tile | 4–6 mm | Feature walls, mosaics | £8–£15 per pack |
-| Roll | 2–4 mm | Accent walls | £20–£35 per roll |
+| Sheet | 3–6 mm | Pin boards, frames | $8–$15 per sheet |
+| Tile | 4–6 mm | Feature walls, mosaics | $10–$20 per pack |
+| Roll | 2–4 mm | Accent walls | $25–$45 per roll |
 | Wine corks | 24 mm diameter | Mosaics, letters | Free |
 
 ## Cutting Cork Cleanly
 
-Cork cuts beautifully with a sharp blade and crumbles badly with a blunt one, so the knife matters most. Use a fresh craft-knife blade and a steel ruler, and change the blade as soon as it drags — a pack costs £2 and saves a ruined sheet. Score lightly first, then cut in shallow passes.
+Cork cuts beautifully with a sharp blade and crumbles badly with a blunt one, so the knife matters most. Use a fresh craft-knife blade and a steel ruler, and change the blade as soon as it drags — a pack costs $3 and saves a ruined sheet. Score lightly first, then cut in shallow passes.
 
 Always cut on a mat or scrap board, from the back of the tile — the back is flat and the ruler sits true. For curves, use a fine-toothed craft saw or heavy scissors, then sand the edge with 120-grit paper. Slice wine corks lengthways with a sharp kitchen knife and a batten guide so every half matches, and never use a serrated bread knife: it tears the grain.
 
 ## Painting and Sealing Cork
 
-Cork takes colour well, but it drinks paint, so prime first. A thin coat of water-based primer or diluted PVA seals the pores and stops the first coat disappearing. Then use water-based emulsion or acrylic — oil-based paint sits on the surface and flakes where pins go in. Two thin coats beat one thick one.
+Cork takes color well, but it drinks paint, so prime first. A thin coat of water-based primer or diluted PVA seals the pores and stops the first coat disappearing. Then use water-based emulsion or acrylic — oil-based paint sits on the surface and flakes where pins go in. Two thin coats beat one thick one.
 
 Stain suits cork better than paint when you want the texture to show. A water-based stain in walnut, oak or terracotta sinks into the grain and keeps the speckled look — but test on a scrap first, because cork darkens more than wood. Seal cork bound for a kitchen, bathroom or hallway: two coats of clear water-based polyurethane stop steam, splashes and fingerprints staining it. Leave it a full day to cure before pinning into it.
 
 ## Sizing and Layout
 
-Cork is visually quiet, so size it generously: a pin board that is too small looks like a notice lost on a wall. A single piece should cover roughly two-thirds of the furniture below it — above a 180 cm sofa, aim for about 120 cm. Hang the centre at about 145 cm, average eye level.
+Cork is visually quiet, so size it generously: a pin board that is too small looks like a notice lost on a wall. A single piece should cover roughly two-thirds of the furniture below it — above a 180 cm sofa, aim for about 120 cm. Hang the center at about 145 cm, average eye level.
 
 For a feature wall, cover the full wall or stop at a natural break — a doorway, a ceiling line or furniture. A half-finished cork wall looks like a job abandoned. For a gallery, keep gaps of 5 to 8 cm and mix one large piece with two small ones. The [DIY wall decor guide](/blog/diy-wall-decor-guide) shows how to balance a bold natural piece against paler walls.
 
@@ -162,7 +163,7 @@ The third mistake is gluing tiles to a dirty or damp wall. Cork adhesive bonds t
 
 ### How much does DIY cork wall decor cost?
 
-Most projects cost £5 to £40. A wine-cork herringbone panel costs £5 to £12, a pin board £10 to £16, and a hexagon tile feature wall £18 to £30.
+Most projects cost $6 to $50. A wine-cork herringbone panel costs $6 to $15, a pin board $12 to $20, and a hexagon tile feature wall $22 to $40.
 
 ### Can I hang cork wall decor without damaging the wall?
 

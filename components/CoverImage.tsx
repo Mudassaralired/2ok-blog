@@ -1,9 +1,9 @@
 import { coverAlt } from "@/lib/posts";
+import { cloudinarySrcSet, cloudinaryUrl } from "@/lib/cloudinary";
 
 /**
- * Cover image with branded fallback. When a post has no cover yet
- * (owner supplies polished images separately), renders a terracotta
- * brand placeholder instead of a broken image.
+ * Cover image with branded fallback, responsive Cloudinary srcset, and
+ * explicit intrinsic dimensions (3:2) to eliminate CLS.
  */
 export default function CoverImage({
   src,
@@ -12,6 +12,8 @@ export default function CoverImage({
   className = "h-full w-full object-cover",
   imgClassName,
   eager = false,
+  defaultWidth = 1200,
+  sizes = "(max-width: 768px) 100vw, 768px",
 }: {
   src: string;
   slug: string;
@@ -19,6 +21,8 @@ export default function CoverImage({
   className?: string;
   imgClassName?: string;
   eager?: boolean;
+  defaultWidth?: number;
+  sizes?: string;
 }) {
   if (!src) {
     return (
@@ -31,16 +35,25 @@ export default function CoverImage({
           src="/logo-mark.svg"
           alt=""
           aria-hidden="true"
+          width={64}
+          height={64}
           className="h-16 w-16 opacity-90"
         />
       </div>
     );
   }
+  const optimizedSrc = cloudinaryUrl(src, defaultWidth);
+  const srcSet = cloudinarySrcSet(src, [480, 800, 1200]);
   return (
     <img
-      src={src}
+      src={optimizedSrc}
+      srcSet={srcSet}
+      sizes={srcSet ? sizes : undefined}
       alt={coverAlt(slug, title)}
+      width={1200}
+      height={800}
       loading={eager ? "eager" : "lazy"}
+      decoding={eager ? "sync" : "async"}
       fetchPriority={eager ? "high" : undefined}
       className={imgClassName ?? className}
     />

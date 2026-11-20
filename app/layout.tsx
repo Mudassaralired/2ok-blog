@@ -43,8 +43,16 @@ export const metadata: Metadata = {
     { name: "Mudassar Ali", url: `${SITE_URL}/author/mudassar-ali` },
   ],
   icons: {
-    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
+    icon: [
+      { url: "/favicon.ico", sizes: "48x48 32x32 16x16" },
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/icon-48.png", sizes: "48x48", type: "image/png" },
+      { url: "/icon-96.png", sizes: "96x96", type: "image/png" },
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
   },
+  manifest: "/site.webmanifest",
   openGraph: {
     type: "website",
     siteName: SITE_NAME,
@@ -89,6 +97,14 @@ export default function RootLayout({
       lang="en"
       className={`${display.variable} ${bodyFont.variable} h-full antialiased`}
     >
+      <head>
+        <link
+          rel="preconnect"
+          href="https://res.cloudinary.com"
+          crossOrigin="anonymous"
+        />
+        <link rel="dns-prefetch" href="https://res.cloudinary.com" />
+      </head>
       <body className="flex min-h-full flex-col">
         <Script
           async

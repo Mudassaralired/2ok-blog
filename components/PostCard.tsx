@@ -14,6 +14,8 @@ export default function PostCard({ post }: { post: PostMeta }) {
           src={post.cover}
           slug={post.slug}
           title={post.title}
+          defaultWidth={800}
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 380px"
           imgClassName="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
         />
       </div>

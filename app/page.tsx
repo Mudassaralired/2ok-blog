@@ -16,6 +16,7 @@ export default function HomePage() {
         "@id": `${SITE_URL}#website`,
         url: SITE_URL,
         name: "2ok Home",
+        alternateName: "2ok.lol",
         publisher: { "@type": "Organization", "@id": `${SITE_URL}#organization` },
         potentialAction: {
           "@type": "SearchAction",
@@ -31,6 +32,13 @@ export default function HomePage() {
         "@id": `${SITE_URL}#organization`,
         name: "2ok Home",
         url: SITE_URL,
+        logo: {
+          "@type": "ImageObject",
+          "@id": `${SITE_URL}#logo`,
+          url: `${SITE_URL}/icon-192.png`,
+          width: 192,
+          height: 192,
+        },
         sameAs: [
           "https://www.instagram.com/2ok.home/",
           "https://www.pinterest.com/2okhome/",
@@ -46,28 +54,28 @@ export default function HomePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       {/* Hero */}
-      <section className="mx-auto max-w-6xl px-5 pb-14 pt-16 md:pt-24">
+      <section className="mx-auto max-w-6xl px-5 pb-8 pt-8 md:pb-14 md:pt-20">
         <p className="text-xs font-semibold uppercase tracking-[0.22em] text-clay-dark">
           Home decor &amp; DIY ideas
         </p>
-        <h1 className="mt-4 max-w-3xl font-display text-4xl font-bold leading-[1.1] tracking-tight md:text-6xl">
+        <h1 className="mt-3 max-w-3xl font-display text-3xl font-bold leading-[1.1] tracking-tight md:mt-4 md:text-6xl">
           Make your home feel like <em className="text-clay-dark">you</em>.
         </h1>
-        <p className="mt-5 max-w-xl text-lg leading-relaxed text-ink-soft">
+        <p className="mt-3.5 max-w-xl text-base leading-relaxed text-ink-soft md:mt-5 md:text-lg">
           Simple, warm decorating ideas you can actually do — seasonal
           inspiration, small-space tricks, and budget-friendly DIY projects.
           No interior-design degree required.
         </p>
-        <div className="mt-8 flex flex-wrap gap-4">
+        <div className="mt-6 flex flex-wrap gap-3 md:mt-8 md:gap-4">
           <Link
             href="/blog"
-            className="rounded-full bg-ink px-7 py-3.5 text-sm font-semibold text-cream transition-colors hover:bg-clay-dark"
+            className="rounded-full bg-ink px-6 py-3 text-sm font-semibold text-cream transition-colors hover:bg-clay-dark md:px-7 md:py-3.5"
           >
             Browse all ideas
           </Link>
           <Link
             href="#topics"
-            className="rounded-full border border-ink/20 px-7 py-3.5 text-sm font-semibold text-ink transition-colors hover:border-clay hover:text-clay-dark"
+            className="rounded-full border border-ink/20 px-6 py-3 text-sm font-semibold text-ink transition-colors hover:border-clay hover:text-clay-dark md:px-7 md:py-3.5"
           >
             Explore topics
           </Link>
@@ -76,7 +84,7 @@ export default function HomePage() {
 
       {/* Featured article */}
       {featured && (
-        <section className="mx-auto max-w-6xl px-5 pb-16">
+        <section className="mx-auto max-w-6xl px-5 pb-12 md:pb-16">
           <Link
             href={`/blog/${featured.slug}`}
             className="group grid overflow-hidden rounded-3xl border border-ink/10 bg-parchment md:grid-cols-2"
@@ -86,6 +94,9 @@ export default function HomePage() {
                 src={featured.cover}
                 slug={featured.slug}
                 title={featured.title}
+                eager
+                defaultWidth={800}
+                sizes="(max-width: 768px) 100vw, 560px"
                 imgClassName="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
               />
             </div>

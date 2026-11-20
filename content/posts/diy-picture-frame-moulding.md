@@ -1,6 +1,7 @@
 ---
 title: "DIY Picture Frame Moulding: An $82 Built-In Look"
 date: "2026-10-20"
+updated: "2026-11-20"
 excerpt: "Exact spacing rules, the tape-first layout trick, real material costs, and the caulk step that separates built-in from glued-on."
 category: "DIY Projects"
 cluster: "wall-decor"
@@ -18,7 +19,7 @@ This is the project currently filling Pinterest boards for a reason — it photo
 > - **The make-or-break step:** caulk and filler. Skip it and the boxes look glued on; do it and they look original to the house
 
 ## Table of Contents
-- [What picture frame moulding actually is](#what-picture-frame-moulding-actually-is)
+- [What picture frame moulding is (and is not)](#what-picture-frame-moulding-is-and-is-not)
 - [The spacing rules that make it look professional](#the-spacing-rules-that-make-it-look-professional)
 - [Materials and what they actually cost](#materials-and-what-they-actually-cost)
 - [Tools: what you need and what you can skip](#tools-what-you-need-and-what-you-can-skip)

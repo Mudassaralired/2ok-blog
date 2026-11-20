@@ -1,7 +1,8 @@
 ---
 title: "DIY Wood Slice Wall Art: From Raw Log to Finished Wall Display"
 date: "2026-10-30"
-excerpt: "DIY wood slice wall art done properly: sourcing and drying slices without cracks, sanding and sealing, plus 8 designs from natural clusters to wood-burned panels."
+updated: "2026-11-20"
+excerpt: "DIY wood slice wall art done properly: sourcing and drying slices without cracks, sanding and sealing, plus 8 designs from natural clusters to."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-wood-slice-wall-art/cover"

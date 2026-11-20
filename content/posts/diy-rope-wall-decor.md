@@ -1,7 +1,8 @@
 ---
 title: "DIY Rope Wall Decor: 15 Nautical & Boho Projects"
 date: "2026-11-16"
-excerpt: "DIY rope wall decor: 15 nautical and boho projects from £5, with rope types, knot guides, costs, times and hanging rules by weight."
+updated: "2026-11-20"
+excerpt: "DIY rope wall decor: 15 nautical and boho projects from $6, with rope types, knot guides, costs, times and hanging rules by weight."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-rope-wall-decor/cover"
@@ -10,7 +11,7 @@ cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/
 Rope is the cheapest way to give a bare wall real texture: a few metres of jute or cotton, four knots and an afternoon, and you have wall art that looks bought, not made. These 15 projects are all wall-only, from a one-hour knot to a full statement piece, and each one lists a real cost, time and difficulty so you can choose with confidence.
 
 > **Key Takeaways**
-> - Every project here costs £5 to £24, and most take under three hours.
+> - Every project here costs $6 to $30, and most take under three hours.
 > - Jute suits nautical and rustic rooms; soft cotton suits boho rainbows and word signs.
 > - Four knots — overhand, square, clove hitch and bowline — cover every project in this guide.
 > - Weigh the finished piece, then use hardware rated for twice that weight.
@@ -34,83 +35,83 @@ Rope is the cheapest way to give a bare wall real texture: a few metres of jute 
 
 ### 1. Sailor-knot wall art
 
-Tie a large monkey's fist knot from 10 mm jute rope and hang it from a wooden peg. Cost: £5 to £8. Time: 1 hour. Difficulty: easy. It weighs about 200 g, so one adhesive hook holds it.
+Tie a large monkey's fist knot from 10 mm jute rope and hang it from a wooden peg. Cost: $6 to $10. Time: 1 hour. Difficulty: easy. It weighs about 200 g, so one adhesive hook holds it.
 
 ### 2. Rope rainbow
 
-Wrap three cotton rope arcs in cream, terracotta and sage, stitch them together, and comb out the ends into fringe. Cost: £9 to £14. Time: 2 hours. Difficulty: easy. It weighs under 400 g, so one adhesive hook is enough. The [boho wall decor ideas](/blog/boho-wall-decor-ideas) guide shows how rainbows sit alongside rattan and linen.
+Wrap three cotton rope arcs in cream, terracotta and sage, stitch them together, and comb out the ends into fringe. Cost: $11 to $18. Time: 2 hours. Difficulty: easy. It weighs under 400 g, so one adhesive hook is enough. The [boho wall decor ideas](/blog/boho-wall-decor-ideas) guide shows how rainbows sit alongside rattan and linen.
 
 ### 3. Coiled rope sunburst
 
-Glue jute rope into a tight spiral centre, then glue looped rays around it to form a sunburst. Cost: £12 to £18. Time: 3 hours. Difficulty: moderate. It weighs 1 to 2 kg, so use two screw hooks.
+Glue jute rope into a tight spiral center, then glue looped rays around it to form a sunburst. Cost: $15 to $22. Time: 3 hours. Difficulty: moderate. It weighs 1 to 2 kg, so use two screw hooks.
 
 ### 4. Rope-wrapped hoop art
 
-Wrap a 30 cm embroidery hoop in 6 mm cotton rope, add dried grass in the centre, and hang it from a rope loop. Cost: £6 to £10. Time: 1 to 2 hours. Difficulty: easy. It weighs under 500 g, so one large adhesive hook holds it.
+Wrap a 30 cm embroidery hoop in 6 mm cotton rope, add dried grass in the center, and hang it from a rope loop. Cost: $8 to $12. Time: 1 to 2 hours. Difficulty: easy. It weighs under 500 g, so one large adhesive hook holds it.
 
 ![Hands tying a sailor knot in thick natural cotton rope on a light oak craft table, with a coiled rope, brass scissors, a wooden dowel and a rope word sign spelling HOME nearby](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-rope-wall-decor/in-article-1)
 
 ### 5. Rope tassel wall hanging
 
-Knot twelve strands of 8 mm cotton rope over a wooden dowel and comb out the ends into tassels. Cost: £7 to £11. Time: 1 hour. Difficulty: easy. It weighs about 500 g, so one screw hook holds it. The [macrame wall hanging](/blog/macrame-wall-hanging) guide builds the same shape with knotted patterns.
+Knot twelve strands of 8 mm cotton rope over a wooden dowel and comb out the ends into tassels. Cost: $9 to $14. Time: 1 hour. Difficulty: easy. It weighs about 500 g, so one screw hook holds it. The [macrame wall hanging](/blog/macrame-wall-hanging) guide builds the same shape with knotted patterns.
 
 ## Statement Rope Wall Art
 
 ### 6. Rope word sign
 
-Bend 10 mm cotton rope into a word such as HOME, glue it to a painted plywood board, and trim the ends. Cost: £10 to £16. Time: 2 to 3 hours. Difficulty: moderate. It weighs 1 to 2 kg, so use two screw hooks.
+Bend 10 mm cotton rope into a word such as HOME, glue it to a painted plywood board, and trim the ends. Cost: $12 to $20. Time: 2 to 3 hours. Difficulty: moderate. It weighs 1 to 2 kg, so use two screw hooks.
 
 ### 7. Rope-wrapped mirror
 
-Glue three rings of thick jute rope around a round mirror, binding each ring with twine where the ends meet. Cost: £14 to £20. Time: 2 to 3 hours. Difficulty: moderate. It weighs 3 to 4 kg, so hang it from a stud or two heavy-duty wall plugs.
+Glue three rings of thick jute rope around a round mirror, binding each ring with twine where the ends meet. Cost: $18 to $25. Time: 2 to 3 hours. Difficulty: moderate. It weighs 3 to 4 kg, so hang it from a stud or two heavy-duty wall plugs.
 
 ### 8. Rope shelf
 
-Drill four holes in a 60 cm pine board, thread 10 mm jute rope through, and knot it above and below the board. Cost: £12 to £18. Time: 1 to 2 hours. Difficulty: easy. It weighs 2 to 3 kg loaded, so hang it from two screw hooks.
+Drill four holes in a 60 cm pine board, thread 10 mm jute rope through, and knot it above and below the board. Cost: $15 to $22. Time: 1 to 2 hours. Difficulty: easy. It weighs 2 to 3 kg loaded, so hang it from two screw hooks.
 
 ### 9. Rope ladder wall display
 
-Tie two vertical ropes with five wooden rungs between them, then clip photos to the rungs with small pegs. Cost: £10 to £15. Time: 2 hours. Difficulty: moderate. It weighs under 1 kg, so two screw hooks hold it.
+Tie two vertical ropes with five wooden rungs between them, then clip photos to the rungs with small pegs. Cost: $12 to $20. Time: 2 hours. Difficulty: moderate. It weighs under 1 kg, so two screw hooks hold it.
 
 ### 10. Coiled rope anchor
 
-Bend and glue thick jute rope into an anchor shape on a painted board, adding a driftwood crossbar at the top. Cost: £11 to £16. Time: 3 hours. Difficulty: moderate. It weighs 1 to 2 kg, so use two screw hooks.
+Bend and glue thick jute rope into an anchor shape on a painted board, adding a driftwood crossbar at the top. Cost: $14 to $20. Time: 3 hours. Difficulty: moderate. It weighs 1 to 2 kg, so use two screw hooks.
 
 ## Rope Shelves, Mirrors and Word Signs
 
 ### 11. Rope and driftwood wall hanging
 
-Hang five strands of jute rope in different lengths from a driftwood branch, knotting a bead at the end of each. Cost: £9 to £14. Time: 2 hours. Difficulty: easy. It weighs about 800 g, so one screw hook holds it. The [DIY driftwood wall decor](/blog/diy-driftwood-wall-decor) guide covers choosing and cleaning the branch.
+Hang five strands of jute rope in different lengths from a driftwood branch, knotting a bead at the end of each. Cost: $11 to $18. Time: 2 hours. Difficulty: easy. It weighs about 800 g, so one screw hook holds it. The [DIY driftwood wall decor](/blog/diy-driftwood-wall-decor) guide covers choosing and cleaning the branch.
 
 ![A round mirror wrapped in thick natural jute rope above a wooden shelf hung by rope straps, holding a potted eucalyptus plant and a ceramic vase with dried grasses in a bright hallway](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-rope-wall-decor/in-article-2)
 
 ### 12. Wall-mounted rope plant hanger
 
-Fix a small wall bracket, then hang a knotted rope plant hanger from it. Cost: £8 to £12. Time: 1 hour. Difficulty: easy. It weighs 1 to 2 kg potted, so use a screw hook or a bracket rated for 5 kg.
+Fix a small wall bracket, then hang a knotted rope plant hanger from it. Cost: $10 to $15. Time: 1 hour. Difficulty: easy. It weighs 1 to 2 kg potted, so use a screw hook or a bracket rated for 5 kg.
 
 ### 13. Rope-wrapped wall sconce
 
-Wrap a small metal wall sconce in 6 mm jute rope, then set a glass jar with an LED candle inside. Cost: £8 to £13. Time: 1 hour. Difficulty: easy. It weighs under 1 kg, so one screw hook holds it. Use an LED candle only: a real flame and dry rope must never share a wall.
+Wrap a small metal wall sconce in 6 mm jute rope, then set a glass jar with an LED candle inside. Cost: $10 to $16. Time: 1 hour. Difficulty: easy. It weighs under 1 kg, so one screw hook holds it. Use an LED candle only: a real flame and dry rope must never share a wall.
 
 ### 14. Rope knot garland swag
 
-Tie overhand and figure-eight knots along a 150 cm length of jute rope, then drape it in a U-shape across a mantel or wide wall. Cost: £6 to £9. Time: 45 minutes. Difficulty: easy. It weighs about 400 g, so two small adhesive hooks at the ends are enough.
+Tie overhand and figure-eight knots along a 150 cm length of jute rope, then drape it in a U-shape across a mantel or wide wall. Cost: $8 to $11. Time: 45 minutes. Difficulty: easy. It weighs about 400 g, so two small adhesive hooks at the ends are enough.
 
 ### 15. Oversized coiled rope wall disc
 
-Glue 12 mm jute rope into a flat 80 cm spiral disc, then add a ring of contrasting cotton rope around the edge. Cost: £15 to £24. Time: 3 to 4 hours. Difficulty: moderate. It weighs 2 to 3 kg, so use two screw hooks. The [DIY woven wall hanging ideas](/blog/diy-woven-wall-hanging-ideas) guide shows how bold rope pieces pair with woven panels.
+Glue 12 mm jute rope into a flat 80 cm spiral disc, then add a ring of contrasting cotton rope around the edge. Cost: $20 to $30. Time: 3 to 4 hours. Difficulty: moderate. It weighs 2 to 3 kg, so use two screw hooks. The [DIY woven wall hanging ideas](/blog/diy-woven-wall-hanging-ideas) guide shows how bold rope pieces pair with woven panels.
 
 ## Choosing Your Rope: Jute, Cotton and Sisal
 
-Jute is rough, golden-brown and stiff, the natural pick for nautical and rustic pieces: sunbursts, anchors, mirrors and shelves. It holds a coil well and costs about £4 to £6 for 10 metres of 10 mm rope. Cotton rope is soft, pale and flexible, which suits boho pieces: rainbows, word signs, tassels and hoop art. It bends into tight letters without springing back and costs about £5 to £8 for 10 metres. Sisal is the roughest of the three, pale gold with a prickly feel, best for small rustic accents. It costs about £4 to £6 for 10 metres, frays easily, so seal cut ends with glue or tape.
+Jute is rough, golden-brown and stiff, the natural pick for nautical and rustic pieces: sunbursts, anchors, mirrors and shelves. It holds a coil well and costs about $5 to $8 for 10 metres of 10 mm rope. Cotton rope is soft, pale and flexible, which suits boho pieces: rainbows, word signs, tassels and hoop art. It bends into tight letters without springing back and costs about $6 to $10 for 10 metres. Sisal is the roughest of the three, pale gold with a prickly feel, best for small rustic accents. It costs about $5 to $8 for 10 metres, frays easily, so seal cut ends with glue or tape.
 
 Thickness matters as much as material. Thin rope of 4 to 6 mm suits wrapping, small knots and detail work. Medium rope of 8 to 10 mm is the all-rounder for shelves and word signs. Thick rope of 12 mm and over suits statement coils and heavy shelves, but it resists tight bends, so do not choose it for word signs.
 
 | Rope type | Best for | Cost per 10 m | Feel |
 | --- | --- | --- | --- |
-| Jute | Sunbursts, anchors, mirrors, shelves | £4–£6 | Rough, stiff, golden |
-| Cotton | Rainbows, word signs, tassels, hoops | £5–£8 | Soft, pale, flexible |
-| Sisal | Rustic accents | £4–£6 | Rough, prickly, pale gold |
+| Jute | Sunbursts, anchors, mirrors, shelves | $5–$8 | Rough, stiff, golden |
+| Cotton | Rainbows, word signs, tassels, hoops | $6–$10 | Soft, pale, flexible |
+| Sisal | Rustic accents | $5–$8 | Rough, prickly, pale gold |
 
 ## Four Essential Knots Every Rope Project Uses
 
@@ -124,7 +125,7 @@ Knotting suits anything that hangs, flexes or carries weight: shelves, ladders, 
 
 ## Sizing and Layout Rules for Rope Wall Decor
 
-Rope reads as texture from a distance, so size it generously: a piece that is too small looks lost on the wall. A single piece should cover roughly two-thirds of the width of the furniture below it — above a 180 cm sofa, aim for about 120 cm of decor. Hang the centre of a single piece at about 145 cm from the floor, average eye level.
+Rope reads as texture from a distance, so size it generously: a piece that is too small looks lost on the wall. A single piece should cover roughly two-thirds of the width of the furniture below it — above a 180 cm sofa, aim for about 120 cm of decor. Hang the center of a single piece at about 145 cm from the floor, average eye level.
 
 For a group of rope pieces, keep gaps of 5 to 8 cm between them so they read as one arrangement. The [DIY wall decor guide](/blog/diy-wall-decor-guide) covers balancing a bold piece with quieter neighbours.
 
@@ -164,8 +165,8 @@ Use large adhesive hooks for pieces under 500 g: stick them to a clean, dry wall
 
 ### How much does DIY rope wall decor cost?
 
-Most projects cost £5 to £20. A sailor-knot wall art costs £5 to £8, a rope rainbow £9 to £14, and a rope-wrapped mirror £14 to £20. The dearest is the oversized coiled rope wall disc at £15 to £24.
+Most projects cost $6 to $25. A sailor-knot wall art costs $6 to $10, a rope rainbow $11 to $18, and a rope-wrapped mirror $18 to $25. The dearest is the oversized coiled rope wall disc at $20 to $30.
 
 ### Can beginners make rope wall decor?
 
-Yes. Start with the sailor-knot wall art, the rope rainbow or the knot garland swag: each needs only one or two knots, costs under £14, and takes two hours or less. Learn the overhand and square knots first, then try a coiled piece.
+Yes. Start with the sailor-knot wall art, the rope rainbow or the knot garland swag: each needs only one or two knots, costs under $18, and takes two hours or less. Learn the overhand and square knots first, then try a coiled piece.

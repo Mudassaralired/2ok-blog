@@ -1,7 +1,8 @@
 ---
 title: "DIY Concrete Wall Decor: 15 Bold Cast Pieces"
 date: "2026-11-16"
-excerpt: "DIY concrete wall decor: 15 bold cast pieces from £4 — 3D cement art, painted tiles and wall planters, with mix ratios, moulds, sealing and hanging guides."
+updated: "2026-11-20"
+excerpt: "DIY concrete wall decor: 15 bold cast pieces from $5 — 3D cement art, painted tiles and wall planters, with mix ratios, moulds, sealing and hanging guides."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-concrete-wall-decor/cover"
@@ -10,7 +11,7 @@ cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/
 Concrete sounds heavy and industrial, but cast in small pieces it is the boldest wall decor you can make at home: relief tiles, painted patterns and wall planters, all from one bag of cement.
 
 > **Key Takeaways**
-> - Every project costs £4 to £20, and most take under three hours of hands-on work.
+> - Every project costs $5 to $25, and most take under three hours of hands-on work.
 > - A standard mix is 1 part cement to 2 parts sand, with just enough water to reach thick porridge.
 > - Demould after 24 to 48 hours, but give pieces 28 days to cure.
 > - Weigh every piece, then use fixings rated for twice that weight.
@@ -35,71 +36,71 @@ Concrete sounds heavy and industrial, but cast in small pieces it is the boldest
 
 ### 1. 3D geometric relief tile
 
-Cast a square tile with raised triangles, waves or chevrons. Cost: £8 to £15. Time: 2 to 3 hours. Difficulty: moderate. A 20 × 20 × 2 cm tile weighs about 2 kg, so one solid wall plug holds it.
+Cast a square tile with raised triangles, waves or chevrons. Cost: $10 to $20. Time: 2 to 3 hours. Difficulty: moderate. A 20 × 20 × 2 cm tile weighs about 2 kg, so one solid wall plug holds it.
 
 ### 2. Concrete moon disc
 
-Pour a 30 cm disc in a cake tin and carve craters with a spoon while it is still soft. Cost: £10 to £18. Time: 2 to 3 hours. Difficulty: moderate. A 30 cm disc, 2 cm thick, weighs about 3.5 kg, so use two fixings and a French cleat.
+Pour a 30 cm disc in a cake tin and carve craters with a spoon while it is still soft. Cost: $12 to $22. Time: 2 to 3 hours. Difficulty: moderate. A 30 cm disc, 2 cm thick, weighs about 3.5 kg, so use two fixings and a French cleat.
 
 ### 3. Arched concrete wall panel
 
-Cast a tall arch in a plywood mould, sand the edges smooth, and hang it above a bed or lean it on a console. Cost: £12 to £20. Time: 3 to 4 hours. Difficulty: moderate. A 40 × 60 × 2 cm arch weighs about 5 kg, so fix it to a stud or two heavy-duty plugs. The [DIY wall decor guide](/blog/diy-wall-decor-guide) shows how a tall piece anchors a wall.
+Cast a tall arch in a plywood mould, sand the edges smooth, and hang it above a bed or lean it on a console. Cost: $15 to $25. Time: 3 to 4 hours. Difficulty: moderate. A 40 × 60 × 2 cm arch weighs about 5 kg, so fix it to a stud or two heavy-duty plugs. The [DIY wall decor guide](/blog/diy-wall-decor-guide) shows how a tall piece anchors a wall.
 
 ### 4. Leaf-imprint textured tiles
 
-Press leaves, ferns or lace into wet concrete, then peel them away once set for a fossil-like print. Cost: £5 to £10. Time: 2 hours. Difficulty: easy. A 20 × 20 cm tile weighs about 2 kg. Seal the print so dust does not settle into the lines.
+Press leaves, ferns or lace into wet concrete, then peel them away once set for a fossil-like print. Cost: $6 to $12. Time: 2 hours. Difficulty: easy. A 20 × 20 cm tile weighs about 2 kg. Seal the print so dust does not settle into the lines.
 
 ### 5. Concrete sunburst wall medallion
 
-Cast a round medallion with radiating ridges by pressing wooden dowels into the wet surface in a fan. Cost: £8 to £14. Time: 2 to 3 hours. Difficulty: moderate. A 35 cm medallion weighs about 4 kg, so use a French cleat, not a single hook. The [DIY plaster wall art](/blog/diy-plaster-wall-art) guide covers the same relief, lighter.
+Cast a round medallion with radiating ridges by pressing wooden dowels into the wet surface in a fan. Cost: $10 to $18. Time: 2 to 3 hours. Difficulty: moderate. A 35 cm medallion weighs about 4 kg, so use a French cleat, not a single hook. The [DIY plaster wall art](/blog/diy-plaster-wall-art) guide covers the same relief, lighter.
 
 ## Painted and Patterned Concrete Tiles
 
 ### 6. Mid-century painted concrete tiles
 
-Cast plain square tiles, then paint mid-century shapes — half-circles, arcs, boomerangs — in terracotta, sage and mustard. Cost: £6 to £12. Time: 2 hours + painting. Difficulty: easy. Four 15 × 15 cm tiles weigh about 2 kg together, so 2 kg adhesive strips hold the set.
+Cast plain square tiles, then paint mid-century shapes — half-circles, arcs, boomerangs — in terracotta, sage and mustard. Cost: $8 to $15. Time: 2 hours + painting. Difficulty: easy. Four 15 × 15 cm tiles weigh about 2 kg together, so 2 kg adhesive strips hold the set.
 
 ### 7. Terrazzo-chip concrete tiles
 
-Stir glass chips, broken tile or marble offcuts into the mix, then sand the face flat to reveal the speckle. Cost: £9 to £16. Time: 3 hours + sanding. Difficulty: moderate. A 20 × 20 × 2 cm tile weighs about 2 kg.
+Stir glass chips, broken tile or marble offcuts into the mix, then sand the face flat to reveal the speckle. Cost: $11 to $20. Time: 3 hours + sanding. Difficulty: moderate. A 20 × 20 × 2 cm tile weighs about 2 kg.
 
 ### 8. Checkerboard painted tile pair
 
-Cast two square tiles, paint one cream and one charcoal, and hang them as a checkerboard above a desk. Cost: £8 to £14. Time: 2 hours + painting. Difficulty: easy. The pair weighs about 4 kg, so use two screw hooks, one per tile.
+Cast two square tiles, paint one cream and one charcoal, and hang them as a checkerboard above a desk. Cost: $10 to $18. Time: 2 hours + painting. Difficulty: easy. The pair weighs about 4 kg, so use two screw hooks, one per tile.
 
 ## Concrete Wall Planters
 
 ### 9. Concrete wall pocket planter
 
-Cast a shallow pocket with an open top in a silicone mould, fix it with a hidden bracket, and fill it with a trailing pothos. Cost: £6 to £12. Time: 2 hours. Difficulty: easy. An empty 20 × 15 cm pocket weighs about 1.5 kg; filled, about 2.5 kg, so use a 5 kg wall plug.
+Cast a shallow pocket with an open top in a silicone mould, fix it with a hidden bracket, and fill it with a trailing pothos. Cost: $8 to $15. Time: 2 hours. Difficulty: easy. An empty 20 × 15 cm pocket weighs about 1.5 kg; filled, about 2.5 kg, so use a 5 kg wall plug.
 
 ### 10. Concrete wall planter trio
 
-Cast three matching pockets in different sizes and stagger them up a wall. Cost: £12 to £20. Time: 3 hours. Difficulty: moderate. The three weigh about 5 kg empty and 8 kg planted, so fix each to a stud or heavy-duty plug.
+Cast three matching pockets in different sizes and stagger them up a wall. Cost: $15 to $25. Time: 3 hours. Difficulty: moderate. The three weigh about 5 kg empty and 8 kg planted, so fix each to a stud or heavy-duty plug.
 
 ![Three concrete wall planters with trailing green plants hung at different heights on a sage-green bedroom wall above a pale oak bedside table](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-concrete-wall-decor/in-article-2)
 
 ### 11. Concrete wall bud vase
 
-Cast a slim cylinder with a narrow neck in a plastic bottle mould, then hang it on one screw hook with a loop of leather cord. Cost: £4 to £8. Time: 1 to 2 hours. Difficulty: easy. A 15 cm vase weighs under 1 kg filled, so one hook holds it. The [DIY wall planter ideas](/blog/diy-wall-planter-ideas) guide shows grouping small vases.
+Cast a slim cylinder with a narrow neck in a plastic bottle mould, then hang it on one screw hook with a loop of leather cord. Cost: $5 to $10. Time: 1 to 2 hours. Difficulty: easy. A 15 cm vase weighs under 1 kg filled, so one hook holds it. The [DIY wall planter ideas](/blog/diy-wall-planter-ideas) guide shows grouping small vases.
 
 ## Concrete Shelves, Hooks and Functional Pieces
 
 ### 12. Concrete floating shelf with timber brackets
 
-Cast a slim 40 × 15 cm slab, 2 cm thick, and rest it on two wooden brackets. Cost: £10 to £18. Time: 3 hours. Difficulty: moderate. The slab weighs about 3 kg and holds 2 kg of books, so each bracket needs two wall plugs. The [DIY floating shelves](/blog/diy-floating-shelves) guide covers bracket spacing.
+Cast a slim 40 × 15 cm slab, 2 cm thick, and rest it on two wooden brackets. Cost: $12 to $22. Time: 3 hours. Difficulty: moderate. The slab weighs about 3 kg and holds 2 kg of books, so each bracket needs two wall plugs. The [DIY floating shelves](/blog/diy-floating-shelves) guide covers bracket spacing.
 
 ### 13. Concrete wall hooks
 
-Cast small pyramid or dome hooks with a screw embedded in the back while wet, then hang keys or hats from them. Cost: £5 to £9. Time: 1 to 2 hours. Difficulty: easy. Each hook weighs about 0.5 kg and holds up to 2 kg, so one wall plug each is plenty.
+Cast small pyramid or dome hooks with a screw embedded in the back while wet, then hang keys or hats from them. Cost: $6 to $11. Time: 1 to 2 hours. Difficulty: easy. Each hook weighs about 0.5 kg and holds up to 2 kg, so one wall plug each is plenty.
 
 ### 14. Concrete tea-light wall sconce
 
-Cast a shallow bowl with a flat back in a silicone mould, fix it to the wall, and set a tea light inside. Cost: £6 to £11. Time: 2 hours. Difficulty: easy. A 15 cm sconce weighs about 1 kg, so a single wall plug holds it. Keep it from curtains and never leave it lit.
+Cast a shallow bowl with a flat back in a silicone mould, fix it to the wall, and set a tea light inside. Cost: $8 to $14. Time: 2 hours. Difficulty: easy. A 15 cm sconce weighs about 1 kg, so a single wall plug holds it. Keep it from curtains and never leave it lit.
 
 ### 15. Concrete wall clock
 
-Cast a 30 cm disc, drill the centre once cured, and fit a clock mechanism with long hands. Cost: £12 to £20. Time: 2 to 3 hours. Difficulty: moderate. The disc weighs about 3.5 kg, so use a French cleat or two screw hooks. Paint the face or leave it raw. The [industrial wall decor ideas](/blog/industrial-wall-decor-ideas) guide pairs it with metal and wood.
+Cast a 30 cm disc, drill the center once cured, and fit a clock mechanism with long hands. Cost: $15 to $25. Time: 2 to 3 hours. Difficulty: moderate. The disc weighs about 3.5 kg, so use a French cleat or two screw hooks. Paint the face or leave it raw. The [industrial wall decor ideas](/blog/industrial-wall-decor-ideas) guide pairs it with metal and wood.
 
 ## Getting the Mix Right
 
@@ -113,13 +114,13 @@ Aim for thick porridge: it should pour slowly and hold its shape, not run like s
 | Standard wall pieces | 1 : 2 : 0.5 | All-round mix |
 | Large or heavy pieces | 1 : 2 : 0.5 | Add mesh or fibres |
 
-One 25 kg bag of cement and two bags of sharp sand make roughly 15 to 20 small tiles, at about £12 to £15. Add fibres to large pieces — about £3 a bag — to stop hairline cracks.
+One 25 kg bag of cement and two bags of sharp sand make roughly 15 to 20 small tiles, at about $15 to $20. Add fibres to large pieces — about $4 a bag — to stop hairline cracks.
 
 ![Gloved hands pouring wet grey concrete mix from a bucket into a round silicone mould on a wooden workbench, with a filled mould and a trowel beside it](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-concrete-wall-decor/in-article-1)
 
 ## Choosing and Making Moulds
 
-The mould decides the finish, so choose it before you mix. Silicone moulds are the easiest to start with: they flex, release cleanly, and give a smooth face. Baking, soap or purpose-made concrete moulds cost £8 to £15 for four and last dozens of casts. Plastic tubs, cake tins and food containers cost almost nothing and suit round discs and planters, but they can warp and need release spray.
+The mould decides the finish, so choose it before you mix. Silicone moulds are the easiest to start with: they flex, release cleanly, and give a smooth face. Baking, soap or purpose-made concrete moulds cost $10 to $20 for four and last dozens of casts. Plastic tubs, cake tins and food containers cost almost nothing and suit round discs and planters, but they can warp and need release spray.
 
 Wood moulds suit arches, panels and shelves: build them from melamine board or varnished plywood, screwed together so they come apart for demoulding. Found objects make the most interesting pieces: a bottle becomes a bud vase, a bowl a sconce, a box a planter. Coat the inside with vegetable oil or mould-release spray before pouring — skip this and the piece can lock itself in.
 
@@ -129,7 +130,7 @@ Pour in two stages for a bubble-free face: fill halfway, tap the sides for a min
 
 Curing is not drying — it is the reaction that makes concrete strong, and it needs moisture and time. Leave the piece in its mould for 24 to 48 hours, cool and out of sun. Then demould gently, wrap it in a damp cloth or plastic bag, and keep it damp for at least seven days. Full strength takes 28 days, so do not hang a piece before then.
 
-Once cured, sand the edges with 80-grit then 120-grit paper, masked. Seal pieces for kitchens, bathrooms or outdoors: two thin coats of water-based sealer, about £8 to £12 a bottle, left a day between coats. Sealer stops stains and water soaking in, and deepens the grey slightly.
+Once cured, sand the edges with 80-grit then 120-grit paper, masked. Seal pieces for kitchens, bathrooms or outdoors: two thin coats of water-based sealer, about $10 to $15 a bottle, left a day between coats. Sealer stops stains and water soaking in, and deepens the grey slightly.
 
 ## Fixing Cracks and Touch-Ups
 
@@ -168,7 +169,7 @@ The third is hanging a piece before it has cured. A tile that feels rock-hard at
 
 ### How much does DIY concrete wall decor cost?
 
-Most cost £4 to £20: a bud vase £4 to £8, a tile set £6 to £12, a wall clock £12 to £20. One bag of cement plus sand covers roughly 15 to 20 small tiles.
+Most cost $5 to $25: a bud vase $5 to $10, a tile set $8 to $15, a wall clock $15 to $25. One bag of cement plus sand covers roughly 15 to 20 small tiles.
 
 ### Is concrete wall decor too heavy to hang safely?
 

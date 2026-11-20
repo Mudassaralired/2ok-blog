@@ -1,7 +1,8 @@
 ---
 title: "DIY Wall Planter Ideas: 12 Indoor Living Walls (With Watering & Weight Rules)"
 date: "2026-11-01"
-excerpt: "DIY wall planter ideas for indoors: 12 living-wall builds, weight limits, drainage and watering systems, wall protection, and the best plants for every light level."
+updated: "2026-11-20"
+excerpt: "DIY wall planter ideas for indoors: 12 living-wall builds, weight limits, drainage and watering systems, wall protection."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-wall-planter-ideas/cover"
@@ -88,51 +89,51 @@ Costs below are approximate and assume basic tools are already at home.
 
 ### 1. Picture rail and hanging pots
 
-Fix a sturdy rail to studs, then hang pots from S-hooks. Cost around £15 to £30. Time about 30 minutes. Best for beginners and renters.
+Fix a sturdy rail to studs, then hang pots from S-hooks. Cost around $20 to $40. Time about 30 minutes. Best for beginners and renters.
 
 ### 2. Pocket panel living wall
 
-Sewn felt pockets on a waterproof board, planted in rows. Cost around £40 to £90. Time two to three hours. Best for a full look on one feature wall.
+Sewn felt pockets on a waterproof board, planted in rows. Cost around $50 to $110. Time two to three hours. Best for a full look on one feature wall.
 
 ### 3. Wooden batten trellis
 
-Vertical battens with pots clipped or wired on and climbers trained upward. Cost around £25 to £50. Time one to two hours. Best for trailing plants and narrow walls.
+Vertical battens with pots clipped or wired on and climbers trained upward. Cost around $30 to $60. Time one to two hours. Best for trailing plants and narrow walls.
 
 ### 4. Reclaimed pallet planter
 
-A cleaned pallet with landscape fabric lining the slats to form troughs. Cost around £10 to £30. Time two hours. Best for rustic rooms and indoor herbs.
+A cleaned pallet with landscape fabric lining the slats to form troughs. Cost around $12 to $40. Time two hours. Best for rustic rooms and indoor herbs.
 
 ### 5. Leaning ladder planter
 
-A wooden ladder leaned against the wall, with pots on rungs or boards laid across them. Cost around £20 to £60. Time under one hour. Best for renters and corners.
+A wooden ladder leaned against the wall, with pots on rungs or boards laid across them. Cost around $25 to $75. Time under one hour. Best for renters and corners.
 
 ### 6. Picture frame living wall
 
-A deep frame fitted with mesh and moss, planted with small succulents or air plants. Cost around £25 to £45. Time one to two hours. Best for sunny walls.
+A deep frame fitted with mesh and moss, planted with small succulents or air plants. Cost around $30 to $55. Time one to two hours. Best for sunny walls.
 
 ### 7. Kitchen herb wall
 
-A rail with small labelled pots beside the prep area, planted with herbs you cook with weekly. Cost around £20 to £40. Time 45 minutes. Best for bright kitchens.
+A rail with small labelled pots beside the prep area, planted with herbs you cook with weekly. Cost around $25 to $50. Time 45 minutes. Best for bright kitchens.
 
 ### 8. Macrame cluster
 
-Several macrame hangers at staggered heights from a single hook. Cost around £20 to £50. Time 30 minutes plus hanging. Best for soft styling above a chair or bench.
+Several macrame hangers at staggered heights from a single hook. Cost around $25 to $60. Time 30 minutes plus hanging. Best for soft styling above a chair or bench.
 
 ### 9. Gutter trough planters
 
-Short lengths of capped rain gutter, fixed level and planted with herbs or trailing plants. Cost around £20 to £35. Time one hour. Best for long, narrow walls.
+Short lengths of capped rain gutter, fixed level and planted with herbs or trailing plants. Cost around $25 to $45. Time one hour. Best for long, narrow walls.
 
 ### 10. Pegboard herb and plant wall
 
-A pegboard panel with hooks, pots and baskets around jars or tools. Cost around £30 to £60. Time one to two hours. Best for kitchens, studios and craft rooms.
+A pegboard panel with hooks, pots and baskets around jars or tools. Cost around $40 to $75. Time one to two hours. Best for kitchens, studios and craft rooms.
 
 ### 11. Floating shelf plant ledge
 
-One or two floating shelves styled with pots and trailing stems. Cost around £30 to £70. Time one hour. Best for a tidy look that also holds books. See the [DIY floating shelves](/blog/diy-floating-shelves/) guide for fixing and load advice before loading shelves with wet pots.
+One or two floating shelves styled with pots and trailing stems. Cost around $40 to $90. Time one hour. Best for a tidy look that also holds books. See the [DIY floating shelves](/blog/diy-floating-shelves/) guide for fixing and load advice before loading shelves with wet pots.
 
 ### 12. Modular grid panel
 
-A metal grid panel with clip-on pots that can be moved as plants grow. Cost around £35 to £80. Time one hour. Best for changing displays.
+A metal grid panel with clip-on pots that can be moved as plants grow. Cost around $45 to $100. Time one hour. Best for changing displays.
 
 ![Photorealistic kitchen herb wall with small terracotta pots hanging from a wooden beam beside a bright window, basil mint and rosemary plants](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-wall-planter-ideas/in-article-2)
 

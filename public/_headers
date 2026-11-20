@@ -1,4 +1,27 @@
 # Cloudflare Pages headers.
-# Long-cache immutable hashed Next.js assets; HTML stays short-lived.
+# Long-cache immutable hashed Next.js assets; static brand icons cached 30 days;
+# HTML stays short-lived for instant deploys.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
 /_next/static/*
   Cache-Control: public, max-age=31536000, immutable
+
+/favicon.ico
+  Cache-Control: public, max-age=2592000
+
+/favicon.svg
+  Cache-Control: public, max-age=2592000
+
+/logo-mark.svg
+  Cache-Control: public, max-age=2592000
+
+/icon-*.png
+  Cache-Control: public, max-age=2592000
+
+/apple-touch-icon.png
+  Cache-Control: public, max-age=2592000
+
+/site.webmanifest
+  Cache-Control: public, max-age=86400

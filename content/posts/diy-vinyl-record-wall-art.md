@@ -1,7 +1,8 @@
 ---
 title: "DIY Vinyl Record Wall Art: 15 Ideas"
 date: "2026-11-18"
-excerpt: "DIY vinyl record wall art: 15 projects from £3 — painted records, melted clocks, sleeve grids and LED displays, with sealing and hanging rules."
+updated: "2026-11-20"
+excerpt: "DIY vinyl record wall art: 15 projects from $4 — painted records, melted clocks, sleeve grids and LED displays, with sealing and hanging rules."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/diy-vinyl-record-wall-art/cover"
@@ -10,7 +11,7 @@ cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/
 DIY vinyl record wall art turns scratched records nobody can play any more into the most personal thing on a wall. These 15 projects are all wall-only, each with a real cost, time and difficulty rating, plus the paint, heating and hanging rules short listicles never give you.
 
 > **Key Takeaways**
-> - Every project here costs £3 to £24, and most take under three hours.
+> - Every project here costs $4 to $30, and most take under three hours.
 > - Use scratched, warped or unplayable records only — never a playable or valuable pressing.
 > - Clean, prime and seal painted vinyl or the paint will peel off the smooth surface.
 > - A bare 12-inch record weighs about 140 g, so adhesive strips hold most pieces.
@@ -35,79 +36,79 @@ DIY vinyl record wall art turns scratched records nobody can play any more into 
 
 ### 1. Hand-painted floral record
 
-Paint a loose wreath of flowers and leaves around the label with acrylic paint and a fine brush, then seal it with two light coats of clear varnish. Cost: £4 to £8. Time: 1 to 2 hours. Difficulty: easy. A painted record weighs about 140 g, so one large adhesive strip holds it.
+Paint a loose wreath of flowers and leaves around the label with acrylic paint and a fine brush, then seal it with two light coats of clear varnish. Cost: $5 to $10. Time: 1 to 2 hours. Difficulty: easy. A painted record weighs about 140 g, so one large adhesive strip holds it.
 
 ### 2. Bold abstract record
 
-Cover the record in sweeping arcs, blocks and dots in three colours, leaving some black showing for texture. Cost: £4 to £7. Time: 1 hour. Difficulty: easy. The record weighs about 140 g, so one adhesive strip holds it. Work in thin layers — thick paint cracks as the record flexes.
+Cover the record in sweeping arcs, blocks and dots in three colors, leaving some black showing for texture. Cost: $5 to $9. Time: 1 hour. Difficulty: easy. The record weighs about 140 g, so one adhesive strip holds it. Work in thin layers — thick paint cracks as the record flexes.
 
 ![Hands painting a floral design onto a black vinyl record on a wooden craft table, with pots of acrylic paint in terracotta, mustard and sage green](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-vinyl-record-wall-art/in-article-1)
 
 ### 3. Checkerboard record
 
-Paint alternating cream and terracotta squares, using masking tape for sharp lines, then seal it so the edges stay crisp. Cost: £4 to £7. Time: 1 to 2 hours. Difficulty: easy. A checkerboard record weighs about 140 g, so one adhesive strip holds it.
+Paint alternating cream and terracotta squares, using masking tape for sharp lines, then seal it so the edges stay crisp. Cost: $5 to $9. Time: 1 to 2 hours. Difficulty: easy. A checkerboard record weighs about 140 g, so one adhesive strip holds it.
 
 ### 4. Moon and stars record
 
-Paint a crescent moon and scattered stars in cream and gold on the black vinyl, leaving the centre label visible as a planet. Cost: £3 to £6. Time: 1 hour. Difficulty: easy. The record weighs about 140 g, so one adhesive strip holds it.
+Paint a crescent moon and scattered stars in cream and gold on the black vinyl, leaving the center label visible as a planet. Cost: $4 to $8. Time: 1 hour. Difficulty: easy. The record weighs about 140 g, so one adhesive strip holds it.
 
 ### 5. Four-record split mural
 
-Paint one big design — a sunset or a wave — across four records, then hang them in a row with 5 cm gaps so the picture reads as one piece. Cost: £8 to £14. Time: 3 to 4 hours. Difficulty: moderate. Four records weigh about 560 g, so use one adhesive strip per record. The [DIY wall decor ideas](/blog/diy-wall-decor-ideas) pillar shows how one handmade piece balances a pale wall.
+Paint one big design — a sunset or a wave — across four records, then hang them in a row with 5 cm gaps so the picture reads as one piece. Cost: $10 to $18. Time: 3 to 4 hours. Difficulty: moderate. Four records weigh about 560 g, so use one adhesive strip per record. The [DIY wall decor ideas](/blog/diy-wall-decor-ideas) pillar shows how one handmade piece balances a pale wall.
 
 ## Heated and Shaped Vinyl Record Wall Art
 
 ### 6. Melted vinyl record wall clock
 
-Heat a scratched record in a low oven until it softens, drape it over a bowl to set a wave, then fit a quartz clock kit through the centre hole. Cost: £7 to £12. Time: 1 to 2 hours. Difficulty: moderate. The clock weighs about 200 g, so one screw hook holds it. The [DIY wall clock decor ideas](/blog/diy-wall-clock-decor-ideas) guide covers choosing hands to suit the record.
+Heat a scratched record in a low oven until it softens, drape it over a bowl to set a wave, then fit a quartz clock kit through the center hole. Cost: $9 to $15. Time: 1 to 2 hours. Difficulty: moderate. The clock weighs about 200 g, so one screw hook holds it. The [DIY wall clock decor ideas](/blog/diy-wall-clock-decor-ideas) guide covers choosing hands to suit the record.
 
 ### 7. Draped wavy record sculpture
 
-Heat a record until it is pliable, fold one edge over a rolling pin, and let it cool into a frozen wave. Cost: £3 to £5. Time: 30 minutes. Difficulty: easy. A draped record weighs about 140 g, so one adhesive strip holds it. Hang three at staggered heights.
+Heat a record until it is pliable, fold one edge over a rolling pin, and let it cool into a frozen wave. Cost: $4 to $6. Time: 30 minutes. Difficulty: easy. A draped record weighs about 140 g, so one adhesive strip holds it. Hang three at staggered heights.
 
 ### 8. Vinyl record bowl wall planter
 
-Heat a record, press it into a wide bowl, let it set, then mount the bowl on the wall with a screw hook and tuck a small trailing plant inside. Cost: £6 to £11. Time: 1 hour. Difficulty: moderate. A bowl with a plant weighs about 400 g, so use one screw hook into a wall plug.
+Heat a record, press it into a wide bowl, let it set, then mount the bowl on the wall with a screw hook and tuck a small trailing plant inside. Cost: $8 to $14. Time: 1 hour. Difficulty: moderate. A bowl with a plant weighs about 400 g, so use one screw hook into a wall plug.
 
 ## Framed, Hung and Displayed Vinyl Records
 
 ### 9. Classic 3×3 painted record grid
 
-Paint nine records in one limited palette — three colours at most — and hang them in a 3×3 grid with 5 cm gaps. Cost: £12 to £20. Time: 4 to 5 hours. Difficulty: moderate. Nine records weigh about 1.3 kg, so use one adhesive strip per record. The [gallery wall layouts](/blog/gallery-wall-layouts) guide shows how to space a grid evenly.
+Paint nine records in one limited palette — three colors at most — and hang them in a 3×3 grid with 5 cm gaps. Cost: $15 to $25. Time: 4 to 5 hours. Difficulty: moderate. Nine records weigh about 1.3 kg, so use one adhesive strip per record. The [gallery wall layouts](/blog/gallery-wall-layouts) guide shows how to space a grid evenly.
 
 ### 10. Framed record sleeve display
 
-Mount a favourite album sleeve in a 12×12 inch frame — sleeves fit without cropping — and hang four in a 2×2 grid. Cost: £16 to £24. Time: 1 hour. Difficulty: easy. Each framed sleeve weighs about 800 g, so use one screw hook per frame. The [DIY book page wall art](/blog/diy-book-page-wall-art) guide covers the same framing method for flat pieces.
+Mount a favorite album sleeve in a 12×12 inch frame — sleeves fit without cropping — and hang four in a 2×2 grid. Cost: $20 to $30. Time: 1 hour. Difficulty: easy. Each framed sleeve weighs about 800 g, so use one screw hook per frame. The [DIY book page wall art](/blog/diy-book-page-wall-art) guide covers the same framing method for flat pieces.
 
 ![A handmade vinyl record wall clock with a melted wavy edge and a painted sunburst design hanging on a cream wall above a wooden side table with a potted plant](https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto,w_1200/2ok-blog/diy-vinyl-record-wall-art/in-article-2)
 
-### 11. Rainbow label-colour wall
+### 11. Rainbow label-color wall
 
-Sort records by the colour of their centre labels and hang them in rainbow order, from red through violet, in a single straight row. Cost: £3 to £6. Time: 1 hour. Difficulty: easy. Each record weighs about 140 g, so one adhesive strip per record holds the row — about ten records make a rainbow.
+Sort records by the color of their center labels and hang them in rainbow order, from red through violet, in a single straight row. Cost: $4 to $8. Time: 1 hour. Difficulty: easy. Each record weighs about 140 g, so one adhesive strip per record holds the row — about ten records make a rainbow.
 
 ### 12. Backlit LED record display
 
-Fix a peel-and-stick LED strip around the back rim of a mounted record so a warm glow washes the wall behind it. Cost: £8 to £14. Time: 1 to 2 hours. Difficulty: easy. The record and strip together weigh about 200 g, so one adhesive strip holds it. Choose warm white LEDs — cool white makes black vinyl look grey.
+Fix a peel-and-stick LED strip around the back rim of a mounted record so a warm glow washes the wall behind it. Cost: $10 to $18. Time: 1 to 2 hours. Difficulty: easy. The record and strip together weigh about 200 g, so one adhesive strip holds it. Choose warm white LEDs — cool white makes black vinyl look grey.
 
 ## Functional Vinyl Record Wall Art
 
 ### 13. Record shelf with picture ledge
 
-Fix a narrow wooden picture ledge to the wall and stand five or six records on it, sleeves facing out, so you can swap the front record. Cost: £9 to £16. Time: 1 to 2 hours. Difficulty: moderate. The ledge needs two screw hooks, because a loaded ledge weighs about 1.5 kg.
+Fix a narrow wooden picture ledge to the wall and stand five or six records on it, sleeves facing out, so you can swap the front record. Cost: $11 to $20. Time: 1 to 2 hours. Difficulty: moderate. The ledge needs two screw hooks, because a loaded ledge weighs about 1.5 kg.
 
 ### 14. "Now spinning" listening-station wall
 
-Hang the sleeve of the record currently on your turntable above the player, with two or three favourites beside it, and swap the centre sleeve whenever the record changes. Cost: £5 to £10. Time: 1 hour. Difficulty: easy. Each sleeve weighs under 500 g, so adhesive strips hold them.
+Hang the sleeve of the record currently on your turntable above the player, with two or three favorites beside it, and swap the center sleeve whenever the record changes. Cost: $6 to $12. Time: 1 hour. Difficulty: easy. Each sleeve weighs under 500 g, so adhesive strips hold them.
 
 ### 15. Vinyl record jewellery and key holder
 
-Heat a record just enough to bend the bottom edge into a shallow lip, mount it, and hang necklaces and keys from small hooks in the lip. Cost: £5 to £9. Time: 1 hour. Difficulty: moderate. The record and hooks weigh about 200 g, so one screw hook holds it. Keep the load to five or six pieces at most.
+Heat a record just enough to bend the bottom edge into a shallow lip, mount it, and hang necklaces and keys from small hooks in the lip. Cost: $6 to $11. Time: 1 hour. Difficulty: moderate. The record and hooks weigh about 200 g, so one screw hook holds it. Keep the load to five or six pieces at most.
 
 ## Choosing Your Records
 
-First rule: never cut, paint or heat a record you can still play, and never touch a valuable pressing. Use records that are scratched, warped or cracked, bought for £1 to £3 each at charity shops, car boot sales and record fairs.
+First rule: never cut, paint or heat a record you can still play, and never touch a valuable pressing. Use records that are scratched, warped or cracked, bought for $1 to $4 each at charity shops, car boot sales and record fairs.
 
-A standard 12-inch LP is 30 cm across and weighs about 140 g; a 7-inch single is 18 cm across and weighs about 40 g. LPs suit wall art best because their size reads from across the room; singles work better in clusters and small spaces. Coloured vinyl and picture discs paint poorly — save those for display.
+A standard 12-inch LP is 30 cm across and weighs about 140 g; a 7-inch single is 18 cm across and weighs about 40 g. LPs suit wall art best because their size reads from across the room; singles work better in clusters and small spaces. Colored vinyl and picture discs paint poorly — save those for display.
 
 ## Cleaning, Priming and Sealing Vinyl
 
@@ -123,7 +124,7 @@ Never heat a record in a microwave: it warps unevenly, can spark at the label, a
 
 ## Sizing and Layout
 
-A record is 30 cm across, so size the display generously: a piece that is too small looks lost. A single record suits a narrow wall or a shelf end, while a 3×3 grid covers about 100 cm square. A single piece should cover roughly two-thirds of the furniture below it — above a 180 cm sofa, aim for 120 cm of art. Hang the centre at about 145 cm, average eye level, keeping 15 cm clear above a sofa or headboard.
+A record is 30 cm across, so size the display generously: a piece that is too small looks lost. A single record suits a narrow wall or a shelf end, while a 3×3 grid covers about 100 cm square. A single piece should cover roughly two-thirds of the furniture below it — above a 180 cm sofa, aim for 120 cm of art. Hang the center at about 145 cm, average eye level, keeping 15 cm clear above a sofa or headboard.
 
 For a grid, plan the layout on the floor first, then transfer it to the wall. Keep gaps of 5 to 8 cm — tighter gaps look crowded, wider gaps break the grid. The [DIY wall decor guide](/blog/diy-wall-decor-guide) shows how to lay out a repeating pattern.
 
@@ -155,11 +156,11 @@ The third is overheating the vinyl: a record left too long warps past saving, an
 
 ### How much does DIY vinyl record wall art cost?
 
-Most projects cost £3 to £24: a moon and stars record £3 to £6, a floral record £4 to £8, and a framed sleeve display £16 to £24.
+Most projects cost $4 to $30: a moon and stars record $4 to $8, a floral record $5 to $10, and a framed sleeve display $20 to $30.
 
 ### Can I use any old vinyl record for wall art?
 
-No — use only scratched, warped or unplayable records, and never a playable or valuable pressing. Buy damaged records for £1 to £3 each at charity shops and record fairs, and check anything you are unsure about first.
+No — use only scratched, warped or unplayable records, and never a playable or valuable pressing. Buy damaged records for $1 to $4 each at charity shops and record fairs, and check anything you are unsure about first.
 
 ### What paint sticks to vinyl records?
 

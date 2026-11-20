@@ -1,7 +1,8 @@
 ---
 title: "Staircase Wall Decor Ideas: 12 Looks & the Hanging Math That Makes Them Work (2026 Guide)"
 date: "2026-10-31"
-excerpt: "Staircase wall decor ideas that follow the stairs: hanging-height math, paper-template method, safety rules and 12 looks from gallery walls to landing features."
+updated: "2026-11-20"
+excerpt: "Staircase wall decor ideas that follow the stairs: hanging-height math, paper-template method, safety rules and 12 looks from gallery walls to landing."
 category: "DIY Projects"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/staircase-wall-decor-ideas/cover"
