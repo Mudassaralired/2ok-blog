@@ -416,6 +416,14 @@ const COVER_ALTS: Record<string, string> = {
     "Cluster of natural sanded wood slices arranged as organic wall art above a wooden console in a warm living room",
   "picture-ledge-wall-decor":
     "Two slim oak picture ledges layered with overlapping framed botanical prints and ceramics above a neutral sofa",
+  "diy-paper-quilling-wall-art":
+    "A quilled paper mandala in terracotta, cream, sage green and gold inside a dark wooden shadow box frame above a light wooden console table with a vase of dried pampas grass",
+  "diy-decoupage-wall-art":
+    "A decoupage wall art canvas with layered vintage botanical paper cutouts hanging above a terracotta sofa in a warm living room",
+  "diy-abstract-wall-art":
+    "A large bold abstract canvas in terracotta, sage and ochre hanging above a cream linen sofa in a bright living room",
+  "christmas-lights-decor-ideas":
+    "A two-story house glowing with warm white Christmas lights along the roofline, windows and porch at dusk, with a lit wreath on the front door and snow on the lawn",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
