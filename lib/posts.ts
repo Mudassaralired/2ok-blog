@@ -424,6 +424,14 @@ const COVER_ALTS: Record<string, string> = {
     "A large bold abstract canvas in terracotta, sage and ochre hanging above a cream linen sofa in a bright living room",
   "christmas-lights-decor-ideas":
     "A two-story house glowing with warm white Christmas lights along the roofline, windows and porch at dusk, with a lit wreath on the front door and snow on the lawn",
+  "diy-crochet-wall-hanging":
+    "Terracotta and cream crochet wall hanging with long tassels above a beige sofa in a sunlit living room",
+  "diy-rattan-wall-decor":
+    "Rattan sunburst mirror with woven basket gallery wall above a cream sofa in warm sunlight",
+  "diy-collage-wall-art":
+    "Framed mixed-media collage of torn book pages, fabric and dried flowers above a cream sofa",
+  "christmas-decor-ideas-for-small-spaces":
+    "Slim pencil Christmas tree with warm lights and terracotta ornaments beside a small cream sofa",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
