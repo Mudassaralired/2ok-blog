@@ -23,7 +23,7 @@ export default function PrivacyPolicyPage() {
       <h1 className="mt-3 font-display text-4xl font-bold tracking-tight md:text-5xl">
         Privacy Policy
       </h1>
-      <p className="mt-4 text-sm text-stone-warm">Last updated: October 16, 2026</p>
+      <p className="mt-4 text-sm text-stone-warm">Last updated: November 22, 2026</p>
       <div className="article-body mt-8">
         <p>
           2ok Home (&quot;we&quot;, &quot;our&quot;) respects your privacy.
@@ -37,20 +37,46 @@ export default function PrivacyPolicyPage() {
             email, we receive your name, email address, and message content.
           </li>
           <li>
-            <strong>Automatically collected data:</strong> like most websites,
-            our hosting provider may log basic technical data (pages visited,
-            browser type, approximate location) for security and performance.
+            <strong>Analytics and technical data:</strong> we use Google
+            Analytics 4 and Cloudflare Web Analytics to understand how readers
+            find and use our pages (such as pages visited, approximate region,
+            device type, and loading performance). These tools may set cookies
+            or collect anonymized technical signals.
           </li>
         </ul>
         <h2>Cookies and advertising</h2>
         <p>
-          We may use cookies for basic site functionality and, in the future,
-          for advertising. Third-party vendors, including Google, may use
-          cookies (such as the DoubleClick cookie) to serve ads based on your
-          visits to this and other sites. You can opt out of personalized
-          advertising by visiting Google&apos;s{" "}
-          <a href="https://www.google.com/settings/ads" rel="nofollow">
-            Ads Settings
+          We use cookies for basic site functionality, analytics, and
+          advertising. Third-party vendors, including Google, use cookies to
+          serve ads based on a visitor&apos;s prior visits to 2ok.lol and other
+          websites. Google&apos;s use of advertising cookies enables it and its
+          partners to serve ads to you based on your visit to this site and/or
+          other sites on the Internet.
+        </p>
+        <p>
+          You can learn more about{" "}
+          <a
+            href="https://policies.google.com/technologies/partner-sites"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            how Google uses data when you use our partners&apos; sites or apps
+          </a>
+          . You may opt out of personalized advertising by visiting{" "}
+          <a
+            href="https://adssettings.google.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Google Ads Settings
+          </a>{" "}
+          or{" "}
+          <a
+            href="https://www.aboutads.info/choices/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            aboutads.info
           </a>
           . You can also disable cookies in your browser settings, though some
           site features may not work as intended.
