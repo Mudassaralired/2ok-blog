@@ -432,6 +432,14 @@ const COVER_ALTS: Record<string, string> = {
     "Framed mixed-media collage of torn book pages, fabric and dried flowers above a cream sofa",
   "christmas-decor-ideas-for-small-spaces":
     "Slim pencil Christmas tree with warm lights and terracotta ornaments beside a small cream sofa",
+  "diy-bottle-cap-wall-art":
+    "Colourful bottle cap mosaic mandala on a warm cream wall above a wooden console table",
+  "diy-cd-wall-art":
+    "Iridescent CD mosaic wall panel catching the light on a pale blush wall above a cream sofa",
+  "diy-popsicle-stick-wall-art":
+    "Geometric popsicle stick hexagon wall art in warm wood tones on a white wall above a reading nook",
+  "minimalist-christmas-decor":
+    "Minimalist Christmas living room with a slim tree, warm white lights, wooden ornaments and a paper star in the window",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
