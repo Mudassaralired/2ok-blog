@@ -98,6 +98,10 @@ export default function RootLayout({
       className={`${display.variable} ${bodyFont.variable} h-full antialiased`}
     >
       <head>
+        <meta
+          name="google-adsense-account"
+          content="ca-pub-8466226004302517"
+        />
         <link
           rel="preconnect"
           href="https://res.cloudinary.com"
