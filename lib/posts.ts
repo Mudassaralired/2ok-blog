@@ -440,6 +440,14 @@ const COVER_ALTS: Record<string, string> = {
     "Geometric popsicle stick hexagon wall art in warm wood tones on a white wall above a reading nook",
   "minimalist-christmas-decor":
     "Minimalist Christmas living room with a slim tree, warm white lights, wooden ornaments and a paper star in the window",
+  "diy-paper-flower-wall-art":
+    "Giant blush pink and cream paper flower wall panel above a beige sofa in a bright living room",
+  "diy-wood-wall-art":
+    "Geometric wood slat wall art in mixed wood tones above a cream sofa beside an olive tree",
+  "diy-wall-planters":
+    "Wall planters with trailing pothos in white pots and wooden boxes above a cream sofa",
+  "diy-christmas-wall-art":
+    "Gallery wall of six framed Christmas prints with snowy trees and red reindeer above a beige sofa beside a lit tree",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
