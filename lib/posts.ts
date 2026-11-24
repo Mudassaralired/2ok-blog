@@ -448,6 +448,14 @@ const COVER_ALTS: Record<string, string> = {
     "Wall planters with trailing pothos in white pots and wooden boxes above a cream sofa",
   "diy-christmas-wall-art":
     "Gallery wall of six framed Christmas prints with snowy trees and red reindeer above a beige sofa beside a lit tree",
+  "diy-button-wall-art":
+    "A framed button tree wall art with colourful buttons above a grey sofa in a bright living room",
+  "diy-map-wall-art":
+    "A large framed vintage world map above a beige sofa with terracotta cushions in a sunlit living room",
+  "diy-twig-wall-art":
+    "A large round twig and twine wall art piece above a wooden console in a bright living room",
+  "diy-christmas-pinecone-decor":
+    "A stone fireplace mantel with a frosted pinecone garland and candles beside a Christmas tree with pinecone ornaments",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
