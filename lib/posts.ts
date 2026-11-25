@@ -456,6 +456,14 @@ const COVER_ALTS: Record<string, string> = {
     "A large round twig and twine wall art piece above a wooden console in a bright living room",
   "diy-christmas-pinecone-decor":
     "A stone fireplace mantel with a frosted pinecone garland and candles beside a Christmas tree with pinecone ornaments",
+  "diy-paper-mache-wall-art":
+    "Large terracotta and cream paper mache sunburst wall art above a light linen sofa in a bright white living room",
+  "diy-copper-pipe-wall-decor":
+    "Geometric copper pipe wall shelf with trailing plants on a dark green dining-room wall above a warm wood table",
+  "diy-bamboo-wall-decor":
+    "Bamboo pole sunburst mirror above a rattan headboard on a warm beige bedroom wall in soft morning light",
+  "christmas-ribbon-decor-ideas":
+    "Cosy Christmas living room with a large tree dressed in cascading red velvet ribbon, warm white lights, cream sofa and glowing stone fireplace",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
