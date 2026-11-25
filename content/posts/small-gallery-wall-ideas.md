@@ -2,7 +2,7 @@
 title: "Small-Space Gallery Wall Ideas That Don't Overwhelm"
 date: "2026-10-19"
 excerpt: "7 small-space gallery layouts that stay airy: frame-size rules, color tricks, and the mistakes that make small rooms feel cluttered."
-category: "DIY Projects"
+category: "Small Spaces"
 cluster: "wall-decor"
 cover: "https://res.cloudinary.com/zhzxqahv/image/upload/f_auto,q_auto/2ok-blog/small-gallery-wall-ideas/cover"
 ---
