@@ -464,6 +464,30 @@ const COVER_ALTS: Record<string, string> = {
     "Bamboo pole sunburst mirror above a rattan headboard on a warm beige bedroom wall in soft morning light",
   "christmas-ribbon-decor-ideas":
     "Cosy Christmas living room with a large tree dressed in cascading red velvet ribbon, warm white lights, cream sofa and glowing stone fireplace",
+  "diy-leather-wall-decor":
+    "Cognac-tan leather wall hanging with fringe on a wooden dowel above a linen sofa in a sunlit living room",
+  "diy-denim-wall-decor":
+    "Denim patchwork wall hanging with frayed denim feathers above a wooden craft desk with thread spools and scissors",
+  "diy-glass-bottle-wall-decor":
+    "Six painted glass bottles in amber, green and cobalt blue mounted as wall vases with dried flowers on a sage-green wall above a wooden dining table in a sunlit kitchen",
+  "diy-christmas-table-runner-ideas":
+    "Red and green plaid Christmas table runner down the centre of a wooden dining table set with candles, evergreen garland, pinecones and red berries",
+  "diy-burlap-wall-decor":
+    "Natural burlap wall hanging with fringed edge on a wooden dowel above a linen sofa in a sunlit living room",
+  "diy-pebble-wall-decor":
+    "Framed pebble tree wall art with grey and cream river stones and a twig trunk in a wooden shadow-box frame above a beige sofa",
+  "diy-jute-wall-decor":
+    "Woven jute wall hanging with long fringe on a wooden dowel above a rattan armchair in a sunlit boho living room",
+  "christmas-napkin-folding-ideas":
+    "Green cloth napkins folded into standing Christmas trees on white plates at a candlelit Christmas dinner table with red and gold decorations",
+  "diy-cardboard-wall-decor":
+    "Layered geometric cardboard wall panels in kraft and cream on a terracotta living room wall above a cream sofa with terracotta cushions",
+  "diy-dreamcatcher-wall-decor":
+    "Large white boho dreamcatcher with a woven web, macrame fringe and cream feathers hanging above a bed with terracotta bedding against a warm terracotta wall",
+  "diy-tassel-wall-decor":
+    "Cream, terracotta and dusty pink yarn tassels hanging in staggered rows from a driftwood branch on a terracotta wall above a cream linen sofa",
+  "diy-christmas-gift-tags":
+    "Flat lay of handmade Christmas gift tags — stamped kraft tags, white clay tags, wood slice tags and dried orange slice tags — arranged on cream linen with twine, cinnamon sticks and pine sprigs",
 };
 
 export function coverAlt(slug: string, fallback: string): string {
